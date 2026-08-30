@@ -1,0 +1,357 @@
+---
+title: "В Воронеже пройдет Форум социальных инициатив"
+date: 2021-02-10
+description: "&#160; 15 &#8211; 16 ноября 2013 года &#160;в Воронеже пройдет Форум социальных инициатив. Инициативу&#160; ФРОС &#171;Region PR&#187; &#160;по проведению Форума уже поддержал ..."
+aliases:
+  - "/2021/02/v-voroneze-projdet-forum-socialnyh-iniciativ.html"
+url: "/v-voroneze-projdet-forum-socialnyh-iniciativ/"
+---
+
+**15 – 16 ноября 2013 года** в Воронеже пройдет Форум социальных инициатив. Инициативу [ФРОС «Region PR»](http://belaa-kniga.blagorussia.ru/imena-voroneza-zurnalistika/fond-razvitia-obsestvennyh-svazej-region-pr) по проведению Форума уже поддержал ряд некоммерческих организаций, представители которых вошли в состав Оргкомитета Премии общественного признания «Спасибо».
+
+Участниками Форума станут представители органов власти, некоммерческих организаций, предпринимательского сообщества, средств массовой информации и общественности.
+
+На **15 ноября** запланировано проведение Дня Открытых презентаций проектов, вошедших в шорт-лист [Премии общественного признания «Спасибо»](http://belaa-kniga.blagorussia.ru/imena/premia-obsestvennogo-priznania-spasibo).
+
+**16 ноября** планируется провести ряд мастер-классов и лекций, круглых столов и панельных дискуссий.
+
+Форум завершится церемонией подведения итогов и награждения лауреатов Премии общественного признания «Спасибо».
+
+[Премия Общественного признания «Спасибо»](http://belaa-kniga.blagorussia.ru/imena/premia-obsestvennogo-priznania-spasibo) будет присуждаться за вклад представителей некоммерческих организаций, предпринимательского сообщества, средств массовой информации и общественности в реализацию социально значимых проектов на территории города Воронежа. Заявка и описание конкурсного проекта представляется в Оргкомитет премии с 1 августа по **25 октября 2013 года**.
+
+***Справка***
+
+Официальные номинации Премии Общественного признания «Спасибо» для юридических лиц:
+
+* **«От всей души»** (для участников благотворительной деятельности на территории города Воронежа) - за значимый вклад в развитие благотворительной деятельности
+* **«По зову сердца»** (для волонтерских организаций и объединений) - за значимый вклад в развитие волонтерского (добровольческого) движения
+* **«Территория равных возможностей»** - за лучший проект для лиц с ограниченными возможностями здоровья
+* **«За Великую Победу!»** - за лучший социальный проект для ветеранов Великой Отечественной войны
+* **«Новое поколение»** (для организаций, работающих с молодежью) - за молодежный социальный проект
+* **«Детство с улыбкой»** (для организаций, работающих с детьми) - за детский социальный проект
+* **«Зеленая сказка»**(для организаций, работающих с детьми) - за лучший детский экологический проект
+* **«Здоровое общество»** - за лучший социальный проект в сфере здравоохранения, пропаганды здорового образа жизни
+* **«Знание – сила»** (для организаций сферы образования) - за лучший образовательный проект
+* **«Слово добра»** (для редакций СМИ) - за популяризацию благотворительной деятельности, волонтерского движения
+* **«Культура ЭКО»** (для редакций СМИ) - за распространение актуальной и достоверной информации о состоянии окружающей среды и формирование экологически ориентированного сознания
+* **«Зеленое будущее»** (для представителей предпринимательского сообщества) - за лучший реализованный экологический проект
+* **«Социально ответственен»** (для представителей предпринимательского сообщества) - за лучший реализованный социальный проект
+
+Официальные номинации Премии Общественного признания «Спасибо» для физических лиц:
+
+* **«Во благо»** - за личный вклад в развитие благотворительной деятельности
+* **«Территория равных возможностей»** - за активную деятельность в сферы работы с лицами с ограниченными возможностями здоровья
+* **«Волонтер»** - за личный вклад в развитие волонтерского (добровольческого) движения
+* **«Социально ответственен»** (для представителей предпринимательского сообщества) - за личный вклад в развитие социальной сферы для представителей предпринимательского сообщества
+* **«Во имя здоровья»** - за активную и профессиональную деятельность в сфере здравоохранения
+* **«Пример для молодежи»**- за личный вклад в реализацию молодежного проекта
+* **«Во имя детства»** - за личный вклад в реализацию детского проекта
+* **«Призвание – Педагог»** - за достижения в области педагогики и воспитании подрастающего поколения
+* **«В начале было слово»** - для представителей журналистского сообщества, за личный вклад в популяризацию благотворительной деятельности
+* **«Эко-инициатива»** - для участников экологической деятельности на территории города Воронежа, за значимый вклад в развитие экологических инициатив
+* **«Арт-спектр»** - за реализацию творческого проекта или проекта в сфере историко-культурного просвещения; за вклад в развитие культурной среды региона.
+
+**Подробности можно уточнить в****[ФРОС «Region PR»](http://belaa-kniga.blagorussia.ru/imena-voroneza-zurnalistika/fond-razvitia-obsestvennyh-svazej-region-pr)****, т. 8-960-115-75-24 или**consul-biznes@regionpr.ru
+
+Поделиться
+
+* Получить ссылку
+* Facebook
+* X
+* Pinterest
+* Электронная почта
+* Другие приложения
+
+
+
+### Комментарии
+
+#### Отправить комментарий
+
+
+
+
+### Популярные сообщения
+
+[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgSG21PyW3uyy9gRIrJtKW_kUnhoRKQurEbbgh3AB-QeObd1PbPEJRfpRUp9UIrPeFQOTuRwP57ZdPHiApc4O5ia53BfnKXH4T9ulanGJb0CnYM09ADPmPMVUJdSlrdiYmlnG66QCLYgep/s1600/%25D0%25BA%25D0%25BB%25D1%258E%25D1%2587%25D1%258C.jpg)](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
+
+Автор:
+
+
+[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
+
+
+[апреля 10, 2021](https://www.blagorussia.ru/2021/01/vidy-vlasti.html "permanent link")
+
+### [Виды власти](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
+
+Поделиться
+
+* Получить ссылку
+* Facebook
+* X
+* Pinterest
+* Электронная почта
+* Другие приложения
+
+[Отправить комментарий](https://www.blagorussia.ru/2021/01/vidy-vlasti.html#comments)
+
+[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ubOiunilK6EZiGZ_dU5Aoe5XVQgssjrALIzVaevG80XhPSKgUXXp75O5K9kgXdgg19w_XCQSN3H1nm2zEPt6fLeGz3QpSC1LrrzXTrQo0_lLa-n9grMNG2vKBNaugXNxkxVH5DC0Wqe3/w458-h640/%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25BF%25D0%25BB%25D0%25B0%25D0%25BD.jpg)](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
+
+Автор:
+
+
+[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
+
+
+[июня 03, 2020](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html "permanent link")
+
+### [Генеральный план города Воронеж](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
+
+Поделиться
+
+* Получить ссылку
+* Facebook
+* X
+* Pinterest
+* Электронная почта
+* Другие приложения
+
+[Отправить комментарий](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html#comments)
+
+[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI2tQMIKYVOeVrTEtKwdxrWMdy2vtZO3e_zbzC7dlH0gy-lhqUg8gDi-hBwg5YtWv66MvzEXUtE_fGmlzsFAwC1gWn9XEkKlCTZUBI64vCwrw0TCfWnZuAMUCTEI_8kzIdBMLswxP7TkrpL8g-azifWE7y-PkDapSeYuS4m6G-C3QX6tRtKcNTjCBdWH8/w640-h640/kandinsky-download-1695312877484.png)](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
+
+Автор:
+
+
+[Артем Диденко](https://www.blogger.com/profile/04844297396744788167 "author profile")
+
+
+[сентября 21, 2023](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html "permanent link")
+
+### [Основное применение информационных технологий в психологии](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
+
+Поделиться
+
+* Получить ссылку
+* Facebook
+* X
+* Pinterest
+* Электронная почта
+* Другие приложения
+
+[Отправить комментарий](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html#comments)
+
+Автор:
+
+
+[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
+
+
+[мая 21, 2020](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html "permanent link")
+
+### [Банковская система основной потребитель услуг тайных покупателей](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html)
+
+Поделиться
+
+* Получить ссылку
+* Facebook
+* X
+* Pinterest
+* Электронная почта
+* Другие приложения
+
+[Отправить комментарий](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html#comments)
+
+Автор:
+
+
+[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
+
+
+[января 04, 2021](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html "permanent link")
+
+### [Том I часть 1](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html)
+
+Поделиться
+
+* Получить ссылку
+* Facebook
+* X
+* Pinterest
+* Электронная почта
+* Другие приложения
+
+[Отправить комментарий](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html#comments)
+
+[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUjVMbfqHU9nc38wl7TjcJJSDVYaeyv-ajtATvLZovQa_xmta6nlzf9HjGtmmUlvgmxm46CCsBsco0aGu5oyY2BwYHyoz6Ad2gKDKidUjhxV-KaEUTJgXn3MmZ5_N21PPeAIfv1x-FTNXA/w458-h640/%25D1%2581%25D1%2585+%25D0%25B3%25D0%25BE%25D1%2580%25D0%25BE%25D0%25B4%25D1%2581%25D0%25BA+%25D0%25BF%25D0%25B0%25D1%2581%25D1%2581%25D0%25B0%25D0%25B6%25D0%25B8%25D1%2580%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B3%25D0%25BE+%25D1%2582%25D1%2580%25D0%25B0%25D0%25BD%25D1%2581%25D0%25BF.jpg)](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
+
+Автор:
+
+
+[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
+
+
+[ноября 24, 2020](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html "permanent link")
+
+### [Схема городского пассажирского транспорта](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
+
+Поделиться
+
+* Получить ссылку
+* Facebook
+* X
+* Pinterest
+* Электронная почта
+* Другие приложения
+
+[Отправить комментарий](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html#comments)
+
+Автор:
+
+
+[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
+
+
+[июля 09, 2020](https://www.blagorussia.ru/2020/07/zilye-zony.html "permanent link")
+
+### [Жилые зоны](https://www.blagorussia.ru/2020/07/zilye-zony.html)
+
+Поделиться
+
+* Получить ссылку
+* Facebook
+* X
+* Pinterest
+* Электронная почта
+* Другие приложения
+
+[Отправить комментарий](https://www.blagorussia.ru/2020/07/zilye-zony.html#comments)
+
+Автор:
+
+
+[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
+
+
+[сентября 19, 2020](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html "permanent link")
+
+### [карты градостроительного зонирования](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html)
+
+Поделиться
+
+* Получить ссылку
+* Facebook
+* X
+* Pinterest
+* Электронная почта
+* Другие приложения
+
+[Отправить комментарий](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html#comments)
+
+Автор:
+
+
+[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
+
+
+[июня 12, 2020](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html "permanent link")
+
+### [11. Инженерная подготовка территории](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html)
+
+Поделиться
+
+* Получить ссылку
+* Facebook
+* X
+* Pinterest
+* Электронная почта
+* Другие приложения
+
+[Отправить комментарий](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html#comments)
+
+Автор:
+
+
+[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
+
+
+[января 05, 2021](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html "permanent link")
+
+### [Характеристика и оценка экологического состояния водных объектов г. Воронежа](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html)
+
+Поделиться
+
+* Получить ссылку
+* Facebook
+* X
+* Pinterest
+* Электронная почта
+* Другие приложения
+
+[Отправить комментарий](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html#comments)
+
+
+
+
+[Политика конфиденциальности](http://partnerstvo.blagorussia.ru/politika-konfidencialnosti)
+
+![](https://mc.yandex.ru/watch/21798445)
+
+![Top.Mail.Ru](https://top-fwz1.mail.ru/counter?id=2347426;js=na)
+
+[Технологии Blogger](https://www.blogger.com)
+
+@ 2010 - 2025 года
+
+
+
+
+
+### Перевести - Translate
+
+### Навигация по сайту
+
+* [Главная страница](https://blagorussia.blogspot.com/)
+* [Новости](https://novosti.blagorussia.ru/)
+* [О проекте](https://blagorussia.blogspot.com/2021/01/home.html)
+
+### Разделы
+
+* [Архивы75](https://www.blagorussia.ru/search/label/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D1%8B)
+* [Бесплатные курсы3](https://www.blagorussia.ru/search/label/%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%83%D1%80%D1%81%D1%8B)
+* [Воронеж582](https://www.blagorussia.ru/search/label/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)
+* [Генеральный план490](https://www.blagorussia.ru/search/label/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD)
+* [Демография1](https://www.blagorussia.ru/search/label/%D0%94%D0%B5%D0%BC%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F)
+* [Идеология48](https://www.blagorussia.ru/search/label/%D0%98%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
+* [Италия1](https://www.blagorussia.ru/search/label/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F)
+* [Новости241](https://www.blagorussia.ru/search/label/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
+* [Партнерство79](https://www.blagorussia.ru/search/label/%D0%9F%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE)
+* [Психология1](https://www.blagorussia.ru/search/label/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
+
+* [Содействие занятости1](https://www.blagorussia.ru/search/label/%D0%A1%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%BE%D1%81%D1%82%D0%B8)
+* [Статистика107](https://www.blagorussia.ru/search/label/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
+* [Технологии2](https://www.blagorussia.ru/search/label/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
+* [Цифровые профессии1](https://www.blagorussia.ru/search/label/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B8)
+
+Показать больше
+Показать меньше
+
+### Соцсети
+
+* [Группа Google](https://groups.google.com/g/BlagoRussia)
+* [Дзен](https://dzen.ru/blagorussia)
+
+### ВКонтакте
+
+### Одноклассники
+
+### Нас просмотрело:
+
+## Постоянные читатели
+
+### [Сообщить о нарушении](https://www.blogger.com/go/report-abuse)
+
+### Facebook
+
+> [Общественное благополучие](https://www.facebook.com/blagorussia)
