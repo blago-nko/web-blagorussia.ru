@@ -6,7 +6,6 @@ aliases:
   - "/2020/06/pismono-3020422-ot-21-12-11-otdela-milicii-no-6-umvd-po-g-voronez.html"
 url: "/pismono-3020422-ot-21-12-11-otdela-milicii-no-6-umvd-po-g-voronez/"
 ---
-
 ![](https://lh5.googleusercontent.com/aETIIbWQtda6JhZneYHLq8-_YkJN9AEUeW43Q0DgKiGV2q33wacpG6dyfT0mFZkgWIHey275USHKBwANHkYKwJtX4lvZ3KRkGwPcNcWB06ia2rlFQ8987e1mHkgl2i6B=rw)
 
 Поделиться

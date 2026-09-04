@@ -6,45 +6,39 @@ aliases:
   - "/2020/11/pokazateli-cislennosti-naselenia-po-periodam.html"
 url: "/pokazateli-cislennosti-naselenia-po-periodam/"
 ---
+<table border="1" bordercolor="#888" cellspacing="0" style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px; font-family: &quot;trebuchet ms&quot;, sans-serif; margin: 0px;"><tbody><tr><td style="height: 19px; vertical-align: top; width: 267px;">[Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/vozrastno-polovoj-sostav-naselenia-g-voroneza-v-procentah-k-obsej-cislennosti-na-nacalo-goda)</td><td style="height: 19px; vertical-align: top; width: 198px;">[Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-i-cast-1)</td><td style="height: 19px; vertical-align: top; width: 280px;">[Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/vozrastnye-i-summarnye-koefficienty-rozdaemosti-po-g-voronezu-cislo-rodivsihsa-na-1000-zensin-sootvetstvuusego-vozrasta)</td></tr></tbody></table>
 
-|  |  |  |
-| --- | --- | --- |
-| [Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/vozrastno-polovoj-sostav-naselenia-g-voroneza-v-procentah-k-obsej-cislennosti-na-nacalo-goda) | [Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-i-cast-1) | [Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/vozrastnye-i-summarnye-koefficienty-rozdaemosti-po-g-voronezu-cislo-rodivsihsa-na-1000-zensin-sootvetstvuusego-vozrasta) |
+## []()**Показатели численности населения по периодам**
 
-## **Показатели численности населения по периодам**
-
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| **Периоды** | **Прирост (убыль) численности населения, тыс. чел.** | **Среднегодовой прирост (убыль)** | | | |
-| **тыс. чел.** | **%** | **в том числе за счет** | |
-| **естественного прироста (убыли)** | **механического прироста** |
-| 1994-1997 | -11,41 | -2,865 | -0,325 | -0,520 | +0,195 |
-| 1998-2001 | -18,66 | -4,665 | -0,538 | -0,701 | +0,163 |
-| 2002-2004 | -6,26 | -2,086 | -0,245 | -0,720 | +0,475 |
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0px;"><tbody><tr><td rowspan="3" style="background: rgb(179, 179, 179); border: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 75.75pt;" width="101"><p align="center"><b>Периоды</b></p></td><td rowspan="3" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 81.6pt;" width="109"><p align="center"><b>Прирост (убыль) численности населения, тыс. чел.</b></p></td><td colspan="4" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 321.3pt;" width="428"><p align="center"><b>Среднегодовой прирост (убыль)</b></p></td></tr><tr><td rowspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 69.65pt;" width="93"><p align="center"><b>тыс. чел.</b></p></td><td rowspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 66.8pt;" width="89"><p align="center"><b>%</b></p></td><td colspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 184.85pt;" width="246"><p align="center"><b>в том числе за счет</b></p></td></tr><tr><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 91.2pt;" width="122"><p align="center"><b>естественного прироста (убыли)</b></p></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 93.65pt;" width="125"><p align="center"><b>механического прироста</b></p></td></tr><tr style="height: 26.25pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 75.75pt;" width="101"><p align="center"><span style="font-size: small;">1994-1997</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 81.6pt;" width="109"><p align="center"><span style="font-size: small;">-11,41</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 69.65pt;" width="93"><p align="center"><span style="font-size: small;">-2,865</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 66.8pt;" width="89"><p align="center"><span style="font-size: small;">-0,325</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 91.2pt;" width="122"><p align="center"><span style="font-size: small;">-0,520</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 93.65pt;" width="125"><p align="center"><span style="font-size: small;">+0,195</span></p></td></tr><tr style="height: 26.25pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 75.75pt;" width="101"><p align="center"><span style="font-size: small;">1998-2001</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 81.6pt;" width="109"><p align="center"><span style="font-size: small;">-18,66</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 69.65pt;" width="93"><p align="center"><span style="font-size: small;">-4,665</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 66.8pt;" width="89"><p align="center"><span style="font-size: small;">-0,538</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 91.2pt;" width="122"><p align="center"><span style="font-size: small;">-0,701</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 93.65pt;" width="125"><p align="center"><span style="font-size: small;">+0,163</span></p></td></tr><tr style="height: 26.25pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 75.75pt;" width="101"><p align="center"><span style="font-size: small;">2002-2004</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 81.6pt;" width="109"><p align="center"><span style="font-size: small;">-6,26</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 69.65pt;" width="93"><p align="center"><span style="font-size: small;">-2,086</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 66.8pt;" width="89"><p align="center"><span style="font-size: small;">-0,245</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 91.2pt;" width="122"><p align="center"><span style="font-size: small;">-0,720</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 26.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 93.65pt;" width="125"><p align="center"><span style="font-size: small;">+0,475</span></p></td></tr></tbody></table>
 
 Целью составления таблицы является определение процента среднегодового прироста (убыли) населения города в целом, в том числе естественного и миграционного, динамики его изменения по периодам.
 
 Процент среднегодового прироста (убыли) населения, а также его составляющие являются основными показателями для дальнейшего прогноза численности населения.
 
-За период 1994-2004 гг. численность постоянного населения города сократилась с 885,08 тыс. человек до 848,7 тыс. человек. В рассматриваемый период как страна в целом, так и г. Воронеж находились в сложной социально-экономической ситуации, что крайне отрицательно повлияло на все сферы жизнедеятельности горожан. Сокращение численности населения города происходило за счет значительного превышения смертности по сравнению с рождаемостью. Так, в 1994 году, смертность превысила рождаемость в 1,66 раза, в 1999 году – в 2,1 раза, в 2004 году – в 1,74 раза. За период  2000-2004 гг. коэффициент рождаемости увеличился с 7,3‰ до 9‰ (на 23,3%), за этот же период коэффициент смертности так же увеличился с 14,8‰ до 15,7‰ (на 6,1%), а следовательно, сократились и темпы естественной убыли населения.
+За период 1994-2004 гг. численность постоянного населения города сократилась с 885,08 тыс. человек до 848,7 тыс. человек. В рассматриваемый период как страна в целом, так и г. Воронеж находились в сложной социально-экономической ситуации, что крайне отрицательно повлияло на все сферы жизнедеятельности горожан. Сокращение численности населения города происходило за счет значительного превышения смертности по сравнению с рождаемостью. Так, в 1994 году, смертность превысила рождаемость в 1,66 раза, в 1999 году – в 2,1 раза, в 2004 году – в 1,74 раза. За период  2000-2004 гг. коэффициент рождаемости увеличился с 7,3‰ до 9‰ (на 23,3%), за этот же период коэффициент смертности так же увеличился с 14,8‰ до 15,7‰ (на 6,1%), а следовательно, сократились и темпы естественной убыли населения.
 
 Прогноз численности населения города базируется на анализе демографической и миграционной обстановки за ретроспективный период. Прогнозные расчеты позволяют оценить влияние рождаемости, смертности и миграции на будущую структуру и численность населения города.
 
-Однако, в силу влияния на закономерности течения процессов воспроизводства, смертности и миграции населения сложного комплекса социально-экономических условий, прогноз численности населения носит гипотетический характер, т.е. основополагающую роль играют принимаемые предпосылки – будущее развитие воспроизводства, изменение уровня смертности и миграции.
+Однако, в силу влияния на закономерности течения процессов воспроизводства, смертности и миграции населения сложного комплекса социально-экономических условий, прогноз численности населения носит гипотетический характер, т.е. основополагающую роль играют принимаемые предпосылки – будущее развитие воспроизводства, изменение уровня смертности и миграции.
 
 Концепция демографического развития города вытекает из необходимости обеспечения роста населения за счет трех источников:
 
-* проведения активной политики поощрения рождаемости и повышения рождаемости до уровня, обеспечивающего простое воспроизводство населения;
-* осуществление программ в области развития здравоохранения, оздоровления окружающей среды, условий труда и т.п. с целью снижения смертности, т.е. минимизация издержек процесса воспроизводства населения;
-* использование миграционного потенциала для компенсации депопуляционных потерь.
+- проведения активной политики поощрения рождаемости и повышения рождаемости до уровня, обеспечивающего простое воспроизводство населения;
+
+- осуществление программ в области развития здравоохранения, оздоровления окружающей среды, условий труда и т.п. с целью снижения смертности, т.е. минимизация издержек процесса воспроизводства населения;
+
+- использование миграционного потенциала для компенсации депопуляционных потерь.
 
 Исходным периодом для прогнозирования перспективной численности населения города принят 2002-2004 гг., где процент среднегодового прироста населения составляет -0,245.
 
 В прогнозном сценарии принята гипотеза:
 
-* при определении перспективной численности населения города основным фактором сокращения темпов убыли населения, а в последствии и роста населения, является миграционный приток;
-* сокращение темпов естественной убыли населения за счет повышения рождаемости и сокращения смертности в расчете на 1000 жителей;
-* при условии улучшения социально-экономической ситуации прогнозируется рост численности населения города за счет двух источников прироста: естественного и миграционного.
+- при определении перспективной численности населения города основным фактором сокращения темпов убыли населения, а в последствии и роста населения, является миграционный приток; 
+
+- сокращение темпов естественной убыли населения за счет повышения рождаемости и сокращения смертности в расчете на 1000 жителей; 
+
+- при условии улучшения социально-экономической ситуации прогнозируется рост численности населения города за счет двух источников прироста: естественного и миграционного.
 
 В прогнозных расчетах рождаемости, за основополагающий, принят показатель интенсивности – общий коэффициент рождаемости в расчете на 1000 жителей. В настоящее время общий коэффициент рождаемости достиг беспрецедентно низкого уровня и составляет 9‰.
 
@@ -64,15 +58,13 @@ url: "/pokazateli-cislennosti-naselenia-po-periodam/"
 
 В период до 2000 года численность населения города формировалась за счет миграционного прироста – это жители районов области, беженцы и вынужденные переселенцы.
 
-В перспективе прогнозируется положительный миграционный прирост населения, состоящий из жителей региона, военнослужащих, а также ожидается репатриация российских соотечественников из новых независимых государств. Миграционный приток возрастет с 3,8‰ (2005 г.) до 5‰ (2010 г.).
+В перспективе прогнозируется положительный миграционный прирост населения, состоящий из жителей региона, военнослужащих, а также ожидается репатриация российских соотечественников из новых независимых государств. Миграционный приток возрастет с 3,8‰ (2005 г.) до 5‰ (2010 г.).
 
 Прогноз динамики рождаемости, смертности, естественного прироста, а также миграционного притока представлен на графике.
 
-[![Прогноз динамики рождаемости, смертности, естественного прироста, а также миграционного притока представлен на графике.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAl_sqrazjqeHgtf4hc3dDNw-0rtWwCogMgzgi-WVtaxcjUuN2GxRFuAYihuwZB7pSm1XxRC5gLJqWaAg0uLAu7zN3q_3IbeiLrK-ib7Pb_oFJ3tEtkgn30AY1sM2CtHHbln1S1heLQR6B/w640-h452-rw/%25D0%2594%25D0%25B8%25D0%25BD%25D0%25B0%25D0%25BC%25D0%25B8%25D0%25BA%25D0%25B0+%25D1%2587%25D0%25B8%25D1%2581%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25BE%25D1%2581%25D1%2582%25D0%25B8+%25D0%25BD%25D0%25B0%25D1%2581%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B8%25D1%258F.png "Прогноз динамики рождаемости, смертности, естественного прироста, а также миграционного притока представлен на графике.")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAl_sqrazjqeHgtf4hc3dDNw-0rtWwCogMgzgi-WVtaxcjUuN2GxRFuAYihuwZB7pSm1XxRC5gLJqWaAg0uLAu7zN3q_3IbeiLrK-ib7Pb_oFJ3tEtkgn30AY1sM2CtHHbln1S1heLQR6B/s1754/%25D0%2594%25D0%25B8%25D0%25BD%25D0%25B0%25D0%25BC%25D0%25B8%25D0%25BA%25D0%25B0+%25D1%2587%25D0%25B8%25D1%2581%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25BE%25D1%2581%25D1%2582%25D0%25B8+%25D0%25BD%25D0%25B0%25D1%2581%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B8%25D1%258F.png)
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBkQz6kquA402ItDg-uiPub9jUO6rhgSZQFkUGTAXXyjMGXMXA9IDDZBys3jmH9IOtgolECaY9v_u8mhveLx0M-PDFtt_-w7IJMo58Qj3vApTXwePwxqt_tPxStj2JnVv-pLHdoT995nk2/s1754/%25D0%2594%25D0%25B8%25D0%25BD%25D0%25B0%25D0%25BC%25D0%25B8%25D0%25BA%25D0%25B0+%25D1%2587%25D0%25B8%25D1%2581%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25BE%25D1%2581%25D1%2582%25D0%25B8+%25D0%25BD%25D0%25B0%25D1%2581%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B8%25D1%258F+2.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAl_sqrazjqeHgtf4hc3dDNw-0rtWwCogMgzgi-WVtaxcjUuN2GxRFuAYihuwZB7pSm1XxRC5gLJqWaAg0uLAu7zN3q_3IbeiLrK-ib7Pb_oFJ3tEtkgn30AY1sM2CtHHbln1S1heLQR6B/s1600/%25D0%2594%25D0%25B8%25D0%25BD%25D0%25B0%25D0%25BC%25D0%25B8%25D0%25BA%25D0%25B0+%25D1%2587%25D0%25B8%25D1%2581%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25BE%25D1%2581%25D1%2582%25D0%25B8+%25D0%25BD%25D0%25B0%25D1%2581%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B8%25D1%258F.png" alt="Прогноз динамики рождаемости, смертности, естественного прироста, а также миграционного притока представлен на графике." title="Прогноз динамики рождаемости, смертности, естественного прироста, а также миграционного притока представлен на графике."></a>
 
-  
-
-[![Прогноз динамики рождаемости, смертности, естественного прироста, а также миграционного притока представлен на графике.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBkQz6kquA402ItDg-uiPub9jUO6rhgSZQFkUGTAXXyjMGXMXA9IDDZBys3jmH9IOtgolECaY9v_u8mhveLx0M-PDFtt_-w7IJMo58Qj3vApTXwePwxqt_tPxStj2JnVv-pLHdoT995nk2/w640-h452-rw/%25D0%2594%25D0%25B8%25D0%25BD%25D0%25B0%25D0%25BC%25D0%25B8%25D0%25BA%25D0%25B0+%25D1%2587%25D0%25B8%25D1%2581%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25BE%25D1%2581%25D1%2582%25D0%25B8+%25D0%25BD%25D0%25B0%25D1%2581%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B8%25D1%258F+2.png "Прогноз динамики рождаемости, смертности, естественного прироста, а также миграционного притока представлен на графике.")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBkQz6kquA402ItDg-uiPub9jUO6rhgSZQFkUGTAXXyjMGXMXA9IDDZBys3jmH9IOtgolECaY9v_u8mhveLx0M-PDFtt_-w7IJMo58Qj3vApTXwePwxqt_tPxStj2JnVv-pLHdoT995nk2/s1754/%25D0%2594%25D0%25B8%25D0%25BD%25D0%25B0%25D0%25BC%25D0%25B8%25D0%25BA%25D0%25B0+%25D1%2587%25D0%25B8%25D1%2581%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25BE%25D1%2581%25D1%2582%25D0%25B8+%25D0%25BD%25D0%25B0%25D1%2581%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B8%25D1%258F+2.png)
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBkQz6kquA402ItDg-uiPub9jUO6rhgSZQFkUGTAXXyjMGXMXA9IDDZBys3jmH9IOtgolECaY9v_u8mhveLx0M-PDFtt_-w7IJMo58Qj3vApTXwePwxqt_tPxStj2JnVv-pLHdoT995nk2/s1600/%25D0%2594%25D0%25B8%25D0%25BD%25D0%25B0%25D0%25BC%25D0%25B8%25D0%25BA%25D0%25B0+%25D1%2587%25D0%25B8%25D1%2581%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25BE%25D1%2581%25D1%2582%25D0%25B8+%25D0%25BD%25D0%25B0%25D1%2581%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B8%25D1%258F+2.png" alt="Прогноз динамики рождаемости, смертности, естественного прироста, а также миграционного притока представлен на графике." title="Прогноз динамики рождаемости, смертности, естественного прироста, а также миграционного притока представлен на графике.">
 
 Прогноз численности населения г. Воронежа разработан по трем периодам развития города. В период 2005-2010 гг. прогнозируется, что будет продолжаться процесс естественной убыли населения, но темпы убыли замедлятся за счет увеличения рождаемости (однако, смертность, в расчете на 1000 жителей, будет увеличиваться). Миграционный прирост будет иметь положительную динамику, однако, не сможет компенсировать естественную убыль населения, в связи с чем, численность города сократится до 840-841 тыс. человек.
 
@@ -82,23 +74,15 @@ url: "/pokazateli-cislennosti-naselenia-po-periodam/"
 
 В целом, за период 2005-2020 гг., общий прирост населения составит 27 тыс. человек, в том числе естественная убыль населения -35 тыс. человек, миграционный приток населения +62 тыс. человек. Численность постоянного населения г. Воронежа на конец 2020 года ориентировочно определена в размере 875 тыс. человек (округленно).
 
-#### Прогноз численности населения г. Воронежа
+#### []()Прогноз численности населения г. Воронежа
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Периоды** | **Прирост (убыль) численности населения, тыс. чел.** | | | **Население на конец периода (округленно), тыс. чел.** |
-| **Всего за период** | **в том числе за счет:** | |
-| **естественного прироста (убыли)** | **миграционного прироста** |
-| 2005-2010 | -7,5 | -28,2 | +20,7 | 841,0 |
-| 2011-2015 | +8,25 | -11,7 | +19,95 | 850,0 |
-| 2016-2020 | +26,3 | +4,8 | +21,5 | 875,0 |
-| **Всего** | **+27,05** | **-35,1** | **+62,15** |  |
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0px;"><tbody><tr><td rowspan="3" style="background: rgb(179, 179, 179); border: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 95.7pt;" width="128"><p align="center" style="text-align: center;"><b>Периоды</b></p></td><td colspan="3" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 278.7pt;" width="372"><p align="center" style="text-align: center;"><b>Прирост (убыль) численности населения,<br /></br>тыс. чел.</b></p></td><td rowspan="3" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 104.25pt;" width="139"><p align="center" style="text-align: center;"><b>Население на конец периода (округленно), тыс. чел.</b></p></td></tr><tr><td rowspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 71.7pt;" width="96"><p align="center" style="text-align: center;"><b>Всего за период</b></p></td><td colspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 207pt;" width="276"><p align="center" style="text-align: center;"><b>в том числе за счет:</b></p></td></tr><tr><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 103.5pt;" width="138"><p align="center" style="text-align: center;"><b>естественного прироста<br /></br>(убыли)</b></p></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 103.5pt;" width="138"><p align="center" style="text-align: center;"><b>миграционного прироста</b></p></td></tr><tr style="height: 31.5pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 95.7pt;" width="128"><p align="center" style="text-align: center;"><span style="font-size: small;">2005-2010</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 71.7pt;" width="96"><p align="center" style="text-align: center;"><span style="font-size: small;">-7,5</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 103.5pt;" width="138"><p align="center" style="text-align: center;"><span style="font-size: small;">-28,2</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 103.5pt;" width="138"><p align="center" style="text-align: center;"><span style="font-size: small;">+20,7</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 104.25pt;" width="139"><p align="center" style="text-align: center;"><span style="font-size: small;">841,0</span></p></td></tr><tr style="height: 31.5pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 95.7pt;" width="128"><p align="center" style="text-align: center;"><span style="font-size: small;">2011-2015</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 71.7pt;" width="96"><p align="center" style="text-align: center;"><span style="font-size: small;">+8,25</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 103.5pt;" width="138"><p align="center" style="text-align: center;"><span style="font-size: small;">-11,7</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 103.5pt;" width="138"><p align="center" style="text-align: center;"><span style="font-size: small;">+19,95</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 104.25pt;" width="139"><p align="center" style="text-align: center;"><span style="font-size: small;">850,0</span></p></td></tr><tr style="height: 31.5pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 95.7pt;" width="128"><p align="center" style="text-align: center;"><span style="font-size: small;">2016-2020</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 71.7pt;" width="96"><p align="center" style="text-align: center;"><span style="font-size: small;">+26,3</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 103.5pt;" width="138"><p align="center" style="text-align: center;"><span style="font-size: small;">+4,8</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 103.5pt;" width="138"><p align="center" style="text-align: center;"><span style="font-size: small;">+21,5</span></p></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 104.25pt;" width="139"><p align="center" style="text-align: center;"><span style="font-size: small;">875,0</span></p></td></tr><tr style="height: 31.5pt;"><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 95.7pt;" width="128"><p align="center" style="text-align: center;"><b>Всего</b></p></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 71.7pt;" width="96"><p align="center" style="text-align: center;"><b>+27,05</b></p></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 103.5pt;" width="138"><p align="center" style="text-align: center;"><b>-35,1</b></p></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 103.5pt;" width="138"><p align="center" style="text-align: center;"><b>+62,15</b></p></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 104.25pt;" width="139"><p align="center" style="text-align: center;"><b> </b></p></td></tr></tbody></table>
 
 Базовый прогноз численности населения г. Воронежа разработан на основании окончательных данных по численности населения Территориального органа федеральной службы государственной статистики по Воронежской области по итогам Всероссийской переписи населения 2002 года. Численность постоянного населения г. Воронежа была определена на уровне 848,8 тыс. человек, которая послужила точкой отсчета для дальнейшего прогнозирования.
 
 Однако, предварительная численность постоянного населения г. Воронежа на 01.01.2005 г. По итогам Всероссийской переписи населения 2002 года составляла порядка 900 тыс. человек, т.е. предварительная численность населения превысила статистическую примерно на 50 тыс. человек. В значительной степени такое отклонение в численности населения могло произойти из-за неучтенного миграционного притока, труднее поддающегося статистическому учету. Таким образом, можно предположить, что в г. Воронеже проживает порядка 40-50 тыс. неучтенных человек. В перспективе можно ожидать, что численность постоянного населения города будет откорректирована в сторону увеличения.
 
-В основу II варианта прогноза перспективной численности населения г. Воронежа положены научные разработки Российской академии государственной службы при Президенте Российской Федерации и Института системного анализа Российской Академии Наук по вопросам демографии.
+В основу II варианта прогноза перспективной численности населения г. Воронежа положены научные разработки Российской академии государственной службы при Президенте Российской Федерации и Института системного анализа Российской Академии Наук по вопросам демографии.
 
 Одной из основных составляющих процесса воспроизводства населения является рождаемость.
 
@@ -108,10 +92,13 @@ url: "/pokazateli-cislennosti-naselenia-po-periodam/"
 
 Известно, что по величине абсолютного числа родившихся нельзя судить об уровне рождаемости, следовательно, необходим переход к относительным показателям рождаемости, которые бы не зависели от численности населения, т.е. к коэффициентам рождаемости. Это:
 
-* общий коэффициент рождаемости;
-* специальный коэффициент рождаемости;
-* повозрастные коэффициенты рождаемости;
-* суммарный коэффициент рождаемости.
+- общий коэффициент рождаемости; 
+
+- специальный коэффициент рождаемости; 
+
+- повозрастные коэффициенты рождаемости; 
+
+- суммарный коэффициент рождаемости.
 
 Все эти коэффициенты связаны друг с другом, но каждый из них отражает отдельные аспекты процесса деторождения, благодаря чему обладает самостоятельной ценностью.
 
@@ -131,319 +118,6 @@ url: "/pokazateli-cislennosti-naselenia-po-periodam/"
 
 Суммарный коэффициент рождаемости равен сумме возрастных коэффициентов. Он характеризует среднее число рождений у одной женщины за всю ее жизнь при сохранении существующих уровней рождаемости и является более точным измерителем уровня рождаемости. Суммарные коэффициенты выше 4,0 считаются высокими, меньше 2,15 – низкими.
 
-  
+[1] Справочно: ориентируясь на шкалу величины общего коэффициента рождаемости, предложенную отечественными демографами Б.Ц. Урланисом и В.А. Борисовым, согласно которой его значение меньше 16‰ считаются низкими, от 16 до 24‰ – средними, от 25 до 29‰ – выше средних, от 30 до 40‰ – высокими, более 40‰ – очень высокими.
 
----
-
-[1] Справочно: ориентируясь на шкалу величины общего коэффициента рождаемости, предложенную отечественными демографами Б.Ц. Урланисом и В.А. Борисовым, согласно которой его значение меньше 16‰ считаются низкими, от 16 до 24‰ – средними, от 25 до 29‰ – выше средних, от 30 до 40‰ – высокими, более 40‰ – очень высокими.
-
-|  |  |  |
-| --- | --- | --- |
-| [Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/vozrastno-polovoj-sostav-naselenia-g-voroneza-v-procentah-k-obsej-cislennosti-na-nacalo-goda) | [Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-i-cast-1) | [Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/vozrastnye-i-summarnye-koefficienty-rozdaemosti-po-g-voronezu-cislo-rodivsihsa-na-1000-zensin-sootvetstvuusego-vozrasta) |
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-Ярлыки:
-[Воронеж](https://www.blagorussia.ru/search/label/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)
-[Генеральный план](https://www.blagorussia.ru/search/label/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD)
-
-
-
-### Комментарии
-
-#### Отправить комментарий
-
-
-
-
-### Популярные сообщения
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgSG21PyW3uyy9gRIrJtKW_kUnhoRKQurEbbgh3AB-QeObd1PbPEJRfpRUp9UIrPeFQOTuRwP57ZdPHiApc4O5ia53BfnKXH4T9ulanGJb0CnYM09ADPmPMVUJdSlrdiYmlnG66QCLYgep/s1600/%25D0%25BA%25D0%25BB%25D1%258E%25D1%2587%25D1%258C.jpg)](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[апреля 10, 2021](https://www.blagorussia.ru/2021/01/vidy-vlasti.html "permanent link")
-
-### [Виды власти](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/vidy-vlasti.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ubOiunilK6EZiGZ_dU5Aoe5XVQgssjrALIzVaevG80XhPSKgUXXp75O5K9kgXdgg19w_XCQSN3H1nm2zEPt6fLeGz3QpSC1LrrzXTrQo0_lLa-n9grMNG2vKBNaugXNxkxVH5DC0Wqe3/w458-h640/%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25BF%25D0%25BB%25D0%25B0%25D0%25BD.jpg)](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 03, 2020](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html "permanent link")
-
-### [Генеральный план города Воронеж](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI2tQMIKYVOeVrTEtKwdxrWMdy2vtZO3e_zbzC7dlH0gy-lhqUg8gDi-hBwg5YtWv66MvzEXUtE_fGmlzsFAwC1gWn9XEkKlCTZUBI64vCwrw0TCfWnZuAMUCTEI_8kzIdBMLswxP7TkrpL8g-azifWE7y-PkDapSeYuS4m6G-C3QX6tRtKcNTjCBdWH8/w640-h640/kandinsky-download-1695312877484.png)](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Автор:
-
-
-[Артем Диденко](https://www.blogger.com/profile/04844297396744788167 "author profile")
-
-
-[сентября 21, 2023](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html "permanent link")
-
-### [Основное применение информационных технологий в психологии](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[мая 21, 2020](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html "permanent link")
-
-### [Банковская система основной потребитель услуг тайных покупателей](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 04, 2021](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html "permanent link")
-
-### [Том I часть 1](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUjVMbfqHU9nc38wl7TjcJJSDVYaeyv-ajtATvLZovQa_xmta6nlzf9HjGtmmUlvgmxm46CCsBsco0aGu5oyY2BwYHyoz6Ad2gKDKidUjhxV-KaEUTJgXn3MmZ5_N21PPeAIfv1x-FTNXA/w458-h640/%25D1%2581%25D1%2585+%25D0%25B3%25D0%25BE%25D1%2580%25D0%25BE%25D0%25B4%25D1%2581%25D0%25BA+%25D0%25BF%25D0%25B0%25D1%2581%25D1%2581%25D0%25B0%25D0%25B6%25D0%25B8%25D1%2580%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B3%25D0%25BE+%25D1%2582%25D1%2580%25D0%25B0%25D0%25BD%25D1%2581%25D0%25BF.jpg)](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[ноября 24, 2020](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html "permanent link")
-
-### [Схема городского пассажирского транспорта](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июля 09, 2020](https://www.blagorussia.ru/2020/07/zilye-zony.html "permanent link")
-
-### [Жилые зоны](https://www.blagorussia.ru/2020/07/zilye-zony.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/07/zilye-zony.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[сентября 19, 2020](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html "permanent link")
-
-### [карты градостроительного зонирования](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 12, 2020](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html "permanent link")
-
-### [11. Инженерная подготовка территории](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 05, 2021](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html "permanent link")
-
-### [Характеристика и оценка экологического состояния водных объектов г. Воронежа](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html#comments)
-
-
-
-
-[Политика конфиденциальности](http://partnerstvo.blagorussia.ru/politika-konfidencialnosti)
-
-![](https://mc.yandex.ru/watch/21798445)
-
-![Top.Mail.Ru](https://top-fwz1.mail.ru/counter?id=2347426;js=na)
-
-[Технологии Blogger](https://www.blogger.com)
-
-@ 2010 - 2025 года
-
-
-
-
-
-### Перевести - Translate
-
-### Навигация по сайту
-
-* [Главная страница](https://blagorussia.blogspot.com/)
-* [Новости](https://novosti.blagorussia.ru/)
-* [О проекте](https://blagorussia.blogspot.com/2021/01/home.html)
-
-### Разделы
-
-* [Архивы75](https://www.blagorussia.ru/search/label/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D1%8B)
-* [Бесплатные курсы3](https://www.blagorussia.ru/search/label/%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%83%D1%80%D1%81%D1%8B)
-* [Воронеж582](https://www.blagorussia.ru/search/label/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)
-* [Генеральный план490](https://www.blagorussia.ru/search/label/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD)
-* [Демография1](https://www.blagorussia.ru/search/label/%D0%94%D0%B5%D0%BC%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F)
-* [Идеология48](https://www.blagorussia.ru/search/label/%D0%98%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-* [Италия1](https://www.blagorussia.ru/search/label/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F)
-* [Новости241](https://www.blagorussia.ru/search/label/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
-* [Партнерство79](https://www.blagorussia.ru/search/label/%D0%9F%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE)
-* [Психология1](https://www.blagorussia.ru/search/label/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-
-* [Содействие занятости1](https://www.blagorussia.ru/search/label/%D0%A1%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%BE%D1%81%D1%82%D0%B8)
-* [Статистика107](https://www.blagorussia.ru/search/label/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
-* [Технологии2](https://www.blagorussia.ru/search/label/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
-* [Цифровые профессии1](https://www.blagorussia.ru/search/label/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B8)
-
-Показать больше
-Показать меньше
-
-### Соцсети
-
-* [Группа Google](https://groups.google.com/g/BlagoRussia)
-* [Дзен](https://dzen.ru/blagorussia)
-
-### ВКонтакте
-
-### Одноклассники
-
-### Нас просмотрело:
-
-## Постоянные читатели
-
-### [Сообщить о нарушении](https://www.blogger.com/go/report-abuse)
-
-### Facebook
-
-> [Общественное благополучие](https://www.facebook.com/blagorussia)
+<table border="1" bordercolor="#888" cellspacing="0" style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px; margin: 0px; text-align: center;"><tbody><tr><td style="height: 19px; vertical-align: top; width: 267px;">[Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/vozrastno-polovoj-sostav-naselenia-g-voroneza-v-procentah-k-obsej-cislennosti-na-nacalo-goda)</td><td style="height: 19px; vertical-align: top; width: 198px;">[Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-i-cast-1)</td><td style="height: 19px; vertical-align: top; width: 280px;">[Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/vozrastnye-i-summarnye-koefficienty-rozdaemosti-po-g-voronezu-cislo-rodivsihsa-na-1000-zensin-sootvetstvuusego-vozrasta)</td></tr></tbody></table>

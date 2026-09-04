@@ -6,14 +6,13 @@ aliases:
   - "/2021/01/intervu-g-a-avlinskogo-dla-agenstva-rosbalt-rossia-na-poroge-novoj-holodnoj-vojny-s-temze-koncom.html"
 url: "/intervu-g-a-avlinskogo-dla-agenstva-rosbalt-rossia-na-poroge-novoj-holodnoj-vojny-s-temze-koncom/"
 ---
+## «Россия на пороге новой холодной войны. С тем же концом» Интервью Григория Явлинского // Росбалт, 26.03.2014
 
-## «Россия на пороге новой холодной войны. С тем же концом» Интервью Григория Явлинского // Росбалт, 26.03.2014
+О том, как скоро могут быть введены новые санкции против России и кто от этого пострадает в первую очередь, "Росбалту" рассказал глава фракции "Яблоко" в петербургском ЗакСе, доктор экономических наук **Григорий Явлинский**.
 
-О том, как скоро могут быть введены новые санкции против России и кто от этого пострадает в первую очередь, "Росбалту" рассказал глава фракции "Яблоко" в петербургском ЗакСе, доктор экономических наук **Григорий Явлинский**.
+- Информация о блокировке системы Visa и MasterCard для клиентов банка «Россия» и еще ряда банков взбудоражила общественность.
 
-* Информация о блокировке системы Visa и MasterCard для клиентов банка «Россия» и еще ряда банков взбудоражила общественность.
-
-#### В России уже всерьез заговорили о создании своей международной банковской системы. Насколько такие санкции серьезно скажутся на рядовых россиянах?
+#### []()В России уже всерьез заговорили о создании своей международной банковской системы. Насколько такие санкции серьезно скажутся на рядовых россиянах?
 
 - Эти санкции носят персональный характер, их цель - осложнить жизнь конкретным людям — судя по фамилиям, известно каким.
 
@@ -25,7 +24,7 @@ url: "/intervu-g-a-avlinskogo-dla-agenstva-rosbalt-rossia-na-poroge-novoj-holodn
 
 Российскую платежную систему создать, конечно, можно, но она в таких условиях будет работать только в России.
 
-#### - США заявили о возможности введения более жестких санкций, если правительство России продолжит идти по выбранному пути. Каких ограничительных мер следует опасаться стране?
+#### []()- США заявили о возможности введения более жестких санкций, если правительство России продолжит идти по выбранному пути. Каких ограничительных мер следует опасаться стране?
 
 - Если говорить о возможных санкциях как о широкой проблеме, то она складывается из нескольких частей. Прежде всего, сфера энергетики, потому что более 70% российского экспорта и, соответственно,подавляющая часть доходов - это экспорт нефти, газа и разного рода сырья.
 
@@ -33,11 +32,11 @@ url: "/intervu-g-a-avlinskogo-dla-agenstva-rosbalt-rossia-na-poroge-novoj-holodn
 
 Однако для ЕС отказ от российского сырья будет ощутим.
 
-#### - Насколько?
+#### []()- Насколько?
 
-- У разных европейских стран по разному. Например, в структуре потребления Германии 22% составляет газ, а 35% потребляемого газа — из России. Для них отказ от таких поставок не смертелен, конечно, но очень чувствителен.
+- У разных европейских стран по разному. Например, в структуре потребления Германии 22% составляет газ, а 35% потребляемого газа — из России. Для них отказ от таких поставок не смертелен, конечно, но очень чувствителен.
 
-#### - СМИ сообщают, что ЕС уже готовится к отказу от поставок российской нефти и газа.
+#### []()- СМИ сообщают, что ЕС уже готовится к отказу от поставок российской нефти и газа.
 
 - Я полагаю, это вряд ли произойдет в ближайшее время, поскольку для Европы это будет слишком болезненно.
 
@@ -49,19 +48,19 @@ url: "/intervu-g-a-avlinskogo-dla-agenstva-rosbalt-rossia-na-poroge-novoj-holodn
 
 Разумеется, такие программы делаются годами. Но если их удастся воплотить в жизнь, это будет очень существенный удар по нашей экономике.
 
-#### - При неблагоприятном прогнозе, как будет обстоять ситуация с продуктами производства, которые Россия продает за границу?
+#### []()- При неблагоприятном прогнозе, как будет обстоять ситуация с продуктами производства, которые Россия продает за границу?
 
 -Отказ от поставок промышленных товаров не нанесет серьезного ущерба экономике страны, поскольку Россия, очень мало чем торгует.
 
 Европа покупает всего 10% производимых у нас товаров — продуктов питания, химического производства и машиностроения. Примерно в три-четыре раза меньше объем поставок в США.
 
-#### -Окажет ли существенное влияние введение санкций в сфере науки и технологий?
+#### []()-Окажет ли существенное влияние введение санкций в сфере науки и технологий?
 
 -Да, это может затронуть все, что связано с современными высокими технологиями, доступом к тому, как создавать те или иные современные продукты. Это база развития.
 
 И в перспективе ограничение по этому направлению будет очень чувствительно.
 
-#### - Каковы финансовые перспективы страны?
+#### []()- Каковы финансовые перспективы страны?
 
 - Ведущие мировые рейтинговые агентства из-за геополитической неопределенности снизили суверенный рейтинг России со "стабильного" до "негативного".
 
@@ -79,7 +78,7 @@ url: "/intervu-g-a-avlinskogo-dla-agenstva-rosbalt-rossia-na-poroge-novoj-holodn
 
 Деньги боятся войн и нестабильных ситуаций.
 
-#### - В чем вы видите причины сложившейся ситуации?
+#### []()- В чем вы видите причины сложившейся ситуации?
 
 - В ошибочной и неэффективной экономической политике, которая проводилась в последнее десятилетие.
 
@@ -87,7 +86,7 @@ url: "/intervu-g-a-avlinskogo-dla-agenstva-rosbalt-rossia-na-poroge-novoj-holodn
 
 Если бы внутренний спрос работал, санкции были бы не страшны.
 
-Далее , еще одна существенная причина остановки роста экономики - проблемы, связанные с отсутствием безусловных прав собственности, огромная слабость всех экономических институтов, начиная от правосудия и заканчивая налоговыми процедурами, коррупция, предельная непрозрачность экономики.
+Далее , еще одна существенная причина остановки роста экономики - проблемы, связанные с отсутствием безусловных прав собственности, огромная слабость всех экономических институтов, начиная от правосудия и заканчивая налоговыми процедурами, коррупция, предельная непрозрачность экономики.
 
 Плюс теперь еще санкции, плюс Крым, который надо содержать долгое время.
 
@@ -95,7 +94,7 @@ url: "/intervu-g-a-avlinskogo-dla-agenstva-rosbalt-rossia-na-poroge-novoj-holodn
 
 А в сочетании с ограничениями для СМИ, разными запретительными инициативами и в целом с обстановкой в стране - приведет к снижению качества жизни.
 
-#### - Каких слоев населения это, прежде всего, коснется?
+#### []()- Каких слоев населения это, прежде всего, коснется?
 
 - Что касается стоимости жизни, то пострадают значительные слои населения — средние, ниже среднего, незащищенные.
 
@@ -109,9 +108,9 @@ url: "/intervu-g-a-avlinskogo-dla-agenstva-rosbalt-rossia-na-poroge-novoj-holodn
 
 Поскольку у его представителей значительно сократится степень свободы творчества и выбора.
 
-Вообще, если произойдет отказ от энергопоставок из России на фоне «гонки вооружений», то это будет полное повторение конца холодной войны — того периода, когда начались трудности, которые привели к распаду страны.
+Вообще, если произойдет отказ от энергопоставок из России на фоне «гонки вооружений», то это будет полное повторение конца холодной войны — того периода, когда начались трудности, которые привели к распаду страны.
 
-#### - Можно ли в перспективе остановить этот «механизм распада»?
+#### []()- Можно ли в перспективе остановить этот «механизм распада»?
 
 - Это произойдет, когда Россия поймет, что сегодняшний антиевропейский, "квазиевразийский путь" - тупик.
 
@@ -121,310 +120,4 @@ url: "/intervu-g-a-avlinskogo-dla-agenstva-rosbalt-rossia-na-poroge-novoj-holodn
 
 Отказ от создания в стране многих десятков миллионов реальных собственников. Только Европейский путь развития может обеспечить стране будущее. Но сейчас взят обратный курс.
 
-Беседовала **Антонида Пашинина**
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-Ярлыки:
-[Новости](https://www.blagorussia.ru/search/label/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
-
-
-
-### Комментарии
-
-#### Отправить комментарий
-
-
-
-
-### Популярные сообщения
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgSG21PyW3uyy9gRIrJtKW_kUnhoRKQurEbbgh3AB-QeObd1PbPEJRfpRUp9UIrPeFQOTuRwP57ZdPHiApc4O5ia53BfnKXH4T9ulanGJb0CnYM09ADPmPMVUJdSlrdiYmlnG66QCLYgep/s1600/%25D0%25BA%25D0%25BB%25D1%258E%25D1%2587%25D1%258C.jpg)](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[апреля 10, 2021](https://www.blagorussia.ru/2021/01/vidy-vlasti.html "permanent link")
-
-### [Виды власти](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/vidy-vlasti.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ubOiunilK6EZiGZ_dU5Aoe5XVQgssjrALIzVaevG80XhPSKgUXXp75O5K9kgXdgg19w_XCQSN3H1nm2zEPt6fLeGz3QpSC1LrrzXTrQo0_lLa-n9grMNG2vKBNaugXNxkxVH5DC0Wqe3/w458-h640/%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25BF%25D0%25BB%25D0%25B0%25D0%25BD.jpg)](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 03, 2020](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html "permanent link")
-
-### [Генеральный план города Воронеж](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI2tQMIKYVOeVrTEtKwdxrWMdy2vtZO3e_zbzC7dlH0gy-lhqUg8gDi-hBwg5YtWv66MvzEXUtE_fGmlzsFAwC1gWn9XEkKlCTZUBI64vCwrw0TCfWnZuAMUCTEI_8kzIdBMLswxP7TkrpL8g-azifWE7y-PkDapSeYuS4m6G-C3QX6tRtKcNTjCBdWH8/w640-h640/kandinsky-download-1695312877484.png)](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Автор:
-
-
-[Артем Диденко](https://www.blogger.com/profile/04844297396744788167 "author profile")
-
-
-[сентября 21, 2023](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html "permanent link")
-
-### [Основное применение информационных технологий в психологии](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[мая 21, 2020](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html "permanent link")
-
-### [Банковская система основной потребитель услуг тайных покупателей](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 04, 2021](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html "permanent link")
-
-### [Том I часть 1](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUjVMbfqHU9nc38wl7TjcJJSDVYaeyv-ajtATvLZovQa_xmta6nlzf9HjGtmmUlvgmxm46CCsBsco0aGu5oyY2BwYHyoz6Ad2gKDKidUjhxV-KaEUTJgXn3MmZ5_N21PPeAIfv1x-FTNXA/w458-h640/%25D1%2581%25D1%2585+%25D0%25B3%25D0%25BE%25D1%2580%25D0%25BE%25D0%25B4%25D1%2581%25D0%25BA+%25D0%25BF%25D0%25B0%25D1%2581%25D1%2581%25D0%25B0%25D0%25B6%25D0%25B8%25D1%2580%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B3%25D0%25BE+%25D1%2582%25D1%2580%25D0%25B0%25D0%25BD%25D1%2581%25D0%25BF.jpg)](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[ноября 24, 2020](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html "permanent link")
-
-### [Схема городского пассажирского транспорта](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июля 09, 2020](https://www.blagorussia.ru/2020/07/zilye-zony.html "permanent link")
-
-### [Жилые зоны](https://www.blagorussia.ru/2020/07/zilye-zony.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/07/zilye-zony.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[сентября 19, 2020](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html "permanent link")
-
-### [карты градостроительного зонирования](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 12, 2020](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html "permanent link")
-
-### [11. Инженерная подготовка территории](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 05, 2021](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html "permanent link")
-
-### [Характеристика и оценка экологического состояния водных объектов г. Воронежа](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html#comments)
-
-
-
-
-[Политика конфиденциальности](http://partnerstvo.blagorussia.ru/politika-konfidencialnosti)
-
-![](https://mc.yandex.ru/watch/21798445)
-
-![Top.Mail.Ru](https://top-fwz1.mail.ru/counter?id=2347426;js=na)
-
-[Технологии Blogger](https://www.blogger.com)
-
-@ 2010 - 2025 года
-
-
-
-
-
-### Перевести - Translate
-
-### Навигация по сайту
-
-* [Главная страница](https://blagorussia.blogspot.com/)
-* [Новости](https://novosti.blagorussia.ru/)
-* [О проекте](https://blagorussia.blogspot.com/2021/01/home.html)
-
-### Разделы
-
-* [Архивы75](https://www.blagorussia.ru/search/label/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D1%8B)
-* [Бесплатные курсы3](https://www.blagorussia.ru/search/label/%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%83%D1%80%D1%81%D1%8B)
-* [Воронеж582](https://www.blagorussia.ru/search/label/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)
-* [Генеральный план490](https://www.blagorussia.ru/search/label/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD)
-* [Демография1](https://www.blagorussia.ru/search/label/%D0%94%D0%B5%D0%BC%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F)
-* [Идеология48](https://www.blagorussia.ru/search/label/%D0%98%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-* [Италия1](https://www.blagorussia.ru/search/label/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F)
-* [Новости241](https://www.blagorussia.ru/search/label/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
-* [Партнерство79](https://www.blagorussia.ru/search/label/%D0%9F%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE)
-* [Психология1](https://www.blagorussia.ru/search/label/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-
-* [Содействие занятости1](https://www.blagorussia.ru/search/label/%D0%A1%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%BE%D1%81%D1%82%D0%B8)
-* [Статистика107](https://www.blagorussia.ru/search/label/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
-* [Технологии2](https://www.blagorussia.ru/search/label/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
-* [Цифровые профессии1](https://www.blagorussia.ru/search/label/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B8)
-
-Показать больше
-Показать меньше
-
-### Соцсети
-
-* [Группа Google](https://groups.google.com/g/BlagoRussia)
-* [Дзен](https://dzen.ru/blagorussia)
-
-### ВКонтакте
-
-### Одноклассники
-
-### Нас просмотрело:
-
-## Постоянные читатели
-
-### [Сообщить о нарушении](https://www.blogger.com/go/report-abuse)
-
-### Facebook
-
-> [Общественное благополучие](https://www.facebook.com/blagorussia)
+Беседовала **Антонида Пашинина**

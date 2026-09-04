@@ -5,7 +5,6 @@ aliases:
   - "/2021/02/brosura-v-pomos-nacinausemu-predprinimatelu-vybor-sistemy-nalogooblozenia/dopolnitelnaa-informacia-k-glave-3---prilozenie-1---v-pomos-nacinausemu-predprinimatelu-vybor-sistemy-nalogooblozenia.html"
 url: "/dopolnitelnaa-informacia-k-glave-3---prilozenie-1---v-pomos-/"
 ---
-
 |  |  |  |
 | --- | --- | --- |
 | [Предыдущая страница](http://www.blagorussia.ru/statistika/statistika-rossii/brosura-v-pomos-nacinausemu-predprinimatelu-vybor-sistemy-nalogooblozenia/glava-3-uprosennaa-sistema-nalogooblozenia-na-osnove-patenta-patent---v-pomos-nacinausemu-predprinimatelu-vybor-sistemy-nalogooblozenia) | [Оглавление](http://www.blagorussia.ru/statistika/statistika-rossii/brosura-v-pomos-nacinausemu-predprinimatelu-vybor-sistemy-nalogooblozenia) | [Следующая страница](http://www.blagorussia.ru/statistika/statistika-rossii/brosura-v-pomos-nacinausemu-predprinimatelu-vybor-sistemy-nalogooblozenia/dopolnitelnaa-informacia-k-glave-3---prilozenie-2---v-pomos-nacinausemu-predprinimatelu-vybor-sistemy-nalogooblozenia) |
@@ -14,13 +13,13 @@ url: "/dopolnitelnaa-informacia-k-glave-3---prilozenie-1---v-pomos-/"
 
 ### Перечень видов деятельности
 
-Пунктом 2 статьи 346.25.1 НК РФ установлен **перечень видов деятельности,** при осуществлении которых возможно применять УСН на основе патента:
+Пунктом 2 статьи 346.25.1 НК РФ установлен **перечень видов деятельности,** при осуществлении которых возможно применять УСН на основе патента:
 
 1) ремонт и пошив швейных, меховых и кожаных изделий, головных уборов и изделий из текстильной галантереи, ремонт, пошив и вязание трикотажных изделий;
 
 2) ремонт, окраска и пошив обуви;
 
-3) изготовление валяной обуви;
+3) изготовление валяной обуви;
 
 4) изготовление текстильной галантереи;
 

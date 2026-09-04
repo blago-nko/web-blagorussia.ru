@@ -6,22 +6,18 @@ aliases:
   - "/2020/12/titul.html"
 url: "/titul/"
 ---
-
-|  |  |
-| --- | --- |
-| [Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-i-cast-1) | [Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/vvedenie) |
+<table border="1" bordercolor="#888" cellspacing="0" style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px; font-family: &quot;trebuchet ms&quot;, sans-serif; margin: 0px;"><tbody><tr><td style="height: 19px; vertical-align: top; width: 399px;">[Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-i-cast-1)</td><td style="height: 19px; vertical-align: top; width: 365px;">[Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/vvedenie)</td></tr></tbody></table>
 
 **ОАО «Воронежпроект»**
 
 **ООО НПП «Экоград» ЦНИИП градостроительства РААСН**
-
- 
 
 **ГЕНЕРАЛЬНЫЙ ПЛАН ГОРОДСКОГО**
 
 **ОКРУГА ГОРОД ВОРОНЕЖ****.**
 
-**Том****I****.   «Градостроительство»  
+**Том****I****.   «Градостроительство»
+
 (Анализ современного состояния, комплексная оценка, планировка,**
 
 **экономика, транспорт).**
@@ -32,397 +28,42 @@ url: "/titul/"
 
 **ООО НПП «Экоград» ЦНИИП градостроительства РААСН**
 
-## ГЕНЕРАЛЬНЫЙ ПЛАН ГОРОДСКОГО
+## []()ГЕНЕРАЛЬНЫЙ ПЛАН ГОРОДСКОГО
 
 **ОКРУГА ГОРОД ВОРОНЕЖ****.**
 
-**Том****I****.   «Градостроительство»  
+**Том****I****.   «Градостроительство»
+
 (Анализ современного состояния, комплексная оценка, планировка,**
 
 **экономика, транспорт).**
 
-|  |  |
-| --- | --- |
-| **Генеральный директор ОАО «Воронежпроект»** | **С.А. Гилев** |
-| **Директор ООО НПП «Экоград»** | **К.Ф. Неустроев** |
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin: 0px 0px 0px 14.4pt;"><tbody><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 224.85pt;" valign="top" width="300"><p style="margin-bottom: 6pt;"><b>Генеральный директор<br /></br>ОАО «Воронежпроект»</b></p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 239.3pt;" valign="top" width="319"><p align="right" style="margin-bottom: 6pt; text-align: right;"><b><br /></br>С.А. Гилев</b></p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 224.85pt;" valign="top" width="300"><p style="margin-bottom: 6pt;"><b>Директор<br /></br>ООО НПП «Экоград»</b></p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 239.3pt;" valign="top" width="319"><p align="right" style="margin-bottom: 6pt; text-align: right;"><b><br /></br>К.Ф. Неустроев</b></p></td></tr></tbody></table>
 
-[![ГЕНЕРАЛЬНЫЙ ПЛАН ГОРОДСКОГО  ОКРУГА ГОРОД ВОРОНЕЖ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibkrom-psEpvjfVPmCkQCbrj0PIuOPC3WMYFhS2DuERbZi64kNbC1NryuCfZzFBSYtknT93oaNQWCT60lA00CwaTUW6mtWPyUvghAIVJ4jBpwgS8Nb-uLJDTgGcjsH-4hPfdKzVTGGBPet/w640-h426-rw/%25D0%2593%25D0%2595%25D0%259D%25D0%2595%25D0%25A0%25D0%2590%25D0%259B%25D0%25AC%25D0%259D%25D0%25AB%25D0%2599+%25D0%259F%25D0%259B%25D0%2590%25D0%259D+%25D0%2593%25D0%259E%25D0%25A0%25D0%259E%25D0%2594%25D0%25A1%25D0%259A%25D0%259E%25D0%2593%25D0%259E+%25D0%259E%25D0%259A%25D0%25A0%25D0%25A3%25D0%2593%25D0%2590+%25D0%2593%25D0%259E%25D0%25A0%25D0%259E%25D0%2594+%25D0%2592%25D0%259E%25D0%25A0%25D0%259E%25D0%259D%25D0%2595%25D0%2596.png "ГЕНЕРАЛЬНЫЙ ПЛАН ГОРОДСКОГО  ОКРУГА ГОРОД ВОРОНЕЖ")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibkrom-psEpvjfVPmCkQCbrj0PIuOPC3WMYFhS2DuERbZi64kNbC1NryuCfZzFBSYtknT93oaNQWCT60lA00CwaTUW6mtWPyUvghAIVJ4jBpwgS8Nb-uLJDTgGcjsH-4hPfdKzVTGGBPet/s945/%25D0%2593%25D0%2595%25D0%259D%25D0%2595%25D0%25A0%25D0%2590%25D0%259B%25D0%25AC%25D0%259D%25D0%25AB%25D0%2599+%25D0%259F%25D0%259B%25D0%2590%25D0%259D+%25D0%2593%25D0%259E%25D0%25A0%25D0%259E%25D0%2594%25D0%25A1%25D0%259A%25D0%259E%25D0%2593%25D0%259E+%25D0%259E%25D0%259A%25D0%25A0%25D0%25A3%25D0%2593%25D0%2590+%25D0%2593%25D0%259E%25D0%25A0%25D0%259E%25D0%2594+%25D0%2592%25D0%259E%25D0%25A0%25D0%259E%25D0%259D%25D0%2595%25D0%2596.png)
+<table align="left" border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0px 6.75pt;"><tbody><tr><td style="border: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 382.5pt;" valign="top" width="510"><p align="center"><b> </b><b>ЛИЦЕНЗИЯ</b></p><p align="center"><b>Д 674703</b></p><p align="center"><b>Регистрационный номер от 26.12.05г.</b></p><p align="center"><b>ГС-1-36-02-26-0-3666025853-004398-2</b></p><p align="center"><b>Государственного комитета Российской Федерации</b></p><p align="center"><b>по строительству и жилищно-коммунальному комплексу</b><b style="line-height: 24px;"><span style="font-size: 14pt; line-height: 28px;"> </span></b></p></td></tr></tbody></table>
 
-|  |
-| --- |
-| **ЛИЦЕНЗИЯ**  **Д 674703**  **Регистрационный номер от 26.12.05г.**  **ГС-1-36-02-26-0-3666025853-004398-2**  **Государственного комитета Российской Федерации**  **по строительству и жилищно-коммунальному комплексу** |
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibkrom-psEpvjfVPmCkQCbrj0PIuOPC3WMYFhS2DuERbZi64kNbC1NryuCfZzFBSYtknT93oaNQWCT60lA00CwaTUW6mtWPyUvghAIVJ4jBpwgS8Nb-uLJDTgGcjsH-4hPfdKzVTGGBPet/s1600/%25D0%2593%25D0%2595%25D0%259D%25D0%2595%25D0%25A0%25D0%2590%25D0%259B%25D0%25AC%25D0%259D%25D0%25AB%25D0%2599+%25D0%259F%25D0%259B%25D0%2590%25D0%259D+%25D0%2593%25D0%259E%25D0%25A0%25D0%259E%25D0%2594%25D0%25A1%25D0%259A%25D0%259E%25D0%2593%25D0%259E+%25D0%259E%25D0%259A%25D0%25A0%25D0%25A3%25D0%2593%25D0%2590+%25D0%2593%25D0%259E%25D0%25A0%25D0%259E%25D0%2594+%25D0%2592%25D0%259E%25D0%25A0%25D0%259E%25D0%259D%25D0%2595%25D0%2596.png" alt="ГЕНЕРАЛЬНЫЙ ПЛАН ГОРОДСКОГО  ОКРУГА ГОРОД ВОРОНЕЖ" title="ГЕНЕРАЛЬНЫЙ ПЛАН ГОРОДСКОГО  ОКРУГА ГОРОД ВОРОНЕЖ">
 
-|  |
-| --- |
-| **ЛИЦЕНЗИЯ**  **Б 102369**  **Регистрационный номер 938 от 13.04.1995г.**  **Российский лицензионный архитектурный центр** |
+<table align="left" border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0px 6.75pt;"><tbody><tr><td style="border: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 382.5pt;" valign="top" width="510"><p align="center"><b> </b><b>ЛИЦЕНЗИЯ</b></p><p align="center"><b>Б 102369</b></p><p align="center"><b>Регистрационный номер 938 от 13.04.1995г.</b></p><p align="center"><b>Российский лицензионный архитектурный центр</b><b><span style="font-size: 14pt;"> </span></b></p></td></tr></tbody></table>
 
 **Воронеж – Москва, 2006 г.**
 
 **Состав проекта.**
 
-|  |  |
-| --- | --- |
-| [Том I](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-i-cast-1) | Градостроительство (анализ современного состояния, комплексная оценка, планировка, экономика, транспорт). |
-| [Том II](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-ii) | Экологические аспекты. Основные положения и мероприятия. |
-| [Том III](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-iii) | Инженерная инфраструктура и благоустройство территории. |
-| **Том****III****а** | Водоснабжение (секретно). |
-| **Том****IV** | Инженерно-технические мероприятия гражданской обороны. Мероприятия по предупреждению чрезвычайных ситуаций (секретно). |
-| **Том****V** | Основные положения проекта генерального плана городского округа город Воронеж. |
-| **Том****VI** | Приложения (экспертное сопровождение, протоколы). |
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0px 0px 0px 5.4pt; width: 625px;"><tbody><tr style="height: 57.55pt;"><td style="border: none; height: 57.55pt; padding: 0cm 5.4pt; vertical-align: top; width: 76.6pt;" width="102"><p>[Том I](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-i-cast-1)</p></td><td style="border: none; height: 57.55pt; padding: 0cm 5.4pt; vertical-align: top; width: 392.15pt;" width="523"><p>Градостроительство (анализ современного состояния, комплексная оценка, планировка, экономика, транспорт).</p></td></tr><tr style="height: 45.85pt;"><td style="border: none; height: 45.85pt; padding: 0cm 5.4pt; vertical-align: top; width: 76.6pt;" width="102"><p>[Том II](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-ii)</p></td><td style="border: none; height: 45.85pt; padding: 0cm 5.4pt; vertical-align: top; width: 392.15pt;" width="523"><p>Экологические аспекты. Основные положения и мероприятия.</p></td></tr><tr style="height: 45.85pt;"><td style="border: none; height: 45.85pt; padding: 0cm 5.4pt; vertical-align: top; width: 76.6pt;" width="102"><p>[Том III](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-iii)</p></td><td style="border: none; height: 45.85pt; padding: 0cm 5.4pt; vertical-align: top; width: 392.15pt;" width="523"><p>Инженерная инфраструктура и благоустройство территории.</p></td></tr><tr style="height: 48.4pt;"><td style="border: none; height: 48.4pt; padding: 0cm 5.4pt; vertical-align: top; width: 76.6pt;" width="102"><p><b>Том </b><b><span lang="EN-US">III</span></b><b><span lang="EN-US"> </span></b><b><sup>а</sup></b></p></td><td style="border: none; height: 48.4pt; padding: 0cm 5.4pt; vertical-align: top; width: 392.15pt;" width="523"><p>Водоснабжение (секретно).</p></td></tr><tr style="height: 45.85pt;"><td style="border: none; height: 45.85pt; padding: 0cm 5.4pt; vertical-align: top; width: 76.6pt;" width="102"><p><b>Том </b><b><span lang="EN-US">IV</span></b></p></td><td style="border: none; height: 45.85pt; padding: 0cm 5.4pt; vertical-align: top; width: 392.15pt;" width="523"><p>Инженерно-технические мероприятия гражданской обороны. Мероприятия по предупреждению чрезвычайных ситуаций (секретно).</p></td></tr><tr style="height: 48.4pt;"><td style="border: none; height: 48.4pt; padding: 0cm 5.4pt; vertical-align: top; width: 76.6pt;" width="102"><p><b>Том </b><b><span lang="EN-US">V</span></b></p></td><td style="border: none; height: 48.4pt; padding: 0cm 5.4pt; vertical-align: top; width: 392.15pt;" width="523"><p>Основные положения проекта генерального плана городского округа город Воронеж.</p></td></tr><tr style="height: 48.4pt;"><td style="border: none; height: 48.4pt; padding: 0cm 5.4pt; vertical-align: top; width: 76.6pt;" width="102"><p><b>Том </b><b><span lang="EN-US">VI</span></b></p></td><td style="border: none; height: 48.4pt; padding: 0cm 5.4pt; vertical-align: top; width: 392.15pt;" width="523"><p>Приложения (экспертное сопровождение, протоколы).</p></td></tr></tbody></table>
 
 Генеральный план городского округа город Воронеж разработан по заказу Департамента градостроительства и земельных отношений администрации городского округа г. Воронеж, в соответствии с заданием на разработку, утвержденном в установленном порядке.
 
-**Генеральный проектировщик** – ОАО «Воронежпроект» 
+**Генеральный проектировщик** – ОАО «Воронежпроект» 
 
-**Субподрядные организации:**ЦНИИП Градостроительства РААСН, ООО НПП «Экоград»;
+**Субподрядные организации:** ЦНИИП Градостроительства РААСН, ООО НПП «Экоград»;
 
 Фонд «Московский экологический центр», ЗАО «Группа компаний ШАНЭКО»;
 
-МЧС России, Военно-инженерная Академия.
+МЧС России, Военно-инженерная Академия. 
 
-**СОДЕРЖАНИЕ ТОМА****I** 
+**СОДЕРЖАНИЕ ТОМА****I** 
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  | **Введение.** | | |
-| **1.** | **Анализ современного состояния и материалов предшествующей градостроительной документации.** | | |
-|  | 1.1. | [Методический подход](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/metodiceskij-podhod). | |
-|  | 1.2. | [Исторический обзор развития города](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/istoriceskij-obzor-razvitia-goroda). | |
-|  | 1.3. | [Анализ развития города 1970-2003 гг.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/analiz-razvitia-goroda-1970-2003-gg) | |
-|  | 1.4. | [Современные аспекты Концепции территориально-градостроительного развития г. Воронежа и его пригородной зоны.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/sovremennye-aspekty-koncepcii-territorialno-gradostroitelnogo-razvitia-g-voroneza-i-ego-prigorodnoj-zony) | |
-| **2.** | **Комплексная оценка и функциональное зонирование территории.** | | |
-|  | 2.1. | [Методические основы и расчетное обоснование.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/gorodskie-funkcii-i-funkcionalnoe-zonirovanie-territorii) | |
-|  | 2.2. | [Существующее функциональное использование и комплексная предпроектная градостроительная оценка территории г. Воронежа.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/perecen-risunkov-k-razdelu) | |
-| **3** | **Основные направления развития городского округа.** | | |
-|  | 3.1. | [Базовый прогноз численности населения.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/bazovyj-prognoz-cislennosti-naselenia) | |
-|  | 3.2. | Жилищное строительство. | |
-|  |  | 3.2.1. | [Современное состояние.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/sovremennoe-sostoanie) |
-|  |  | 3.2.2. | [Расчетный срок (2020 г.).](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/rascetnyj-srok-2020-g) |
-|  |  | 3.2.3. | [Первая очередь строительства (2010-2012 гг.).](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/pervaa-ocered-stroitelstva-2010-2012-gg) |
-|  |  | 3.2.4. | [Вторая очередь строительства (2012-2020 гг.).](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/vtoraa-ocered-stroitelstva-2011-2020-gg) |
-|  |  | 3.2.5. | [Перспектива (за расчетным сроком).](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/perspektiva-za-rascetnym-srokom) |
-|  | 3.3. | [Планировочная организация и варианты территориального развития.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/planirovocnaa-organizacia) | |
-|  | 3.4. | [Учреждения и предприятия культурно-бытового обслуживания.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/ucrezdenia-i-predpriatia-kulturno-bytovogo-obsluzivania) | |
-| **4.** | **Внешний транспорт. Улично-дорожная сеть и городской транспорт.** | | |
-|  | 4.1. | Внешний транспорт. | |
-|  |  | 4.1.1. | [Современное состояние.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/sovremennoe-sostoanie-1) |
-|  |  | 4.1.2. | [Проектные предложения.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/4-1-2-proektnye-predlozenia) |
-|  | 4.2. | Улично-дорожная сеть и городской транспорт. | |
-|  |  | 4.2.1. | [Современное состояние.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/sovremennoe-sostoanie-2) |
-|  |  | 4.2.2. | [Проектные предложения.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/metodika-rasceta-passaziro--i-avtomobilepotokov-v-kts-na-osnove-komputernyh-tehnologij) |
-| **5.** | **[Основные технико-экономические показатели.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/territoria)** | | |
-| **6.** | **Генеральный план в системе муниципального управления территориальным развитием города.** | | |
-|  | 6.1. | [Мероприятия реализации генерального плана развития г. о. г. Воронежа.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/meropriatia-realizacii-genarlnogo-plana-razvitia-g-voroneza) | |
-|  | 6.2. | [Дополнительные возможности использования результатов генерального плана г. о. г. Воронежа.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/realizacia-proekta-razvitia-i-dinamika-stoimosti-gorodskih-zemel) | |
-| **7.** | **Приложения** (альбом графических материалов к Тому I «Градостроительство»). | | |
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin: 0px;"><tbody><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="margin-bottom: 7.2pt; text-align: right;"><b> </b></p></td><td colspan="3" style="padding: 0cm 5.4pt; vertical-align: top; width: 417.9pt;" valign="top" width="557"><p style="margin-bottom: 7.2pt; text-align: justify;"><b>Введение.</b></p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"><b>1.</b></p></td><td colspan="3" style="padding: 0cm 5.4pt; vertical-align: top; width: 417.9pt;" valign="top" width="557"><p style="text-align: justify;"><b>Анализ современного состояния и материалов предшествующей градостроительной документации.</b></p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;">1.1.</p></td><td colspan="2" style="padding: 0cm 5.4pt; vertical-align: top; width: 381.85pt;" valign="top" width="509"><p style="text-align: justify;">[Методический подход](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/metodiceskij-podhod).</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;">1.2.</p></td><td colspan="2" style="padding: 0cm 5.4pt; vertical-align: top; width: 381.85pt;" valign="top" width="509"><p style="text-align: justify;">[Исторический обзор развития города](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/istoriceskij-obzor-razvitia-goroda).</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;">1.3.</p></td><td colspan="2" style="padding: 0cm 5.4pt; vertical-align: top; width: 381.85pt;" valign="top" width="509"><p style="text-align: justify;">[Анализ развития города 1970-2003 гг.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/analiz-razvitia-goroda-1970-2003-gg)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="margin-bottom: 6pt; text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="margin-bottom: 6pt; text-align: right;">1.4.</p></td><td colspan="2" style="padding: 0cm 5.4pt; vertical-align: top; width: 381.85pt;" valign="top" width="509"><p style="margin-bottom: 6pt; text-align: justify;">[Современные аспекты Концепции территориально-градостроительного развития г. Воронежа и его пригородной зоны.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/sovremennye-aspekty-koncepcii-territorialno-gradostroitelnogo-razvitia-g-voroneza-i-ego-prigorodnoj-zony)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"><b>2.</b></p></td><td colspan="3" style="padding: 0cm 5.4pt; vertical-align: top; width: 417.9pt;" valign="top" width="557"><p style="text-align: justify;"><b>Комплексная оценка и функциональное зонирование территории.</b></p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;">2.1.</p></td><td colspan="2" style="padding: 0cm 5.4pt; vertical-align: top; width: 381.85pt;" valign="top" width="509"><p style="text-align: justify;">[Методические основы и расчетное обоснование.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/gorodskie-funkcii-i-funkcionalnoe-zonirovanie-territorii)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="margin-bottom: 6pt; text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="margin-bottom: 6pt; text-align: right;">2.2.</p></td><td colspan="2" style="padding: 0cm 5.4pt; vertical-align: top; width: 381.85pt;" valign="top" width="509"><p style="margin-bottom: 6pt; text-align: justify;">[Существующее функциональное использование и комплексная предпроектная градостроительная оценка территории г. Воронежа.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/perecen-risunkov-k-razdelu)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"><b>3</b></p></td><td colspan="3" style="padding: 0cm 5.4pt; vertical-align: top; width: 417.9pt;" valign="top" width="557"><p style="text-align: justify;"><b>Основные направления развития городского округа.</b></p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;">3.1.</p></td><td colspan="2" style="padding: 0cm 5.4pt; vertical-align: top; width: 381.85pt;" valign="top" width="509"><p style="text-align: justify;">[Базовый прогноз численности населения.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/bazovyj-prognoz-cislennosti-naselenia)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;">3.2.</p></td><td colspan="2" style="padding: 0cm 5.4pt; vertical-align: top; width: 381.85pt;" valign="top" width="509"><p style="text-align: justify;">Жилищное строительство.</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 45pt;" valign="top" width="60"><p>3.2.1.</p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 336.85pt;" valign="top" width="449"><p style="text-align: justify;">[Современное состояние.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/sovremennoe-sostoanie)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 45pt;" valign="top" width="60"><p>3.2.2.</p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 336.85pt;" valign="top" width="449"><p style="text-align: justify;">[Расчетный срок (2020 г.).](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/rascetnyj-srok-2020-g)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 45pt;" valign="top" width="60"><p>3.2.3.</p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 336.85pt;" valign="top" width="449"><p style="text-align: justify;">[Первая очередь строительства (2010-2012 гг.).](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/pervaa-ocered-stroitelstva-2010-2012-gg)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 45pt;" valign="top" width="60"><p>3.2.4.</p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 336.85pt;" valign="top" width="449"><p style="text-align: justify;">[Вторая очередь строительства (2012-2020 гг.).](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/vtoraa-ocered-stroitelstva-2011-2020-gg)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 45pt;" valign="top" width="60"><p>3.2.5.</p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 336.85pt;" valign="top" width="449"><p style="text-align: justify;">[Перспектива (за расчетным сроком).](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/perspektiva-za-rascetnym-srokom)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;">3.3.</p></td><td colspan="2" style="padding: 0cm 5.4pt; vertical-align: top; width: 381.85pt;" valign="top" width="509"><p style="text-align: justify;"><span style="letter-spacing: -1pt;"><span style="font-size: small;">[Планировочная организация и варианты территориального развития.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/planirovocnaa-organizacia)</span></span></p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;">3.4.</p></td><td colspan="2" style="padding: 0cm 5.4pt; vertical-align: top; width: 381.85pt;" valign="top" width="509"><p style="text-align: justify;"><span style="letter-spacing: -0.5pt;">[Учреждения и предприятия культурно-бытового обслуживания.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/ucrezdenia-i-predpriatia-kulturno-bytovogo-obsluzivania)</span></p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"><b>4.</b></p></td><td colspan="3" style="padding: 0cm 5.4pt; vertical-align: top; width: 417.9pt;" valign="top" width="557"><p style="text-align: justify;"><b>Внешний транспорт. Улично-дорожная сеть и городской транспорт.</b></p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;">4.1.</p></td><td colspan="2" style="padding: 0cm 5.4pt; vertical-align: top; width: 381.85pt;" valign="top" width="509"><p style="text-align: justify;">Внешний транспорт.</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" width="31"><p> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" width="48"><p> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 45pt;" width="60"><p>4.1.1.</p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 336.85pt;" width="449"><p>[Современное состояние.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/sovremennoe-sostoanie-1)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" width="31"><p> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" width="48"><p> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 45pt;" width="60"><p>4.1.2.</p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 336.85pt;" width="449"><p>[Проектные предложения.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/4-1-2-proektnye-predlozenia)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;">4.2.</p></td><td colspan="2" style="padding: 0cm 5.4pt; vertical-align: top; width: 381.85pt;" valign="top" width="509"><p style="text-align: justify;">Улично-дорожная сеть и городской транспорт.</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" width="31"><p> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" width="48"><p> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 45pt;" valign="top" width="60"><p align="right" style="text-align: right;">4.2.1.</p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 336.85pt;" valign="top" width="449"><p style="text-align: justify;">[Современное состояние.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/sovremennoe-sostoanie-2)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" width="31"><p style="margin-bottom: 6pt;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" width="48"><p style="margin-bottom: 6pt;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 45pt;" valign="top" width="60"><p align="right" style="margin-bottom: 6pt; text-align: right;">4.2.2.</p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 336.85pt;" valign="top" width="449"><p style="margin-bottom: 6pt; text-align: justify;">[Проектные предложения.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/metodika-rasceta-passaziro--i-avtomobilepotokov-v-kts-na-osnove-komputernyh-tehnologij)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" width="31"><p align="right" style="text-align: right;"><b>5.</b></p></td><td colspan="3" style="padding: 0cm 5.4pt; vertical-align: top; width: 417.9pt;" valign="top" width="557"><p style="text-align: justify;"><b>[Основные технико-экономические показатели.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/territoria)</b></p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"><b>6.</b></p></td><td colspan="3" style="padding: 0cm 5.4pt; vertical-align: top; width: 417.9pt;" valign="top" width="557"><p style="text-align: justify;"><b>Генеральный план в системе муниципального управления территориальным развитием города.</b></p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="text-align: right;">6.1.</p></td><td colspan="2" style="padding: 0cm 5.4pt; vertical-align: top; width: 381.85pt;" valign="top" width="509"><p style="text-align: justify;">[Мероприятия реализации генерального плана развития г. о. г. Воронежа.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/meropriatia-realizacii-genarlnogo-plana-razvitia-g-voroneza)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="margin-bottom: 6pt; text-align: right;"> </p></td><td style="padding: 0cm 5.4pt; vertical-align: top; width: 36.05pt;" valign="top" width="48"><p align="right" style="margin-bottom: 6pt; text-align: right;">6.2.</p></td><td colspan="2" style="padding: 0cm 5.4pt; vertical-align: top; width: 381.85pt;" valign="top" width="509"><p style="margin-bottom: 6pt; text-align: justify;">[Дополнительные возможности использования результатов генерального плана г. о. г. Воронежа.](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/realizacia-proekta-razvitia-i-dinamika-stoimosti-gorodskih-zemel)</p></td></tr><tr><td style="padding: 0cm 5.4pt; vertical-align: top; width: 23.35pt;" valign="top" width="31"><p align="right" style="text-align: right;"><b>7.</b></p></td><td colspan="3" style="padding: 0cm 5.4pt; vertical-align: top; width: 417.9pt;" valign="top" width="557"><p style="text-align: justify;"><b>Приложения</b> (альбом графических материалов к Тому <span lang="EN-US">I</span> «Градостроительство»).</p><p style="text-align: justify;"><br /></br></p></td></tr></tbody></table>
 
-|  |  |
-| --- | --- |
-| [Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-i-cast-1) | [Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/vvedenie) |
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-Ярлыки:
-[Воронеж](https://www.blagorussia.ru/search/label/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)
-[Генеральный план](https://www.blagorussia.ru/search/label/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD)
-
-
-
-### Комментарии
-
-#### Отправить комментарий
-
-
-
-
-### Популярные сообщения
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgSG21PyW3uyy9gRIrJtKW_kUnhoRKQurEbbgh3AB-QeObd1PbPEJRfpRUp9UIrPeFQOTuRwP57ZdPHiApc4O5ia53BfnKXH4T9ulanGJb0CnYM09ADPmPMVUJdSlrdiYmlnG66QCLYgep/s1600/%25D0%25BA%25D0%25BB%25D1%258E%25D1%2587%25D1%258C.jpg)](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[апреля 10, 2021](https://www.blagorussia.ru/2021/01/vidy-vlasti.html "permanent link")
-
-### [Виды власти](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/vidy-vlasti.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ubOiunilK6EZiGZ_dU5Aoe5XVQgssjrALIzVaevG80XhPSKgUXXp75O5K9kgXdgg19w_XCQSN3H1nm2zEPt6fLeGz3QpSC1LrrzXTrQo0_lLa-n9grMNG2vKBNaugXNxkxVH5DC0Wqe3/w458-h640/%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25BF%25D0%25BB%25D0%25B0%25D0%25BD.jpg)](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 03, 2020](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html "permanent link")
-
-### [Генеральный план города Воронеж](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI2tQMIKYVOeVrTEtKwdxrWMdy2vtZO3e_zbzC7dlH0gy-lhqUg8gDi-hBwg5YtWv66MvzEXUtE_fGmlzsFAwC1gWn9XEkKlCTZUBI64vCwrw0TCfWnZuAMUCTEI_8kzIdBMLswxP7TkrpL8g-azifWE7y-PkDapSeYuS4m6G-C3QX6tRtKcNTjCBdWH8/w640-h640/kandinsky-download-1695312877484.png)](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Автор:
-
-
-[Артем Диденко](https://www.blogger.com/profile/04844297396744788167 "author profile")
-
-
-[сентября 21, 2023](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html "permanent link")
-
-### [Основное применение информационных технологий в психологии](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[мая 21, 2020](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html "permanent link")
-
-### [Банковская система основной потребитель услуг тайных покупателей](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 04, 2021](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html "permanent link")
-
-### [Том I часть 1](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUjVMbfqHU9nc38wl7TjcJJSDVYaeyv-ajtATvLZovQa_xmta6nlzf9HjGtmmUlvgmxm46CCsBsco0aGu5oyY2BwYHyoz6Ad2gKDKidUjhxV-KaEUTJgXn3MmZ5_N21PPeAIfv1x-FTNXA/w458-h640/%25D1%2581%25D1%2585+%25D0%25B3%25D0%25BE%25D1%2580%25D0%25BE%25D0%25B4%25D1%2581%25D0%25BA+%25D0%25BF%25D0%25B0%25D1%2581%25D1%2581%25D0%25B0%25D0%25B6%25D0%25B8%25D1%2580%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B3%25D0%25BE+%25D1%2582%25D1%2580%25D0%25B0%25D0%25BD%25D1%2581%25D0%25BF.jpg)](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[ноября 24, 2020](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html "permanent link")
-
-### [Схема городского пассажирского транспорта](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июля 09, 2020](https://www.blagorussia.ru/2020/07/zilye-zony.html "permanent link")
-
-### [Жилые зоны](https://www.blagorussia.ru/2020/07/zilye-zony.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/07/zilye-zony.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[сентября 19, 2020](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html "permanent link")
-
-### [карты градостроительного зонирования](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 12, 2020](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html "permanent link")
-
-### [11. Инженерная подготовка территории](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 05, 2021](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html "permanent link")
-
-### [Характеристика и оценка экологического состояния водных объектов г. Воронежа](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html#comments)
-
-
-
-
-[Политика конфиденциальности](http://partnerstvo.blagorussia.ru/politika-konfidencialnosti)
-
-![](https://mc.yandex.ru/watch/21798445)
-
-![Top.Mail.Ru](https://top-fwz1.mail.ru/counter?id=2347426;js=na)
-
-[Технологии Blogger](https://www.blogger.com)
-
-@ 2010 - 2025 года
-
-
-
-
-
-### Перевести - Translate
-
-### Навигация по сайту
-
-* [Главная страница](https://blagorussia.blogspot.com/)
-* [Новости](https://novosti.blagorussia.ru/)
-* [О проекте](https://blagorussia.blogspot.com/2021/01/home.html)
-
-### Разделы
-
-* [Архивы75](https://www.blagorussia.ru/search/label/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D1%8B)
-* [Бесплатные курсы3](https://www.blagorussia.ru/search/label/%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%83%D1%80%D1%81%D1%8B)
-* [Воронеж582](https://www.blagorussia.ru/search/label/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)
-* [Генеральный план490](https://www.blagorussia.ru/search/label/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD)
-* [Демография1](https://www.blagorussia.ru/search/label/%D0%94%D0%B5%D0%BC%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F)
-* [Идеология48](https://www.blagorussia.ru/search/label/%D0%98%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-* [Италия1](https://www.blagorussia.ru/search/label/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F)
-* [Новости241](https://www.blagorussia.ru/search/label/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
-* [Партнерство79](https://www.blagorussia.ru/search/label/%D0%9F%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE)
-* [Психология1](https://www.blagorussia.ru/search/label/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-
-* [Содействие занятости1](https://www.blagorussia.ru/search/label/%D0%A1%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%BE%D1%81%D1%82%D0%B8)
-* [Статистика107](https://www.blagorussia.ru/search/label/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
-* [Технологии2](https://www.blagorussia.ru/search/label/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
-* [Цифровые профессии1](https://www.blagorussia.ru/search/label/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B8)
-
-Показать больше
-Показать меньше
-
-### Соцсети
-
-* [Группа Google](https://groups.google.com/g/BlagoRussia)
-* [Дзен](https://dzen.ru/blagorussia)
-
-### ВКонтакте
-
-### Одноклассники
-
-### Нас просмотрело:
-
-## Постоянные читатели
-
-### [Сообщить о нарушении](https://www.blogger.com/go/report-abuse)
-
-### Facebook
-
-> [Общественное благополучие](https://www.facebook.com/blagorussia)
+<table border="1" bordercolor="#888" cellspacing="0" style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px; margin: 0px;"><tbody><tr><td style="height: 19px; vertical-align: top; width: 392px;">[Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-i-cast-1)</td><td style="height: 19px; vertical-align: top; width: 372px;">[Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/vvedenie)<br /></br></td></tr></tbody></table>
