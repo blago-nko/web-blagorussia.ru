@@ -6,16 +6,13 @@ aliases:
   - "/2020/06/analiz-razvitiya-goroda-1970-2003-gg.html"
 url: "/analiz-razvitiya-goroda-1970-2003-gg/"
 ---
+<table border="1" bordercolor="#888" cellspacing="0" style="background-color: transparent; border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px; margin: 0px;"><tbody><tr><td style="height: 19px; vertical-align: top; width: 272px;">[Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/istoriceskij-obzor-razvitia-goroda)</td><td style="height: 19px; vertical-align: top; width: 230px;">[Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-i-cast-1)</td><td style="height: 19px; vertical-align: top; width: 258px;">[Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/sovremennye-aspekty-koncepcii-territorialno-gradostroitelnogo-razvitia-g-voroneza-i-ego-prigorodnoj-zony)</td></tr></tbody></table>
 
-|  |  |  |
-| --- | --- | --- |
-| [Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/istoriceskij-obzor-razvitia-goroda) | [Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-i-cast-1) | [Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/sovremennye-aspekty-koncepcii-territorialno-gradostroitelnogo-razvitia-g-voroneza-i-ego-prigorodnoj-zony) |
-
-## **1.3. АНАЛИЗ РАЗВИТИЯ ГОРОДА 1970-2003 гг.**
+## [](https://draft.blogger.com/null)**1.3. АНАЛИЗ РАЗВИТИЯ ГОРОДА 1970-2003 гг.**
 
 По данным «Воронежпроекта», анализ реализации генерального плана 1970 г. позволяет выявить основные тенденции развития города.
 
-#### **Население.**
+#### [](https://draft.blogger.com/null)**Население.**
 
 Наиболее существенно изменилось население г. Воронежа за последние 30 лет. За период с 1970 года оно увеличилось в 1,4 раза. Наибольший рост численности населения приходится на 1970-79 годы, период усиленной индустриализации и концентрации промышленного производства в областном центре. Население за данный период увеличилось на 127,3 тыс. человек. 1979-1989 гг. – период стабилизации с умеренным развитием промышленного производства – рост численности составил 113,3 тыс. человек.
 
@@ -25,17 +22,10 @@ url: "/analiz-razvitiya-goroda-1970-2003-gg/"
 
 Динамика численности населения г. Воронежа отражает устойчивое замедление темпов роста и прогнозируемая численность его составит не более 1 млн. человек.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| **Показатели** | **Единицы измерения** | **Этапы развития** | |
-| **По ГП 1970 г.** | **2003 год** |
-| Численность населения |  |  |  |
-| - всего | тыс. чел. | 1047,0 | 975,7 |
-| *в том числе:* |  |  |  |
-| - собственно город | тыс. чел. | 1000,0 | 900,8 |
-| - административно-подчиненные поселения | тыс. чел. | 47,0 | 74,9 |
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0px;"><tbody><tr style="height: 30pt;"><td rowspan="2" style="background: rgb(179, 179, 179); border: 1pt solid windowtext; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><b>Показатели</b></div></td><td rowspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 81pt;" width="108"><div align="center"><b>Единицы<br /></br>измерения</b></div></td><td colspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 162pt;" width="216"><div align="center"><b>Этапы развития</b></div></td></tr><tr style="height: 30pt;"><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 87.3pt;" width="116"><div align="center"><b>По ГП<br /></br>1970 г.</b></div></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 74.7pt;" width="100"><div align="center"><b>2003 год</b></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">Численность населения</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 81pt;" width="108"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 87.3pt;" width="116"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 74.7pt;" width="100"><div align="center"><br /></br></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">- всего</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 81pt;" width="108"><div align="center"><span style="font-size: small;">тыс. чел.</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 87.3pt;" width="116"><div align="center"><span style="font-size: small;">1047,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 74.7pt;" width="100"><div align="center"><span style="font-size: small;">975,7</span></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><i>в том числе:</i></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 81pt;" width="108"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 87.3pt;" width="116"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 74.7pt;" width="100"><div align="center"><br /></br></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">- собственно город</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 81pt;" width="108"><div align="center"><span style="font-size: small;">тыс. чел.</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 87.3pt;" width="116"><div align="center"><span style="font-size: small;">1000,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 74.7pt;" width="100"><div align="center"><span style="font-size: small;">900,8</span></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">- административно-подчиненные поселения</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 81pt;" width="108"><div align="center"><span style="font-size: small;">тыс. чел.</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 87.3pt;" width="116"><div align="center"><span style="font-size: small;">47,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 74.7pt;" width="100"><div align="center"><span style="font-size: small;">74,9</span></div></td></tr></tbody></table>
 
 1. Отклонение численности населения собственно города Воронежа от расчетных параметров генерального плана на 100 тыс. человек.
+
 2. В административное подчинение г. Воронежа включено 14 населенных пунктов, вместо четырех, предлагаемых по генеральному плану. Соответственно численность населения составила 74,9 тыс. человек, вместо 47,0 тыс. человек.
 
 Многолетняя тенденция роста численности населения города в девяностые годы сменилась убылью в результате увеличения общего показателя смертности и снижения механического прироста.
@@ -46,78 +36,53 @@ url: "/analiz-razvitiya-goroda-1970-2003-gg/"
 
 Растет удельный вес социально-ориентированных отраслей промышленности и, так называемого, «третичного сектора экономики» (биржи, страховые, рекламные и др. фирмы).
 
-#### **Территория города.**
+#### [](https://draft.blogger.com/null)**Территория города.**
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| **Показатели** | **Единицы измерения** | **Этапы развития** | |
-| **По ГП 1970 г.** | **2003 год** |
-| 1. | 2. | 3. | 4. |
-| Территория города |  |  |  |
-| - всего | тыс. га | 32,9 | 59,2 |
-| 1. | 2. | 3. | 4. |
-| *в том числе:* |  |  |  |
-| - пределах городской застройки | тыс. га | 14,6 | 19,8 |
-| *в том числе:* |  |  |  |
-| а) селитебные территории | тыс. га | 8,3 | 11,8 |
-| б) внеселитебные территории | тыс. га | 6,1 | 8,0 |
-| - за пределами городской застройки | тыс. га | 18,3 | 39,4 |
-| *в том числе:* |  |  |  |
-| а) лесные массивы | тыс. га | 9,7 | 20,0 |
-| б) сельскохозяйственные территории | тыс. га | 0,5 | 6,1 |
-| в) водные пространства и пойменные территории | тыс. га | 3,8 | 7,8 |
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0px;"><tbody><tr><td rowspan="2" style="background: rgb(179, 179, 179); border: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><b>Показатели</b></div></td><td rowspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><b>Единицы<br /></br>измерения</b></div></td><td colspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 158.15pt;" width="211"><div align="center"><b>Этапы развития</b></div></td></tr><tr><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><b>По ГП<br /></br>1970 г.</b></div></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><b>2003 год</b></div></td></tr><tr style="height: 7.5pt;"><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 7.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><span style="font-size: small;">1.</span></div></td><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 7.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">2.</span></div></td><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 7.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">3.</span></div></td><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 7.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">4.</span></div></td></tr><tr style="height: 21.75pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 21.75pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">Территория города</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 21.75pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 21.75pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 21.75pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><br /></br></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">- всего</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">32,9</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">59,2</span></div></td></tr><tr style="height: 8.25pt;"><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 8.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><span style="font-size: small;">1.</span></div></td><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 8.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">2.</span></div></td><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 8.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">3.</span></div></td><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 8.25pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">4.</span></div></td></tr><tr style="height: 21pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 21pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><i>в том числе:</i></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 21pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 21pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 21pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><br /></br></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">- пределах городской застройки</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">14,6</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">19,8</span></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><i>в том числе:</i></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><br /></br></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">а) селитебные территории</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">8,3</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">11,8</span></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">б) внеселитебные территории</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">6,1</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">8,0</span></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">- <span style="letter-spacing: -0.2pt;">за пределами городской застройки</span></span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">18,3</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">39,4</span></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><i>в том числе:</i></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><br /></br></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">а) лесные массивы</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">9,7</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">20,0</span></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">б) <span style="letter-spacing: -0.3pt;">сельскохозяйственные территории</span></span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">0,5</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">6,1</span></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">в) водные пространства и пойменные территории</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">3,8</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">7,8</span></div></td></tr></tbody></table>
 
 Территория города увеличилась на 26,3 тыс. га, т.е. почти удвоилась, в том числе:
 
-* в пределах застроенных территорий – на 5,2 тыс. га, в основном (на 75%) за счет застроенных территорий поселений, административно подчиненных городу;
-* за пределами застроенных территорий – на 21,1 тыс. га, из них:
+- в пределах застроенных территорий – на 5,2 тыс. га, в основном (на 75%) за счет застроенных территорий поселений, административно подчиненных городу;
 
-+ территория лесных массивов возросла на 10,3 тыс. га;
-+ территория сельскохозяйственных территорий – на 5,6 тыс. га;
-+ территория водных пространств и пойменных территорий – на 4,8 тыс. га.
+- за пределами застроенных территорий – на 21,1 тыс. га, из них:
+
+- территория лесных массивов возросла на 10,3 тыс. га;
+
+- территория сельскохозяйственных территорий – на 5,6 тыс. га;
+
+- территория водных пространств и пойменных территорий – на 4,8 тыс. га.
 
 Таким образом увеличилось влияние г. Воронежа на сопредельные территории и возросли нагрузки на природный комплекс города.
 
-#### **Селитебные территории.**
+#### [](https://draft.blogger.com/null)**Селитебные территории.**
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| **Показатели** | **Единицы измерения** | **Этапы развития** | |
-| **По ГП 1970 г.** | **2003 год** |
-| 1. | 2. | 3. | 4. |
-| Селитебные территории |  |  |  |
-| - всего | тыс. га | 8,3 | 11,8 |
-| *в том числе:* |  |  |  |
-| - территории многоэтажной застройки | тыс. га | 3,5 | 3,6 |
-| *из них:* |  |  |  |
-| территории многоэтажной застройки поселков, административно подчиненных городу | тыс. га | - | 0,1 |
-| 1. | 2. | 3. | 4. |
-| - территории индивидуальной усадебной застройки | тыс. га | 0,4 | 3,1 |
-| *из них:* |  |  |  |
-| территории индивидуальной усадебной застройки поселков, административно подчиненных городу | тыс. га | - | 1,4 |
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0px;"><tbody><tr><td rowspan="2" style="background: rgb(179, 179, 179); border: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><b>Показатели</b></div></td><td rowspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><b>Единицы<br /></br>измерения</b></div></td><td colspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 158.15pt;" width="211"><div align="center"><b>Этапы развития</b></div></td></tr><tr><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><b>По ГП<br /></br>1970 г.</b></div></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><b>2003 год</b></div></td></tr><tr style="height: 7.5pt;"><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 7.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><span style="font-size: small;">1.</span></div></td><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 7.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">2.</span></div></td><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 7.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">3.</span></div></td><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 7.5pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">4.</span></div></td></tr><tr style="height: 31.55pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 31.55pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">Селитебные территории</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.55pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.55pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 31.55pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><br /></br></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">- всего</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">8,3</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">11,8</span></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><i>в том числе:</i></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><br /></br></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">- <span style="letter-spacing: -0.4pt;">территории многоэтажной застройки</span></span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">3,5</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">3,6</span></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><i>из них:</i></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><br /></br></div></td></tr><tr style="height: 43.1pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 43.1pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">территории многоэтажной застройки поселков, административно подчиненных городу</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 43.1pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 43.1pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">-</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 43.1pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">0,1</span></div></td></tr><tr style="height: 9.75pt;"><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 9.75pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><span style="font-size: small;">1.</span></div></td><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 9.75pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">2.</span></div></td><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 9.75pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">3.</span></div></td><td style="background: rgb(230, 230, 230); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 9.75pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">4.</span></div></td></tr><tr style="height: 45pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">- территории индивидуальной усадебной застройки</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">0,4</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">3,1</span></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><i>из них:</i></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><br /></br></div></td></tr><tr style="height: 30pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div style="text-align: justify;"><span style="font-size: small;">территории индивидуальной усадебной застройки поселков, административно подчиненных городу</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 90pt;" width="120"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.05pt;" width="105"><div align="center"><span style="font-size: small;">-</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 30pt; padding: 0cm 5.4pt; vertical-align: top; width: 79.1pt;" width="105"><div align="center"><span style="font-size: small;">1,4</span></div></td></tr></tbody></table>
 
 1. Селитебные территории в пределах городской черты увеличились на 3,5 тыс. га, в том числе:
 
-* территория жилой застройки – на 2,8 тыс. га;
+- территория жилой застройки – на 2,8 тыс. га;
 
 *из них:*
 
-* жилой застройки собственно г. Воронежа – на 1,3 тыс. га;
-* жилые кварталы поселений составили 1,5 тыс. га.
+- жилой застройки собственно г. Воронежа – на 1,3 тыс. га;
+
+- жилые кварталы поселений составили 1,5 тыс. га.
 
 2. По генеральному плану предполагалось строительство вести:
 
-* на свободных территориях – 55%;
-* на реконструируемых – 45%.
+- на свободных территориях – 55%;
+
+- на реконструируемых – 45%.
 
 Фактически застройка осуществлялась:
 
-* на свободных территориях – 77%;
-* на реконструируемых – 23%.
+- на свободных территориях – 77%;
 
-В связи с этим, **свободные территории**, предложенные генеральным планом **освоены на 90****%**. Не освоенными остались территории в западной части правого берега (район «Тамбовского карьера», частично застроенный объектами коммунального назначения) и на левом берегу – намывные территории. **Реконструируемы****е – на 30%**.
+- на реконструируемых – 23%.
 
-3. Вопреки решениям генерального плана, освоены следующие территории: МКР по ул. Ломоносова, МКР №16 СЖР, MKР по Московскому проспекту (ВГУ), МКР по ул. Рижской, Димитрова, Иркутской, Чебышева, кварталы на пересечении ул. 9 Января – Антонова-Овсеенко, Хользунова – Шишкова, Кривошеина.
+В связи с этим, **свободные территории**, предложенные генеральным планом** освоены на 90****%**. Не освоенными остались территории в западной части правого берега (район «Тамбовского карьера», частично застроенный объектами коммунального назначения) и на левом берегу – намывные территории.** Реконструируемы****е – на 30%**.
+
+3. Вопреки решениям генерального плана, освоены следующие территории: МКР по ул. Ломоносова, МКР №16 СЖР, MKР по Московскому проспекту (ВГУ), МКР по ул. Рижской, Димитрова, Иркутской, Чебышева, кварталы на пересечении ул. 9 Января – Антонова-Овсеенко, Хользунова – Шишкова, Кривошеина.
 
 Территория городской застройки составляет 33,4% от всей территории города. Проектами детальных планировок охвачено 60% территории городской застройки.
 
@@ -125,10 +90,13 @@ url: "/analiz-razvitiya-goroda-1970-2003-gg/"
 
 Снос одноэтажного жилого фонда предусматривался:
 
-* под многоэтажное жилищное строительство – 59,0%;
-* под организацию общественно-деловых центров – 14,0%;
-* под организацию зеленых насаждений общего пользования – 14,0%;
-* под развитие улично-дорожной сети – 14,0%.
+- под многоэтажное жилищное строительство – 59,0%;
+
+- под организацию общественно-деловых центров – 14,0%;
+
+- под организацию зеленых насаждений общего пользования – 14,0%;
+
+- под развитие улично-дорожной сети – 14,0%.
 
 Однако, за время реализации ГП и ПДП, строительство велось, в основном, на свободных территориях – 78%.
 
@@ -140,17 +108,9 @@ url: "/analiz-razvitiya-goroda-1970-2003-gg/"
 
 За последние 10 лет практически не введено в строй каких либо существенных объектов зеленого строительства, что связано как с объективными факторами, так и, в большей мере, с субъективными (недооценкой городскими властями роли зеленых насаждений в формировании комфортной для проживания городской среды).
 
-#### **Внеселитебные территории.**
+#### [](https://draft.blogger.com/null)**Внеселитебные территории.**
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| **Показатели** | **Единицы измерения** | **Этапы развития** | |
-| **ГП** | **2003 г.** |
-| Внеселитебные территории |  |  |  |
-| - всего | тыс. га | 6,1 | 8,0 |
-| *в том числе:* |  |  |  |
-| - промышленные территории | тыс. га | 1,6 | 1,6 |
-| - коммунально-складские территории | тыс. га | 1,1 | 2,1 |
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0px;"><tbody><tr><td rowspan="2" style="background: rgb(179, 179, 179); border: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 272.95pt;" width="364"><div align="center"><b>Показатели</b></div></td><td rowspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 75.35pt;" width="100"><div align="center"><b>Единицы<br /></br>измерения</b></div></td><td colspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 130.25pt;" width="174"><div align="center"><b>Этапы развития</b></div></td></tr><tr><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 62.5pt;" width="83"><div align="center"><b>ГП</b></div></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 67.75pt;" width="90"><div align="center"><b>2003 г.</b></div></td></tr><tr><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 272.95pt;" width="364"><span style="font-size: small;">Внеселитебные территории</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 75.35pt;" width="100"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 62.5pt;" width="83"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 67.75pt;" width="90"><div align="center"><br /></br></div></td></tr><tr><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 272.95pt;" width="364"><span style="font-size: small;">- всего</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 75.35pt;" width="100"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 62.5pt;" width="83"><div align="center"><span style="font-size: small;">6,1</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 67.75pt;" width="90"><div align="center"><span style="font-size: small;">8,0</span></div></td></tr><tr><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 272.95pt;" width="364"><div align="center"><i>в том числе:</i></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 75.35pt;" width="100"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 62.5pt;" width="83"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 67.75pt;" width="90"><div align="center"><br /></br></div></td></tr><tr><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 272.95pt;" width="364"><span style="font-size: small;">- промышленные территории</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 75.35pt;" width="100"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 62.5pt;" width="83"><div align="center"><span style="font-size: small;">1,6</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 67.75pt;" width="90"><div align="center"><span style="font-size: small;">1,6</span></div></td></tr><tr><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 272.95pt;" width="364"><span style="font-size: small;">- коммунально-складские территории</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 75.35pt;" width="100"><div align="center"><span style="font-size: small;">тыс. га</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 62.5pt;" width="83"><div align="center"><span style="font-size: small;">1,1</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; padding: 0cm 5.4pt; vertical-align: top; width: 67.75pt;" width="90"><div align="center"><span style="font-size: small;">2,1</span></div></td></tr></tbody></table>
 
 1. За период 1970-2003 гг. территория промышленных предприятий достигла размера, заложенного в генеральном плане. Организованы и сформированы промузлы в северо-западной (ул. Беговая) и юго-западной частях правого берега, окончательно сформированы восточный (ул. Волгоградская) и северный (ул. Землячки) промузлы левого берега. Реконструкция и развитие большинства предприятий осуществляется за счет внутренних территориальных резервов.
 
@@ -166,7 +126,7 @@ url: "/analiz-razvitiya-goroda-1970-2003-gg/"
 
 Предприятия по отношению к селитебным территориям размещаются бессистемно, имеет место стихийно сложившаяся концентрация промышленно-коммунальных территорий, размещение которых не отвечает санитарным, функционально-планировочным и архитектурным требованиям.
 
-В пределах нормативных границ санитарно-защитных зон предприятий I-III класса санитарной вредности проживает 74 тыс. человек (360 га жилых территорий). Работы по организации санитарно-защитных зон ведутся крайне медленно.
+В пределах нормативных границ санитарно-защитных зон предприятий I-III класса санитарной вредности проживает 74 тыс. человек (360 га жилых территорий). Работы по организации санитарно-защитных зон ведутся крайне медленно.
 
 Переселение жителей из зон влияния предприятий осуществляется на низком уровне, социальные льготы населению не осуществляются.
 
@@ -181,42 +141,26 @@ url: "/analiz-razvitiya-goroda-1970-2003-gg/"
 Учитывая выявленные тенденции и предпосылки, решение проблем развития города оценивается с позиции интересов и возможностей 3-х территориальных уровней:
 
 1. Пригород г. Воронежа – как зона взаимосвязанных отношений, где важно совместное решение вопросов экологии и использования природно-ресурсного потенциала.
+
 2. Уровень города – основное внимание качественной организации и интенсивному позитивному переустройству среды города. Это в первую очередь приоритетное развитие городского коммунального хозяйства, модернизации и реконструкция существующего фонда и т.д. (собственно уровень генерального плана города).
+
 3. Развивая центр города необходимо, прежде всего, определить «порог» функционального насыщения исторической части города и его отдельных планировочных зон в сочетании с задачами сохранения памятников истории и культуры на фоне улучшения организации движения транспорта, благоустройства и озеленения, формирования систем пешеходных зон.
 
-#### **Жилищный фонд.**
+#### [](https://draft.blogger.com/null)**Жилищный фонд.**
 
 Предыдущий генеральный план предусматривал интенсивное развитие базы под многоэтажное строительство с целью обеспечения всех нуждающихся жильем.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| **Показатели** | **Единицы измерения** | **Этапы развития** | |
-| **По ГП 1970 г.** | **2003 г.** |
-| Жилищный фонд |  |  |  |
-| - всего | тыс. м2 общ. пл.  % | 18000,0  100,0 | 17506,0  100,0 |
-| *в том числе:* |  |  |  |
-| - многоэтажный | тыс. м2 общ. пл.  % | 17647,5  98,0 | 14873,0  85,0 |
-| - индивидуально-усадебный | тыс. м2 общ. пл.  % | 352,3  2,0 | 2633,0  15,0 |
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0px;"><tbody><tr style="height: 28pt;"><td rowspan="2" style="background: rgb(179, 179, 179); border: 1pt solid windowtext; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><b>Показатели</b></div></td><td rowspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 117.9pt;" width="157"><div align="center"><b>Единицы<br /></br>измерения</b></div></td><td colspan="2" style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 130.25pt;" width="174"><div align="center"><b>Этапы развития</b></div></td></tr><tr style="height: 28pt;"><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 62.5pt;" width="83"><div align="center"><b>По ГП<br /></br>1970 г.</b></div></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 67.75pt;" width="90"><div align="center"><b>2003 г.</b></div></td></tr><tr style="height: 28pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">Жилищный фонд</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 117.9pt;" width="157"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 62.5pt;" width="83"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 67.75pt;" width="90"><div align="center"><br /></br></div></td></tr><tr style="height: 28pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">- всего</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 117.9pt;" width="157"><div align="center"><u><span style="font-size: small;">тыс. м<sup>2</sup> общ. пл.</span></u></div><div align="center"><span style="font-size: small;">%</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 62.5pt;" width="83"><div align="center"><u><span style="font-size: small;">18000,0</span></u></div><div align="center"><span style="font-size: small;">100,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 67.75pt;" width="90"><div align="center"><u><span style="font-size: small;">17506,0</span></u></div><div align="center"><span style="font-size: small;">100,0</span></div></td></tr><tr style="height: 28pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><div align="center"><i>в том числе:</i></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 117.9pt;" width="157"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 62.5pt;" width="83"><div align="center"><br /></br></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 67.75pt;" width="90"><div align="center"><br /></br></div></td></tr><tr style="height: 28pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">- многоэтажный</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 117.9pt;" width="157"><div align="center"><u><span style="font-size: small;">тыс. м<sup>2</sup> общ. пл.</span></u></div><div align="center"><span style="font-size: small;">%</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 62.5pt;" width="83"><div align="center"><u><span style="font-size: small;">17647,5</span></u></div><div align="center"><span style="font-size: small;">98,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 67.75pt;" width="90"><div align="center"><u><span style="font-size: small;">14873,0</span></u></div><div align="center"><span style="font-size: small;">85,0</span></div></td></tr><tr style="height: 28pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 230.4pt;" width="307"><span style="font-size: small;">- индивидуально-усадебный</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 117.9pt;" width="157"><div align="center"><u><span style="font-size: small;">тыс. м<sup>2</sup> общ. пл.</span></u></div><div align="center"><span style="font-size: small;">%</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 62.5pt;" width="83"><div align="center"><u><span style="font-size: small;">352,3</span></u></div><div align="center"><span style="font-size: small;">2,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 28pt; padding: 0cm 5.4pt; vertical-align: top; width: 67.75pt;" width="90"><div align="center"><u><span style="font-size: small;">2633,0</span></u></div><div align="center"><span style="font-size: small;">15,0</span></div></td></tr></tbody></table>
 
-За годы реализации генерального плана, объем жилищного фонда собственно г. Воронежа вышел на заданные параметры – 17,5 млн. м2 общей площади, против 18,0 млн. м2 – по расчету.
+За годы реализации генерального плана, объем жилищного фонда собственно г. Воронежа вышел на заданные параметры – 17,5 млн. м2 общей площади, против 18,0 млн. м2 – по расчету.
 
 Соотношение многоэтажного и усадебного жилого фонда предполагалось как 98% и 2%, фактически – 85% и 15%.
 
 Плотность жилого фонда по генплану в среднем по городу – 2955 м2/га, фактически – 4200 м2/га, что на 42% превышает расчетный показатель.
 
-Наметилась тенденция к резкой дифференциации показателя жилой обеспеченности от 15 м2/чел. до 70 м2/чел.
+Наметилась тенденция к резкой дифференциации показателя жилой обеспеченности от 15 м2/чел. до 70 м2/чел.  
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| **№ пп** | **Дифференциация жилищной обеспеченности** | **По данным переписи населения 1998 г., %** | **По методике ВНИИТ архитектуры и градостроительства** | **Предложение генерального плана на 2020 г.** |
-| 1. | Исключительно необеспеченные – 8 м2/чел. | 16,0 | 8,0 | 8,0 |
-| 2. | Плохо обеспеченные – 12 м2/чел. | 27,0 | 16,0 | 18,0 |
-| 3. | Малообеспеченные – 15 м2/чел. | 19,0 | 30,0 | 20,0 |
-| 4. | Среднеобеспеченные – 22 м2/чел. | 33,0 | 26,0 | 28,0 |
-| 5. | Хорошо обеспеченные – 35 м2/чел. | 5,0 | 15,0 | 13,0 |
-| 6. | Очень обеспеченные – 50-60 м2/чел. | - | 4,5 | 8,0 |
-| 7. | Исключительно обеспеченные – 60-70 м2/чел. | - | 0,5 | 5,0 |
-|  | **Итого:** | **100,0** | **100,0** | **100,0** |
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0px;"><tbody><tr><td style="background: rgb(179, 179, 179); border: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 26.6pt;" width="35"><div align="center"><b>№<br /></br>пп</b></div></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 158.8pt;" width="212"><div align="center"><b>Дифференциация<br /></br>жилищной<br /></br>обеспеченности</b></div></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 87.7pt;" width="117"><div align="center"><b>По данным<br /></br>переписи<br /></br>населения<br /></br>1998 г., %</b></div></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 106.15pt;" width="142"><div align="center"><b>По методике<br /></br>ВНИИТ<br /></br>архитектуры<br /></br>и градостроительства</b></div></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 5.4pt; vertical-align: top; width: 99.3pt;" width="132"><div align="center"><b>Предложение<br /></br>генерального<br /></br>плана на<br /></br>2020 г.</b></div></td></tr><tr style="height: 45pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 26.6pt;" width="35"><div align="center"><span style="font-size: small;">1.</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 158.8pt;" width="212"><span style="font-size: small;">Исключительно необеспеченные –<br /></br>8 м<sup>2</sup>/чел.</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 87.7pt;" width="117"><div align="center"><span style="font-size: small;">16,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 106.15pt;" width="142"><div align="center"><span style="font-size: small;">8,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 99.3pt;" width="132"><div align="center"><span style="font-size: small;">8,0</span></div></td></tr><tr style="height: 45pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 26.6pt;" width="35"><div align="center"><span style="font-size: small;">2.</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 158.8pt;" width="212"><span style="font-size: small;">Плохо обеспеченные – 12 м<sup>2</sup>/чел.</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 87.7pt;" width="117"><div align="center"><span style="font-size: small;">27,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 106.15pt;" width="142"><div align="center"><span style="font-size: small;">16,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 99.3pt;" width="132"><div align="center"><span style="font-size: small;">18,0</span></div></td></tr><tr style="height: 45pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 26.6pt;" width="35"><div align="center"><span style="font-size: small;">3.</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 158.8pt;" width="212"><span style="font-size: small;">Малообеспеченные –<br /></br>15 м<sup>2</sup>/чел.</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 87.7pt;" width="117"><div align="center"><span style="font-size: small;">19,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 106.15pt;" width="142"><div align="center"><span style="font-size: small;">30,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 99.3pt;" width="132"><div align="center"><span style="font-size: small;">20,0</span></div></td></tr><tr style="height: 45pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 26.6pt;" width="35"><div align="center"><span style="font-size: small;">4.</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 158.8pt;" width="212"><span style="font-size: small;">Среднеобеспеченные – 22 м<sup>2</sup>/чел.</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 87.7pt;" width="117"><div align="center"><span style="font-size: small;">33,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 106.15pt;" width="142"><div align="center"><span style="font-size: small;">26,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 99.3pt;" width="132"><div align="center"><span style="font-size: small;">28,0</span></div></td></tr><tr style="height: 45pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 26.6pt;" width="35"><div align="center"><span style="font-size: small;">5.</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 158.8pt;" width="212"><span style="font-size: small;"><span style="letter-spacing: -0.3pt;">Хорошо обеспеченные</span> – 35 м<sup>2</sup>/чел.</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 87.7pt;" width="117"><div align="center"><span style="font-size: small;">5,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 106.15pt;" width="142"><div align="center"><span style="font-size: small;">15,0</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 99.3pt;" width="132"><div align="center"><span style="font-size: small;">13,0</span></div></td></tr><tr style="height: 45pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 26.6pt;" width="35"><div align="center"><span style="font-size: small;">6.</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 158.8pt;" width="212"><span style="font-size: small;">Очень обеспеченные – 50-60 м<sup>2</sup>/чел.</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 87.7pt;" width="117"><div align="center"><span style="font-size: small;">-</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 106.15pt;" width="142"><div align="center"><span style="font-size: small;">4,5</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 99.3pt;" width="132"><div align="center"><span style="font-size: small;">8,0</span></div></td></tr><tr style="height: 45pt;"><td style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 26.6pt;" width="35"><div align="center"><span style="font-size: small;">7.</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 158.8pt;" width="212"><span style="font-size: small;">Исключительно обеспеченные – 60-70 м<sup>2</sup>/чел.</span></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 87.7pt;" width="117"><div align="center"><span style="font-size: small;">-</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 106.15pt;" width="142"><div align="center"><span style="font-size: small;">0,5</span></div></td><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 99.3pt;" width="132"><div align="center"><span style="font-size: small;">5,0</span></div></td></tr><tr style="height: 45pt;"><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-image: initial; border-left: 1pt solid windowtext; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 26.6pt;" width="35"><div align="center"><br /></br></div></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 158.8pt;" width="212"><div align="center"><b>Итого:</b></div></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 87.7pt;" width="117"><div align="center"><b>100,0</b></div></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 106.15pt;" width="142"><div align="center"><b>100,0</b></div></td><td style="background: rgb(179, 179, 179); border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 45pt; padding: 0cm 5.4pt; vertical-align: top; width: 99.3pt;" width="132"><div align="center"><b>100,0</b></div></td></tr></tbody></table>
 
 На современном этапе развития население можно условно разделить на три основные категории: богатые, средний класс и малоимущие. Дома для этих социальных категорий трудно размещать в одном квартале и даже в соседствующих, не говоря уже о том, чтобы представители разных социальных групп оказались в одном доме, как это имеет место сейчас, на переходном этапе. Нельзя также сказать, что для одной из этих категорий подходят центральные зоны поселения, а для других – периферия. Определяющими станут стиль жизни и ценностные характеристики территории на сегодняшний день и перспективные. Тип организации и параметры среды застройки в каждом случае также будут различны.
 
@@ -226,313 +170,4 @@ url: "/analiz-razvitiya-goroda-1970-2003-gg/"
 
 Категория людей среднего класса строит собственное жилье. Однако их финансы ограничены, что и определяет приближение их потребностей к одному из рассмотренных вариантов.
 
-|  |  |  |
-| --- | --- | --- |
-| [Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/istoriceskij-obzor-razvitia-goroda) | [Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-i-cast-1) | [Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/sovremennye-aspekty-koncepcii-territorialno-gradostroitelnogo-razvitia-g-voroneza-i-ego-prigorodnoj-zony) |
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-Ярлыки:
-[Воронеж](https://www.blagorussia.ru/search/label/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)
-[Генеральный план](https://www.blagorussia.ru/search/label/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD)
-
-
-
-### Комментарии
-
-#### Отправить комментарий
-
-
-
-
-### Популярные сообщения
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgSG21PyW3uyy9gRIrJtKW_kUnhoRKQurEbbgh3AB-QeObd1PbPEJRfpRUp9UIrPeFQOTuRwP57ZdPHiApc4O5ia53BfnKXH4T9ulanGJb0CnYM09ADPmPMVUJdSlrdiYmlnG66QCLYgep/s1600/%25D0%25BA%25D0%25BB%25D1%258E%25D1%2587%25D1%258C.jpg)](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[апреля 10, 2021](https://www.blagorussia.ru/2021/01/vidy-vlasti.html "permanent link")
-
-### [Виды власти](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/vidy-vlasti.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ubOiunilK6EZiGZ_dU5Aoe5XVQgssjrALIzVaevG80XhPSKgUXXp75O5K9kgXdgg19w_XCQSN3H1nm2zEPt6fLeGz3QpSC1LrrzXTrQo0_lLa-n9grMNG2vKBNaugXNxkxVH5DC0Wqe3/w458-h640/%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25BF%25D0%25BB%25D0%25B0%25D0%25BD.jpg)](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 03, 2020](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html "permanent link")
-
-### [Генеральный план города Воронеж](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI2tQMIKYVOeVrTEtKwdxrWMdy2vtZO3e_zbzC7dlH0gy-lhqUg8gDi-hBwg5YtWv66MvzEXUtE_fGmlzsFAwC1gWn9XEkKlCTZUBI64vCwrw0TCfWnZuAMUCTEI_8kzIdBMLswxP7TkrpL8g-azifWE7y-PkDapSeYuS4m6G-C3QX6tRtKcNTjCBdWH8/w640-h640/kandinsky-download-1695312877484.png)](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Автор:
-
-
-[Артем Диденко](https://www.blogger.com/profile/04844297396744788167 "author profile")
-
-
-[сентября 21, 2023](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html "permanent link")
-
-### [Основное применение информационных технологий в психологии](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[мая 21, 2020](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html "permanent link")
-
-### [Банковская система основной потребитель услуг тайных покупателей](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 04, 2021](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html "permanent link")
-
-### [Том I часть 1](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUjVMbfqHU9nc38wl7TjcJJSDVYaeyv-ajtATvLZovQa_xmta6nlzf9HjGtmmUlvgmxm46CCsBsco0aGu5oyY2BwYHyoz6Ad2gKDKidUjhxV-KaEUTJgXn3MmZ5_N21PPeAIfv1x-FTNXA/w458-h640/%25D1%2581%25D1%2585+%25D0%25B3%25D0%25BE%25D1%2580%25D0%25BE%25D0%25B4%25D1%2581%25D0%25BA+%25D0%25BF%25D0%25B0%25D1%2581%25D1%2581%25D0%25B0%25D0%25B6%25D0%25B8%25D1%2580%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B3%25D0%25BE+%25D1%2582%25D1%2580%25D0%25B0%25D0%25BD%25D1%2581%25D0%25BF.jpg)](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[ноября 24, 2020](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html "permanent link")
-
-### [Схема городского пассажирского транспорта](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июля 09, 2020](https://www.blagorussia.ru/2020/07/zilye-zony.html "permanent link")
-
-### [Жилые зоны](https://www.blagorussia.ru/2020/07/zilye-zony.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/07/zilye-zony.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[сентября 19, 2020](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html "permanent link")
-
-### [карты градостроительного зонирования](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 12, 2020](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html "permanent link")
-
-### [11. Инженерная подготовка территории](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 05, 2021](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html "permanent link")
-
-### [Характеристика и оценка экологического состояния водных объектов г. Воронежа](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html#comments)
-
-
-
-
-[Политика конфиденциальности](http://partnerstvo.blagorussia.ru/politika-konfidencialnosti)
-
-![](https://mc.yandex.ru/watch/21798445)
-
-![Top.Mail.Ru](https://top-fwz1.mail.ru/counter?id=2347426;js=na)
-
-[Технологии Blogger](https://www.blogger.com)
-
-@ 2010 - 2025 года
-
-
-
-
-
-### Перевести - Translate
-
-### Навигация по сайту
-
-* [Главная страница](https://blagorussia.blogspot.com/)
-* [Новости](https://novosti.blagorussia.ru/)
-* [О проекте](https://blagorussia.blogspot.com/2021/01/home.html)
-
-### Разделы
-
-* [Архивы75](https://www.blagorussia.ru/search/label/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D1%8B)
-* [Бесплатные курсы3](https://www.blagorussia.ru/search/label/%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%83%D1%80%D1%81%D1%8B)
-* [Воронеж582](https://www.blagorussia.ru/search/label/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)
-* [Генеральный план490](https://www.blagorussia.ru/search/label/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD)
-* [Демография1](https://www.blagorussia.ru/search/label/%D0%94%D0%B5%D0%BC%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F)
-* [Идеология48](https://www.blagorussia.ru/search/label/%D0%98%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-* [Италия1](https://www.blagorussia.ru/search/label/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F)
-* [Новости241](https://www.blagorussia.ru/search/label/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
-* [Партнерство79](https://www.blagorussia.ru/search/label/%D0%9F%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE)
-* [Психология1](https://www.blagorussia.ru/search/label/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-
-* [Содействие занятости1](https://www.blagorussia.ru/search/label/%D0%A1%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%BE%D1%81%D1%82%D0%B8)
-* [Статистика107](https://www.blagorussia.ru/search/label/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
-* [Технологии2](https://www.blagorussia.ru/search/label/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
-* [Цифровые профессии1](https://www.blagorussia.ru/search/label/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B8)
-
-Показать больше
-Показать меньше
-
-### Соцсети
-
-* [Группа Google](https://groups.google.com/g/BlagoRussia)
-* [Дзен](https://dzen.ru/blagorussia)
-
-### ВКонтакте
-
-### Одноклассники
-
-### Нас просмотрело:
-
-## Постоянные читатели
-
-### [Сообщить о нарушении](https://www.blogger.com/go/report-abuse)
-
-### Facebook
-
-> [Общественное благополучие](https://www.facebook.com/blagorussia)
+<table border="1" bordercolor="#888" cellspacing="0" style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px; margin: 0px; text-align: center;"><tbody><tr><td style="height: 19px; vertical-align: top; width: 277px;">[Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/istoriceskij-obzor-razvitia-goroda)</td><td style="height: 19px; vertical-align: top; width: 238px;">[Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-i-cast-1)</td><td style="height: 19px; vertical-align: top; width: 245px;">[Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/sovremennye-aspekty-koncepcii-territorialno-gradostroitelnogo-razvitia-g-voroneza-i-ego-prigorodnoj-zony)</td></tr></tbody></table>

@@ -6,12 +6,11 @@ aliases:
   - "/2021/01/glavnaa-pricina-krizisa-na-ukraine-v-tom-cto-proishodit-v-rossii-grigorij-avlinskij-dla-gazety-vedomosti.html"
 url: "/glavnaa-pricina-krizisa-na-ukraine-v-tom-cto-proishodit-v-rossii-grigorij-avlinskij-dla-gazety-vedomosti/"
 ---
-
-## Главная причина кризиса на Украине в том, что происходит в России // Григорий Явлинский для газеты "Ведомости", 27.02.2014
+## Главная причина кризиса на Украине в том, что происходит в России // Григорий Явлинский для газеты "Ведомости", 27.02.2014
 
 Кровавое противостояние на Украине, гибель множества людей — трагедия огромного масштаба, которая захватывает и Россию. Тревога и боль от происходящего у нас общая. Очень многие проблемы, которые привели к сегодняшней ситуации — тоже общие. Часть из них типологически одинакова, часть — единые процессы, не знающие границ. Вместо хоть какого-то осмысления этих проблем в российском медиапространстве истерика. Возбужденные красноречивые пропагандисты злорадствуют, убеждают российских зрителей и читателей, что всё происходящее в Киеве, Львове, других городах — заговор Запада и перетягивание геополитического «каната» с Россией. А еще изо всех сил пугают, чтоб неповадно было. Мажорные разговоры в кругах российской оппозиции об удавшейся украинской революции и необходимости брать пример с украинских событий — по дилетантски примитивны и совершенно безответственны … В действительности, произошедшее и происходящее на Украине — не сторонний пример, отделенный границей, а часть нашей общей крайне трудной ситуации, осложненной многими политическими, экономическими и социальными факторами, выход из которой надо искать вместе.
 
-#### 1. Что случилось на Украине?
+#### []()1. Что случилось на Украине?
 
 Люди на Украине материально живут плохо. Очень многие существенно хуже, чем в среднем в России. Поскольку нефтяных и газовых доходов у Украины нет, то в большом количестве присутствуют хронические экономические и социальные проблемы, значительный сектор нищеты, бедная медицина, плохое образование. Плюс к этому — повсеместная коррупция и крайне несправедливые правила жизни, основанные, на господстве силы и случая. Предпринимательская деятельность затруднена плохой экономической политикой, нестабильностью, олигархами, монополистами и преступностью.
 
@@ -29,7 +28,7 @@ url: "/glavnaa-pricina-krizisa-na-ukraine-v-tom-cto-proishodit-v-rossii-grigorij
 
 Власть разорвала общественный договор, люди взбунтовались, появился майдан. После попытки со стороны властей силового разгона мирного майдана 30 ноября начался острый кризис. После январских масштабных силовых столкновений в центре Киева и захвата власти протестующими в десятках областей Украины, ситуация обострилась до предела. С одной стороны, весьма сомнительный Янукович со своим «семейным олигархатом», а с другой — многослойный пирог: народ, требующий перемен, несколько слабых парламентских политиков и радикалы всех мастей… У последних вся оппозиция, а, по большому счету, и вся страна оказались в заложниках. Пролилась кровь, обе стороны показали, что не остановятся перед насилием. 18 февраля граница между откровенно плохой ситуацией и трагедией была перейдена
 
-#### 2. Что происходит сейчас?
+#### []()2. Что происходит сейчас?
 
 У режима Януковича поддержки не было и нет нигде. Это такая власть, у которой опора до времени не в общественной активности, а в молчании, реальных и мнимых страхах, бедности, привычках к «отеческой заботе», принятии на какое-то время status quо вне зависимости от степени его справедливости. Когда такая власть начинает падать — ее никто не поддерживает, только подталкивают.
 
@@ -43,7 +42,7 @@ url: "/glavnaa-pricina-krizisa-na-ukraine-v-tom-cto-proishodit-v-rossii-grigorij
 
 Кстати говоря, сейчас, в России почти через сто лет, гораздо более своекорыстная, мелочная, мстительная, гораздо менее воспитанная и образованная властвующая группировка, воспринимающая развитие общества как опасность для себя, иррационально и абсурдно пытается делать вид, что никакого развития общества нет. Она вновь надевает на общество жесткий корсет из ограничений, запретов, извращений и беззакония — тем самым программируя рождение очередного социально-политического уродства — засилья в политике откровенных невежд, популистов, радикалов …
 
-#### 3. Главная причина кризиса на Украине
+#### []()3. Главная причина кризиса на Украине
 
 Внимательный и непредвзятый анализ происходящего на Украине показывает, что при всех серьезнейших внутриукраинских факторах возникшего кризиса, главная причина находится территориально за ее пределами. Она в том, что происходит в России.
 
@@ -65,7 +64,7 @@ url: "/glavnaa-pricina-krizisa-na-ukraine-v-tom-cto-proishodit-v-rossii-grigorij
 
 Раньше или позже нестабильность, вызванная ошибочным антиевропейским курсом, придет и в саму Россию.
 
-#### 4. Перспективы
+#### []()4. Перспективы
 
 Выдача советов, как урегулировать кризис на Украине, давно стала одним из любимых занятий для ряда российских политиков. Такие советы часто к реальной Украине имеют мало отношения и носят, скажем так, риторический характер. Вряд ли надо этим заниматься. Тактика выхода из кризиса — как сформировать временное правительство, когда и как проводить выборы, какие создавать коалиции и т.п. — это вопросы, которые надо решать самим украинцам. Не сомневаюсь, что понятно и то, что прежде всего необходимо всеми способами предотвратить эскалацию насилия и дезинтеграцию страны.
 
@@ -85,7 +84,7 @@ url: "/glavnaa-pricina-krizisa-na-ukraine-v-tom-cto-proishodit-v-rossii-grigorij
 
 Это возвращение народу, мечты, перспективы и надежды.
 
-`Как писал Ф. М. Достоевский, «…без идеалов … никогда не может получиться никакой хорошей действительности. Даже можно сказать положительно, что ничего не будет, кроме ещё пущей мерзости».`
+Как писал **Ф. М. Достоевский**, «…без идеалов … никогда не может получиться никакой хорошей действительности. Даже можно сказать положительно, что ничего не будет, кроме ещё пущей мерзости».
 
 Идеал или перспектива, равновеликая России, способная не отпугнуть, а увлечь наших людей, может быть только общая, общеевропейская. Такой реалистической перспективой, безусловно, является концепция Большой Европы от Лиссабона до Владивостока. И это не просто красивые слова, фигура речи. Это весомая, действенная и единственная практическая альтернатива во-первых, тупику стабильного гниения, в который загоняют общество охранители, а во-вторых, ново-старому мифу о национализме как единственно возможной движущей силе либеральной революции.
 
@@ -100,310 +99,3 @@ url: "/glavnaa-pricina-krizisa-na-ukraine-v-tom-cto-proishodit-v-rossii-grigorij
 Понятно, что в сегодняшней ситуации в это трудно поверить. Вот если бы политика России была адекватной вызовам современного мира, об этом не только можно было бы говорить, это стало бы основным содержанием ее внешней политики.
 
 Но для того, чтобы стать адекватной современному миру, России нужен европейский вектор развития, начинающийся с европейской мечты. Большой Европейской Мечты.
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-Ярлыки:
-[Идеология](https://www.blagorussia.ru/search/label/%D0%98%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-[Новости](https://www.blagorussia.ru/search/label/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
-
-
-
-### Комментарии
-
-#### Отправить комментарий
-
-
-
-
-### Популярные сообщения
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgSG21PyW3uyy9gRIrJtKW_kUnhoRKQurEbbgh3AB-QeObd1PbPEJRfpRUp9UIrPeFQOTuRwP57ZdPHiApc4O5ia53BfnKXH4T9ulanGJb0CnYM09ADPmPMVUJdSlrdiYmlnG66QCLYgep/s1600/%25D0%25BA%25D0%25BB%25D1%258E%25D1%2587%25D1%258C.jpg)](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[апреля 10, 2021](https://www.blagorussia.ru/2021/01/vidy-vlasti.html "permanent link")
-
-### [Виды власти](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/vidy-vlasti.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ubOiunilK6EZiGZ_dU5Aoe5XVQgssjrALIzVaevG80XhPSKgUXXp75O5K9kgXdgg19w_XCQSN3H1nm2zEPt6fLeGz3QpSC1LrrzXTrQo0_lLa-n9grMNG2vKBNaugXNxkxVH5DC0Wqe3/w458-h640/%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25BF%25D0%25BB%25D0%25B0%25D0%25BD.jpg)](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 03, 2020](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html "permanent link")
-
-### [Генеральный план города Воронеж](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI2tQMIKYVOeVrTEtKwdxrWMdy2vtZO3e_zbzC7dlH0gy-lhqUg8gDi-hBwg5YtWv66MvzEXUtE_fGmlzsFAwC1gWn9XEkKlCTZUBI64vCwrw0TCfWnZuAMUCTEI_8kzIdBMLswxP7TkrpL8g-azifWE7y-PkDapSeYuS4m6G-C3QX6tRtKcNTjCBdWH8/w640-h640/kandinsky-download-1695312877484.png)](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Автор:
-
-
-[Артем Диденко](https://www.blogger.com/profile/04844297396744788167 "author profile")
-
-
-[сентября 21, 2023](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html "permanent link")
-
-### [Основное применение информационных технологий в психологии](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[мая 21, 2020](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html "permanent link")
-
-### [Банковская система основной потребитель услуг тайных покупателей](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 04, 2021](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html "permanent link")
-
-### [Том I часть 1](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUjVMbfqHU9nc38wl7TjcJJSDVYaeyv-ajtATvLZovQa_xmta6nlzf9HjGtmmUlvgmxm46CCsBsco0aGu5oyY2BwYHyoz6Ad2gKDKidUjhxV-KaEUTJgXn3MmZ5_N21PPeAIfv1x-FTNXA/w458-h640/%25D1%2581%25D1%2585+%25D0%25B3%25D0%25BE%25D1%2580%25D0%25BE%25D0%25B4%25D1%2581%25D0%25BA+%25D0%25BF%25D0%25B0%25D1%2581%25D1%2581%25D0%25B0%25D0%25B6%25D0%25B8%25D1%2580%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B3%25D0%25BE+%25D1%2582%25D1%2580%25D0%25B0%25D0%25BD%25D1%2581%25D0%25BF.jpg)](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[ноября 24, 2020](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html "permanent link")
-
-### [Схема городского пассажирского транспорта](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июля 09, 2020](https://www.blagorussia.ru/2020/07/zilye-zony.html "permanent link")
-
-### [Жилые зоны](https://www.blagorussia.ru/2020/07/zilye-zony.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/07/zilye-zony.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[сентября 19, 2020](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html "permanent link")
-
-### [карты градостроительного зонирования](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 12, 2020](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html "permanent link")
-
-### [11. Инженерная подготовка территории](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 05, 2021](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html "permanent link")
-
-### [Характеристика и оценка экологического состояния водных объектов г. Воронежа](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html#comments)
-
-
-
-
-[Политика конфиденциальности](http://partnerstvo.blagorussia.ru/politika-konfidencialnosti)
-
-![](https://mc.yandex.ru/watch/21798445)
-
-![Top.Mail.Ru](https://top-fwz1.mail.ru/counter?id=2347426;js=na)
-
-[Технологии Blogger](https://www.blogger.com)
-
-@ 2010 - 2025 года
-
-
-
-
-
-### Перевести - Translate
-
-### Навигация по сайту
-
-* [Главная страница](https://blagorussia.blogspot.com/)
-* [Новости](https://novosti.blagorussia.ru/)
-* [О проекте](https://blagorussia.blogspot.com/2021/01/home.html)
-
-### Разделы
-
-* [Архивы75](https://www.blagorussia.ru/search/label/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D1%8B)
-* [Бесплатные курсы3](https://www.blagorussia.ru/search/label/%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%83%D1%80%D1%81%D1%8B)
-* [Воронеж582](https://www.blagorussia.ru/search/label/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)
-* [Генеральный план490](https://www.blagorussia.ru/search/label/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD)
-* [Демография1](https://www.blagorussia.ru/search/label/%D0%94%D0%B5%D0%BC%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F)
-* [Идеология48](https://www.blagorussia.ru/search/label/%D0%98%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-* [Италия1](https://www.blagorussia.ru/search/label/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F)
-* [Новости241](https://www.blagorussia.ru/search/label/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
-* [Партнерство79](https://www.blagorussia.ru/search/label/%D0%9F%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE)
-* [Психология1](https://www.blagorussia.ru/search/label/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-
-* [Содействие занятости1](https://www.blagorussia.ru/search/label/%D0%A1%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%BE%D1%81%D1%82%D0%B8)
-* [Статистика107](https://www.blagorussia.ru/search/label/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
-* [Технологии2](https://www.blagorussia.ru/search/label/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
-* [Цифровые профессии1](https://www.blagorussia.ru/search/label/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B8)
-
-Показать больше
-Показать меньше
-
-### Соцсети
-
-* [Группа Google](https://groups.google.com/g/BlagoRussia)
-* [Дзен](https://dzen.ru/blagorussia)
-
-### ВКонтакте
-
-### Одноклассники
-
-### Нас просмотрело:
-
-## Постоянные читатели
-
-### [Сообщить о нарушении](https://www.blogger.com/go/report-abuse)
-
-### Facebook
-
-> [Общественное благополучие](https://www.facebook.com/blagorussia)

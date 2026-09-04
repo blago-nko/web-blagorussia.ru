@@ -5,12 +5,11 @@ aliases:
   - "/2020/06/https//sites.google.com/site/blagorussia1/generalnyj-plan-goroda-voronez/godovye-rashody-gaza-i-variant-na-rascetnyj-srok-2020-g.html"
 url: "/godovye-rashody-gaza-i-variant-na-rascetnyj-srok-2020-g/"
 ---
-
 |  |  |  |
 | --- | --- | --- |
 | [Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/godovye-rashody-gaza-i-variant-na-pervuu-ocered-2010-g) | [Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-iii) | [Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/godovye-rashody-gaza-i-variant-na-perspektivu) |
 
-## **Годовые расходы газа (****I****вариант)****на расчетный срок −  2020 г.**
+## **Годовые расходы газа (****I****вариант)****на расчетный срок −  2020 г.**
 
 таблица 6
 

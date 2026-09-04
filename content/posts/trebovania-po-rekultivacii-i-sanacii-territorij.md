@@ -6,24 +6,23 @@ aliases:
   - "/2021/01/trebovania-po-rekultivacii-i-sanacii-territorij.html"
 url: "/trebovania-po-rekultivacii-i-sanacii-territorij/"
 ---
+<table border="1" bordercolor="#888" cellspacing="0" style="background-color: transparent; border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px; margin: 0px;"><tbody><tr><td style="height: 19px; vertical-align: top; width: 263px;"><span style="font-size: small;">[Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/meropriatia-i-rekomendacii-po-reseniu-problem-svazannyh-s-obraseniem-s-othodami)</span></td><td style="height: 19px; vertical-align: top; width: 195px;"><span style="font-size: small;">[Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-ii)</span></td><td style="height: 19px; vertical-align: top; width: 287px;"><span style="font-size: small;">[Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/meropriatia-i-rekomendacii-po-ulucseniu-sostoania-okruzausej-sredy-v-centralnoj-istoriceskoj-casti-goroda)</span></td></tr></tbody></table>
 
-|  |  |  |
-| --- | --- | --- |
-| [Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/meropriatia-i-rekomendacii-po-reseniu-problem-svazannyh-s-obraseniem-s-othodami) | [Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-ii) | [Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/meropriatia-i-rekomendacii-po-ulucseniu-sostoania-okruzausej-sredy-v-centralnoj-istoriceskoj-casti-goroda) |
-
-## 5.4.12. Требования по рекультивации и санации территорий
+## []()5.4.12. Требования по рекультивации и санации территорий
 
 Наличие в составе Генерального плана мер по рекультивации и санации почвенного покрова предусматривается в соответствии со ст. 44 Федерального закона «Об охране окружающей среды», гласящей, что при планировании и застройке городских и сельских поселений должны соблюдаться требования в области охраны окружающей среды, приниматься меры по санитарной очистке, обезвреживанию и безопасному размещению отходов производства и потребления, соблюдению нормативов допустимых выбросов и сбросов веществ и микроорганизмов, а также по восстановлению природной среды, рекультивации земель, благоустройству территорий и иные меры по обеспечению охраны окружающей среды и экологической безопасности в соответствии с законодательством.
 
-Обязательность рекультивационных мероприятий определена ст. 13 Земельного Кодекса РФ, ст.ст. 37 и 39 Закона РФ об охране окружающей среды и Постановлением Правительства РФ от 23 февраля 1994 г. №140  «О рекультивации земель, снятии, сохранении и рациональном использовании плодородного слоя почвы» .
+Обязательность рекультивационных мероприятий определена ст. 13 Земельного Кодекса РФ, ст.ст. 37 и 39 Закона РФ об охране окружающей среды и Постановлением Правительства РФ от 23 февраля 1994 г. №140  «О рекультивации земель, снятии, сохранении и рациональном использовании плодородного слоя почвы» .
 
 Рекультивационные мероприятия должны проводиться в соответствии с «Основными положениями о рекультивации земель, снятии, сохранении и рациональном использовании плодородного слоя почвы» (утв. Приказом Минприроды России и Роскомзема от 22 декабря 1995 г. №525/67).
 
 Планируется проведение рекультивационных мероприятий:
 
-* на местах несанкционированных свалок с вывозом мусора из тела свалки на специализированные полигоны (или передачи специализированным организациям для утилизации в случае, если в теле свалки присутствуют опасные отходы, не подлежащие захоронению на полигонах ТКО), причем объем изымаемого грунта определяется по результатам лабораторных исследований;
-* на территориях, освободившихся после вывода предприятий, в случае, если на этих территориях планируется осуществлять жилищное строительство, организовывать рекреационные зоны, располагать объекты коммунально-бытового, специального назначения, либо объекты здравоохранения), причем объем изымаемого грунта определяется по результатам лабораторных исследований;
-* на всех прочих территориях, где содержание токсичных веществ в почве по результатам лабораторных исследований превышает установленные допустимые значения), причем объем изымаемого грунта определяется по результатам лабораторных исследований.
+- на местах несанкционированных свалок с вывозом мусора из тела свалки на специализированные полигоны (или передачи специализированным организациям для утилизации в случае, если в теле свалки присутствуют опасные отходы, не подлежащие захоронению на полигонах ТКО), причем объем изымаемого грунта определяется по результатам лабораторных исследований;
+
+- на территориях, освободившихся после вывода предприятий, в случае, если на этих территориях планируется осуществлять жилищное строительство, организовывать рекреационные зоны, располагать объекты коммунально-бытового, специального назначения, либо объекты здравоохранения), причем объем изымаемого грунта определяется по результатам лабораторных исследований;
+
+- на всех прочих территориях, где содержание токсичных веществ в почве по результатам лабораторных исследований превышает установленные допустимые значения), причем объем изымаемого грунта определяется по результатам лабораторных исследований.
 
 При оценке необходимости вывоза грунта (или его биодетоксикации в том случае, когда использование данного метода признано предпочтительным) необходимо проводить аналитические исследования на содержание ингредиентов в зависимости от принадлежности к территориальным зонам в соответствии с требованиями СанПиН 2.1.7.1287-03 и ГН МУ 2.1.7.730-99.
 
@@ -35,52 +34,29 @@ url: "/trebovania-po-rekultivacii-i-sanacii-territorij/"
 
 *Таблица 5.4.12.1.*
 
-### Классификация нарушенных земель по направлениям рекультивации в зависимости от видов последующего использования (по ГОСТ 17.5.1.02-85, с изменениями)
+### []()Классификация нарушенных земель по направлениям рекультивации в зависимости от видов последующего использования (по ГОСТ 17.5.1.02-85, с изменениями)
 
-|  |  |
-| --- | --- |
-| **Группа нарушенных земель по направлениям рекультивации** | **Вид использования рекультивированных земель** |
-| Земли сельскохозяйственного направления рекультивации | Пашни, сенокосы, пастбища, многолетние сельскохозяйственные культуры |
-| Земли лесохозяйственного направления рекультивации | Лесонасаждения общего хозяйственного и полезащитного назначения, не предназначенные для рекреации и не учитываемые при расчете зеленых насаждений общего польщования |
-| Земли водохозяйственного направления рекультивации | Водоемы для хозяйственно-бытовых, промышленных нужд, орошения и рыбоводческие |
-| Земли рекреационного направления рекультивации | Зоны отдыха и спорта: парки и лесопарки, водоемы для оздоровительных целей, спортивные сооружения |
-| Земли природоохранного и санитарно-гигиенического направления рекультивации | Участки природоохранного назначения: противоэрозионные лесонасаждения, задернованные или обводненные участки, участки, закрепленные или законсервированные техническими средствами, не предназначенные для рекреации и не учитываемые при расчете зеленых насаждений общего пользования |
-| Земли строительного направления рекультивации | Площадки для промышленного, гражданского и прочего строительства, включая размещение отходов производства и потребления |
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin: 0px;"><tbody><tr><td style="border-bottom-color: initial; border-bottom-width: initial; border-left-color: windowtext; border-left-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: solid solid none; border-top-color: windowtext; border-top-width: 1pt; height: 92px; padding: 0cm 2.25pt; vertical-align: top; width: 181px;" valign="top"><p align="center" style="text-align: center;"><b>Группа нарушенных земель по направлениям рекультивации</b></p></td><td style="border-bottom-color: initial; border-bottom-width: initial; border-left-color: initial; border-left-width: initial; border-right-color: windowtext; border-right-width: 1pt; border-style: solid solid none none; border-top-color: windowtext; border-top-width: 1pt; height: 92px; padding: 0cm 2.25pt; vertical-align: top; width: 341px;" valign="top"><p align="center" style="text-align: center;"><b>Вид использования рекультивированных земель</b></p></td></tr><tr><td style="border-bottom-color: initial; border-bottom-width: initial; border-left-color: windowtext; border-left-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: solid solid none; border-top-color: windowtext; border-top-width: 1pt; height: 112px; padding: 0cm 2.25pt; vertical-align: top; width: 181px;" valign="top"><p><span style="font-size: small;">Земли сельскохозяйственного направления рекультивации</span></p></td><td style="border-bottom-color: initial; border-bottom-width: initial; border-left-color: initial; border-left-width: initial; border-right-color: windowtext; border-right-width: 1pt; border-style: solid solid none none; border-top-color: windowtext; border-top-width: 1pt; height: 112px; padding: 0cm 2.25pt; vertical-align: top; width: 341px;" valign="top"><p><span style="font-size: small;">Пашни, сенокосы, пастбища, многолетние сельскохозяйственные культуры</span></p></td></tr><tr><td style="border-bottom-color: initial; border-bottom-width: initial; border-left-color: windowtext; border-left-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid; border-top-color: initial; border-top-width: initial; height: 112px; padding: 0cm 2.25pt; vertical-align: top; width: 181px;" valign="top"><p><span style="font-size: small;">Земли лесохозяйственного направления рекультивации</span></p></td><td style="border-bottom-color: initial; border-bottom-width: initial; border-left-color: initial; border-left-width: initial; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid none none; border-top-color: initial; border-top-width: initial; height: 112px; padding: 0cm 2.25pt; vertical-align: top; width: 341px;" valign="top"><p><span style="font-size: small;">Лесонасаждения общего хозяйственного и полезащитного назначения, не предназначенные для рекреации и не учитываемые при расчете зеленых насаждений общего польщования</span></p></td></tr><tr><td style="border-bottom-color: initial; border-bottom-width: initial; border-left-color: windowtext; border-left-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid; border-top-color: initial; border-top-width: initial; height: 112px; padding: 0cm 2.25pt; vertical-align: top; width: 181px;" valign="top"><p><span style="font-size: small;">Земли водохозяйственного направления рекультивации</span></p></td><td style="border-bottom-color: initial; border-bottom-width: initial; border-left-color: initial; border-left-width: initial; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid none none; border-top-color: initial; border-top-width: initial; height: 112px; padding: 0cm 2.25pt; vertical-align: top; width: 341px;" valign="top"><p><span style="font-size: small;">Водоемы для хозяйственно-бытовых, промышленных нужд, орошения и рыбоводческие</span></p></td></tr><tr><td style="border-bottom-color: initial; border-bottom-width: initial; border-left-color: windowtext; border-left-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid; border-top-color: initial; border-top-width: initial; height: 92px; padding: 0cm 2.25pt; vertical-align: top; width: 181px;" valign="top"><p><span style="font-size: small;">Земли рекреационного направления рекультивации</span></p></td><td style="border-bottom-color: initial; border-bottom-width: initial; border-left-color: initial; border-left-width: initial; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid none none; border-top-color: initial; border-top-width: initial; height: 92px; padding: 0cm 2.25pt; vertical-align: top; width: 341px;" valign="top"><p><span style="font-size: small;">Зоны отдыха и спорта: парки и лесопарки, водоемы для оздоровительных целей, спортивные сооружения</span></p></td></tr><tr><td style="border-bottom-color: initial; border-bottom-width: initial; border-left-color: windowtext; border-left-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid; border-top-color: initial; border-top-width: initial; height: 172px; padding: 0cm 2.25pt; vertical-align: top; width: 181px;" valign="top"><p><span style="font-size: small;">Земли природоохранного и санитарно-гигиенического направления рекультивации</span></p></td><td style="border-bottom-color: initial; border-bottom-width: initial; border-left-color: initial; border-left-width: initial; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid none none; border-top-color: initial; border-top-width: initial; height: 172px; padding: 0cm 2.25pt; vertical-align: top; width: 341px;" valign="top"><p><span style="font-size: small;">Участки природоохранного назначения: противоэрозионные лесонасаждения, задернованные или обводненные участки, участки, закрепленные или законсервированные техническими средствами, не предназначенные для рекреации и не учитываемые при расчете зеленых насаждений общего пользования</span></p></td></tr><tr><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-left-color: windowtext; border-left-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid; border-top-color: initial; border-top-width: initial; height: 91px; padding: 0cm 2.25pt; vertical-align: top; width: 181px;" valign="top"><p><span style="font-size: small;">Земли строительного направления рекультивации</span></p></td><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-left-color: initial; border-left-width: initial; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; border-top-color: initial; border-top-width: initial; height: 91px; padding: 0cm 2.25pt; vertical-align: top; width: 341px;" valign="top"><p><span style="font-size: small;">Площадки для промышленного, гражданского и прочего строительства, включая размещение отходов производства и потребления</span></p></td></tr></tbody></table>
 
 *Таблица 5.4.12.2.*
 
-#### Классификация нарушенных земель по техногенному рельефу для рекультивации (по ГОСТ 17.5.1.02-85, с изменениями)
+#### []()Классификация нарушенных земель по техногенному рельефу для рекультивации (по ГОСТ 17.5.1.02-85, с изменениями)
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Группа нарушенных земель** | **Характеристика нарушенных земель по форме рельефа** | | | **Фактор, обусло-вливающий формирование рельефа** | | **Преобладающий элемент рельефа** | | **Морфометрическая характеристика рельефа** | | | | **Возможное использование** | |
-| **Глубина или высота относительно естественной поверхности, м** | **Угол откоса  уступов, град.** | | |
-| Земли, нарушенные при складировании промышленных, строительных и коммунально-бытовых отходов | | | | | | | | | | | | |  |
-| Отвалы | Плато-образные | | Размещение золы, шлака и отходов обогащения при одноярусном отвалообразовании (хвосто- и шламо- хранилищ, золоотвалов) с использованием транспортных средств | | Плато | | До 15 | | | До 35 | Лесонасаждения и задернованные участки природоохранного назначения. | |  |
-| Платообразные террасиро- ванные: | |  | |  | |  | | |  |  | |  |
-| средне-высокие | | Размещение золы, шлака и отходов обогащения при двухъярусном отвалообразовании с использованием транспортных средств | | Откосы, плато | | 15-50 | | | До 35 | Лесонасаждения и задернованные участки природоохранного назначения | |  |
-| высокие | | Размещение золы, шлака и отходов обогащения при многоярусном отвалообразовании с использованием транспортных средств | | То же | | Свыше 50 | | | До 35 | То же | |  |
-| Гребневидные | | Размещение отходов сухого обогащения полезных ископаемых с применением подвесной канатной дороги | | Системы гребней, откосы | | До 25 | | | До 50 | Лесонасаждения и задернованные участки природоохранного назначения. | |  |
-| Конические | | Размещение отходов сухого обогащения с применением скипов или опрокидных вагонеток | | Откосы | | Свыше 30 | | | 30-60 | Лесонасаждения и задернованные участки природоохранного назначения; зоны отдыха и спорта. | |  |
-| Земли, нарушенные при строительстве линейных сооружений | | | | | | | | | | | | |  |
-| Выемки земляные | Резервы | Извлечение горных пород для сооружения насыпи | | | Днища, откосы | | 5-10 | | | До 45 | Обводненные - водоемы природоохранного назначения, для орошения и рыбоводческие; сухие - лесонасаждения и задернованные участки природоохранного назначения | |  |
-| Канавы, кюветы | Строительство водоулавливающих и водоотводящих сооружений | | | Откосы | | До 5 | | | Свыше 30 | Обводненные - водоемы природоохранного назначения; сухие - лесонасаждения и задернованные участки природоохранного назначения | |  |
-| Насыпи земляные | Кавальеры, дамбы | Строительство гидротехнических сооружений, складирование избыточного объема горных пород, удаляемых из выемок | | | То же | | До 15 | | | Свыше 30 | Лесонасаждения и задернованные участки природоохранного назначения | |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0px;"><thead><tr><td rowspan="2" style="border: 1pt solid windowtext; padding: 0cm 2.25pt; vertical-align: top; width: 67.8pt;" valign="top" width="90"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><b>Группа нарушенных<br /></br>земель</b></p></td><td colspan="3" rowspan="2" style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 2.25pt; vertical-align: top; width: 72.9pt;" valign="top" width="97"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><b>Характеристика нарушенных<br /></br>земель по форме рельефа</b></p></td><td colspan="2" rowspan="2" style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 2.25pt; vertical-align: top; width: 78.4pt;" valign="top" width="105"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><b>Фактор, обусло-вливающий<br /></br>формирование рельефа</b></p></td><td colspan="2" rowspan="2" style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 2.25pt; vertical-align: top; width: 37.85pt;" valign="top" width="50"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><b>Преобладающий элемент рельефа</b></p></td><td colspan="4" style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 2.25pt; vertical-align: top; width: 92.05pt;" valign="top" width="123"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><b>Морфометрическая характеристика рельефа</b></p></td><td colspan="2" rowspan="2" style="border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; border-right: 1pt solid windowtext; border-top: 1pt solid windowtext; padding: 0cm 2.25pt; vertical-align: top; width: 153.15pt;" width="204"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><b>Возможное использование</b></p></td></tr><tr style="height: 189.9pt;"><td style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 189.9pt; padding: 0cm 2.25pt; vertical-align: top; width: 47.55pt;" valign="top" width="63"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><b>Глубина или высота<br /></br>относительно естественной поверхности, м</b></p><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><b> </b></p></td><td colspan="3" style="border-bottom: 1pt solid windowtext; border-left: none; border-right: 1pt solid windowtext; border-top: none; height: 189.9pt; padding: 0cm 2.25pt; vertical-align: top; width: 44.5pt;" valign="top" width="59"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><b>Угол откоса<br /></br> уступов, град.</b></p></td></tr></thead><tbody><tr><td colspan="13" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-left-color: windowtext; border-left-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid; height: 52px; padding: 0cm 2.25pt; vertical-align: top; width: 142px;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;"><u>Земли, нарушенные при складировании промышленных, строительных<br /></br>и коммунально-бытовых отходов</u></span></p></td><td style="border: none; padding: 0cm; vertical-align: top; width: 5px;"><p><span style="font-size: small;"> </span></p></td></tr><tr><td rowspan="6" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-left-color: windowtext; border-left-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid; height: 981px; padding: 0cm 2.25pt; vertical-align: top; width: 107px;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Отвалы</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top; width: 2px;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Плато-образные</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top; width: 145px;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Размещение золы, шлака и отходов обогащения при одноярусном отвалообразовании (хвосто- и шламо- хранилищ, золоотвалов) с использованием транспортных средств</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top; width: 129px;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Плато</span></p></td><td colspan="3" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top; width: 2px;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">До 15</span></p></td><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top; width: 76px;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">До 35</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Лесонасаждения и задернованные участки природоохранного назначения.</span></p></td><td style="border: none; padding: 0cm; vertical-align: top;"><p><span style="font-size: small;"> </span></p></td></tr><tr><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Платообразные террасиро- ванные:</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;"> </span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;"> </span></p></td><td colspan="3" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;"> </span></p></td><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;"> </span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;"> </span></p></td><td style="border: none; padding: 0cm; vertical-align: top;"><p><span style="font-size: small;"> </span></p></td></tr><tr><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">средне-высокие</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Размещение золы, шлака и отходов обогащения при двухъярусном отвалообразовании с использованием транспортных средств</span></p><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;"> </span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Откосы, плато</span></p></td><td colspan="3" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">15-50</span></p></td><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">До 35</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Лесонасаждения и задернованные участки природоохранного назначения</span></p></td><td style="border: none; padding: 0cm; vertical-align: top;"><p><span style="font-size: small;"> </span></p></td></tr><tr><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">высокие</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Размещение золы, шлака и отходов обогащения при многоярусном отвалообразовании с использованием транспортных средств</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">То же</span></p></td><td colspan="3" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">Свыше 50</span></p></td><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">До 35</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">То же</span></p></td><td style="border: none; padding: 0cm; vertical-align: top;"><p><span style="font-size: small;"> </span></p></td></tr><tr><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Гребневидные</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Размещение отходов сухого обогащения полезных ископаемых с применением подвесной канатной дороги</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Системы гребней, откосы</span></p></td><td colspan="3" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">До 25</span></p></td><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">До 50</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Лесонасаждения и задернованные участки природоохранного назначения.</span></p></td><td style="border: none; padding: 0cm; vertical-align: top;"><p><span style="font-size: small;"> </span></p></td></tr><tr><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Конические</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Размещение отходов сухого обогащения с применением скипов или опрокидных вагонеток</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Откосы</span></p></td><td colspan="3" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">Свыше 30</span></p></td><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">30-60</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Лесонасаждения и задернованные участки природоохранного назначения; зоны отдыха и спорта.</span></p></td><td style="border: none; padding: 0cm; vertical-align: top;"><p><span style="font-size: small;"> </span></p></td></tr><tr><td colspan="13" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-left-color: windowtext; border-left-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid; height: 51px; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;"><u>Земли, нарушенные при строительстве линейных сооружений</u></span></p></td><td style="border: none; padding: 0cm; vertical-align: top;"><p><span style="font-size: small;"> </span></p></td></tr><tr><td rowspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-left-color: windowtext; border-left-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid; height: 437px; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Выемки земляные</span></p></td><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top; width: 125px;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Резервы</span></p></td><td colspan="3" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Извлечение горных пород для сооружения насыпи</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Днища, откосы</span></p></td><td colspan="3" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">5-10</span></p></td><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">До 45</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Обводненные - водоемы природоохранного назначения, для орошения и рыбоводческие; сухие - лесонасаждения и задернованные участки природоохранного назначения</span></p></td><td style="border: none; padding: 0cm; vertical-align: top;"><p><span style="font-size: small;"> </span></p></td></tr><tr><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Канавы, кюветы</span></p></td><td colspan="3" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Строительство водоулавливающих и водоотводящих сооружений</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Откосы</span></p></td><td colspan="3" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">До 5</span></p></td><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">Свыше 30</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Обводненные - водоемы природоохранного назначения; сухие - лесонасаждения и задернованные участки природоохранного назначения</span></p></td><td style="border: none; padding: 0cm; vertical-align: top;"><p><span style="font-size: small;"> </span></p></td></tr><tr><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-left-color: windowtext; border-left-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid; height: 168px; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Насыпи земляные</span></p></td><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Кавальеры, дамбы</span></p></td><td colspan="3" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Строительство гидротехнических сооружений, складирование избыточного объема горных пород, удаляемых из выемок</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">То же</span></p></td><td colspan="3" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">До 15</span></p></td><td style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p align="center" style="margin: 6pt 2.85pt 0.0001pt; text-align: center;"><span style="font-size: small;">Свыше 30</span></p></td><td colspan="2" style="border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; border-style: none solid solid none; padding: 0cm 2.25pt; vertical-align: top;" valign="top"><p style="margin: 6pt 2.85pt 0.0001pt;"><span style="font-size: small;">Лесонасаждения и задернованные участки природоохранного назначения</span></p></td><td style="border: none; padding: 0cm; vertical-align: top;"><p><span style="font-size: small;"> </span></p></td></tr><tr height="0"><td style="border: none; height: 1px; vertical-align: top;"></td><td style="border: none; vertical-align: top;"></td><td style="border: none; vertical-align: top;"></td><td style="border: none; vertical-align: top; width: 6px;"></td><td style="border: none; vertical-align: top;"></td><td style="border: none; vertical-align: top; width: 4px;"></td><td style="border: none; vertical-align: top;"></td><td style="border: none; vertical-align: top; width: 5px;"></td><td style="border: none; vertical-align: top; width: 114px;"></td><td style="border: none; vertical-align: top;"></td><td style="border: none; vertical-align: top;"></td><td style="border: none; vertical-align: top; width: 2px;"></td><td style="border: none; vertical-align: top;"></td><td style="border: none; vertical-align: top;"></td></tr></tbody></table>
 
 Общий порядок рекультивационных мероприятий включает в себя два этапа: технический и биологический.
 
 Технический этап рекультивации (техническая рекультивация) - этап рекультивации земель, включающий их подготовку для последующего целевого использования.
 
-К техническому этапу относятся планировка, формирование откосов, снятие, транспортировка и нанесение почв и плодородных пород на рекультивируемые земли, при необходимости - мелиорация, строительство дорог, специальных гидротехнических
+К техническому этапу относятся планировка, формирование откосов, снятие, транспортировка и нанесение почв и плодородных пород на рекультивируемые земли, при необходимости - мелиорация, строительство дорог, специальных гидротехнических 
 
 сооружений и др.
 
-Биологический этап рекультивации (биологическая рекультивация) - этап рекультивации земель, включающий комплекс агротехнических и  фитомелиоративных мероприятий по восстановлению плодородия нарушенных земель .
+Биологический этап рекультивации (биологическая рекультивация) - этап рекультивации земель, включающий комплекс агротехнических и  фитомелиоративных мероприятий по восстановлению плодородия нарушенных земель .
 
 Земельные участки в период осуществления биологической рекультивации в лесохозяйственных целях должны проходить стадию мелиоративной подготовки.
 
-Общий срок биологических рекультивационных мероприятий составляет  не менее 5 лет. В этот срок не включается период ухода за лесными насаждениями, который должен производиться в соответствии с общими лесохозяйственными требованиями к уходу за одновозрастными лесонасаждениями.
+Общий срок биологических рекультивационных мероприятий составляет  не менее 5 лет. В этот срок не включается период ухода за лесными насаждениями, который должен производиться в соответствии с общими лесохозяйственными требованиями к уходу за одновозрастными лесонасаждениями.
 
 Решения Генерального плана предусматривают вывод АООТ Воронежсельмаш, ЖБИ №1, Военного аэродрома, части гаражей и комм-складов с территории городского округа г. Воронед. На площадях, которые занимали данные объекты предполагается строительство многоэтажных жилых домов и деловых центров, в связи с этим требуется проведение обследования почв на участках строительства. Перечень анализируемых параметров должен быть определен в соответствии с требованиями ГОСТ 17.4.2.01-81 и СанПиН 2.1.7.1287-03.
 
@@ -90,21 +66,23 @@ url: "/trebovania-po-rekultivacii-i-sanacii-territorij/"
 
 Первый:
 
-* участки, расположенные на месте ранее существовавших промышленных предприятий, в отношении которых можно ожидать повышенное содержание приоритетных экополлютантов, особо опасных ингредиентов, в том числе радиоактивных, наличие возбудителей особо опасных и карантинных инфекций;
-* участки, относимые к существующим или проектируемым ООПТ.
+- участки, расположенные на месте ранее существовавших промышленных предприятий, в отношении которых можно ожидать повышенное содержание приоритетных экополлютантов, особо опасных ингредиентов, в том числе радиоактивных, наличие возбудителей особо опасных и карантинных инфекций;
+
+- участки, относимые к существующим или проектируемым ООПТ.
 
 Второй:
 
-* участки, расположенные на территориях лечебно-оздоровительных учреждений, школ, ДДУ, спортплощадок;
-* участки, расположенные в жилой застройке, на которых размещены детские площадки.
+- участки, расположенные на территориях лечебно-оздоровительных учреждений, школ, ДДУ, спортплощадок;
 
- Третий:
+- участки, расположенные в жилой застройке, на которых размещены детские площадки.
 
-* участки, вне зависимости от назначения, используемые для рекреации.
+ Третий:
 
-В случае превышения установленных нормативов по исследованным ингредиентам и принятия решения о несоответствии территории требованиям санитарно-эпидемиологической безопасности решается вопрос о проведении рекультивационных, санационных, дезактивационных и дезинфекционных мероприятий.  Мероприятия могут включать: назначение дополнительных исследований, вывоз необходимых объемов грунтов, завоз грунтов и почв для землевания, биологические мероприятия, специализированные физические, химические и микробиологические методы санации.
+- участки, вне зависимости от назначения, используемые для рекреации. 
 
-При значительном превышении норм содержания токсических ингредиентов, а также при обнаружении приоритетных экополлютантов, особо опасных ингредиентов, в том числе радиоактивных, наличии возбудителей особо опасных и карантинных инфекций рекомендуется незамедлительно уведомить о сложившейся ситуации территориальное подразделение МЧС РФ, прекратить доступ на зараженную территорию и назначить проведение дополнительных исследований смежных участков, в том числе запечатанных.
+В случае превышения установленных нормативов по исследованным ингредиентам и принятия решения о несоответствии территории требованиям санитарно-эпидемиологической безопасности решается вопрос о проведении рекультивационных, санационных, дезактивационных и дезинфекционных мероприятий.  Мероприятия могут включать: назначение дополнительных исследований, вывоз необходимых объемов грунтов, завоз грунтов и почв для землевания, биологические мероприятия, специализированные физические, химические и микробиологические методы санации.
+
+При значительном превышении норм содержания токсических ингредиентов, а также при обнаружении приоритетных экополлютантов, особо опасных ингредиентов, в том числе радиоактивных, наличии возбудителей особо опасных и карантинных инфекций рекомендуется незамедлительно уведомить о сложившейся ситуации территориальное подразделение МЧС РФ, прекратить доступ на зараженную территорию и назначить проведение дополнительных исследований смежных участков, в том числе запечатанных. 
 
 Проект рекультивации разрабатывается специализированной организацией и согласуется в установленном порядке заинтересованными организациями.
 
@@ -114,315 +92,6 @@ url: "/trebovania-po-rekultivacii-i-sanacii-territorij/"
 
 Рекультивационные мероприятия, связанные с Воронежским водохранилищем должны быть учтены при планировании и проведении любых работ, связанных с изменением гидрологического режима водохранилища, его берегов, а также дноуглубительных работ.
 
-На территории АООТ Воронежсельмаш, ЖБИ №1, Военного аэродрома в соответствии с решениями Генерального плана, предполагается жилищное строительство. Перед использованием их для застройки требуют  проведения обследования почв на участках строительства. Перечень анализируемых параметров должен быть определен в соответствии с требованиями ГОСТ 17.4.2.01-81 и СанПиН 2.1.7.1287-03.
+На территории АООТ Воронежсельмаш, ЖБИ №1, Военного аэродрома в соответствии с решениями Генерального плана, предполагается жилищное строительство. Перед использованием их для застройки требуют  проведения обследования почв на участках строительства. Перечень анализируемых параметров должен быть определен в соответствии с требованиями ГОСТ 17.4.2.01-81 и СанПиН 2.1.7.1287-03.
 
-|  |  |  |
-| --- | --- | --- |
-| [Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/meropriatia-i-rekomendacii-po-reseniu-problem-svazannyh-s-obraseniem-s-othodami) | [Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-ii) | [Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/meropriatia-i-rekomendacii-po-ulucseniu-sostoania-okruzausej-sredy-v-centralnoj-istoriceskoj-casti-goroda) |
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-Ярлыки:
-[Воронеж](https://www.blagorussia.ru/search/label/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)
-[Генеральный план](https://www.blagorussia.ru/search/label/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD)
-
-
-
-### Комментарии
-
-#### Отправить комментарий
-
-
-
-
-### Популярные сообщения
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgSG21PyW3uyy9gRIrJtKW_kUnhoRKQurEbbgh3AB-QeObd1PbPEJRfpRUp9UIrPeFQOTuRwP57ZdPHiApc4O5ia53BfnKXH4T9ulanGJb0CnYM09ADPmPMVUJdSlrdiYmlnG66QCLYgep/s1600/%25D0%25BA%25D0%25BB%25D1%258E%25D1%2587%25D1%258C.jpg)](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[апреля 10, 2021](https://www.blagorussia.ru/2021/01/vidy-vlasti.html "permanent link")
-
-### [Виды власти](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/vidy-vlasti.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ubOiunilK6EZiGZ_dU5Aoe5XVQgssjrALIzVaevG80XhPSKgUXXp75O5K9kgXdgg19w_XCQSN3H1nm2zEPt6fLeGz3QpSC1LrrzXTrQo0_lLa-n9grMNG2vKBNaugXNxkxVH5DC0Wqe3/w458-h640/%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25BF%25D0%25BB%25D0%25B0%25D0%25BD.jpg)](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 03, 2020](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html "permanent link")
-
-### [Генеральный план города Воронеж](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI2tQMIKYVOeVrTEtKwdxrWMdy2vtZO3e_zbzC7dlH0gy-lhqUg8gDi-hBwg5YtWv66MvzEXUtE_fGmlzsFAwC1gWn9XEkKlCTZUBI64vCwrw0TCfWnZuAMUCTEI_8kzIdBMLswxP7TkrpL8g-azifWE7y-PkDapSeYuS4m6G-C3QX6tRtKcNTjCBdWH8/w640-h640/kandinsky-download-1695312877484.png)](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Автор:
-
-
-[Артем Диденко](https://www.blogger.com/profile/04844297396744788167 "author profile")
-
-
-[сентября 21, 2023](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html "permanent link")
-
-### [Основное применение информационных технологий в психологии](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[мая 21, 2020](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html "permanent link")
-
-### [Банковская система основной потребитель услуг тайных покупателей](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 04, 2021](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html "permanent link")
-
-### [Том I часть 1](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUjVMbfqHU9nc38wl7TjcJJSDVYaeyv-ajtATvLZovQa_xmta6nlzf9HjGtmmUlvgmxm46CCsBsco0aGu5oyY2BwYHyoz6Ad2gKDKidUjhxV-KaEUTJgXn3MmZ5_N21PPeAIfv1x-FTNXA/w458-h640/%25D1%2581%25D1%2585+%25D0%25B3%25D0%25BE%25D1%2580%25D0%25BE%25D0%25B4%25D1%2581%25D0%25BA+%25D0%25BF%25D0%25B0%25D1%2581%25D1%2581%25D0%25B0%25D0%25B6%25D0%25B8%25D1%2580%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B3%25D0%25BE+%25D1%2582%25D1%2580%25D0%25B0%25D0%25BD%25D1%2581%25D0%25BF.jpg)](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[ноября 24, 2020](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html "permanent link")
-
-### [Схема городского пассажирского транспорта](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июля 09, 2020](https://www.blagorussia.ru/2020/07/zilye-zony.html "permanent link")
-
-### [Жилые зоны](https://www.blagorussia.ru/2020/07/zilye-zony.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/07/zilye-zony.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[сентября 19, 2020](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html "permanent link")
-
-### [карты градостроительного зонирования](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 12, 2020](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html "permanent link")
-
-### [11. Инженерная подготовка территории](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 05, 2021](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html "permanent link")
-
-### [Характеристика и оценка экологического состояния водных объектов г. Воронежа](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html#comments)
-
-
-
-
-[Политика конфиденциальности](http://partnerstvo.blagorussia.ru/politika-konfidencialnosti)
-
-![](https://mc.yandex.ru/watch/21798445)
-
-![Top.Mail.Ru](https://top-fwz1.mail.ru/counter?id=2347426;js=na)
-
-[Технологии Blogger](https://www.blogger.com)
-
-@ 2010 - 2025 года
-
-
-
-
-
-### Перевести - Translate
-
-### Навигация по сайту
-
-* [Главная страница](https://blagorussia.blogspot.com/)
-* [Новости](https://novosti.blagorussia.ru/)
-* [О проекте](https://blagorussia.blogspot.com/2021/01/home.html)
-
-### Разделы
-
-* [Архивы75](https://www.blagorussia.ru/search/label/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D1%8B)
-* [Бесплатные курсы3](https://www.blagorussia.ru/search/label/%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%83%D1%80%D1%81%D1%8B)
-* [Воронеж582](https://www.blagorussia.ru/search/label/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)
-* [Генеральный план490](https://www.blagorussia.ru/search/label/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD)
-* [Демография1](https://www.blagorussia.ru/search/label/%D0%94%D0%B5%D0%BC%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F)
-* [Идеология48](https://www.blagorussia.ru/search/label/%D0%98%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-* [Италия1](https://www.blagorussia.ru/search/label/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F)
-* [Новости241](https://www.blagorussia.ru/search/label/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
-* [Партнерство79](https://www.blagorussia.ru/search/label/%D0%9F%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE)
-* [Психология1](https://www.blagorussia.ru/search/label/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-
-* [Содействие занятости1](https://www.blagorussia.ru/search/label/%D0%A1%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%BE%D1%81%D1%82%D0%B8)
-* [Статистика107](https://www.blagorussia.ru/search/label/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
-* [Технологии2](https://www.blagorussia.ru/search/label/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
-* [Цифровые профессии1](https://www.blagorussia.ru/search/label/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B8)
-
-Показать больше
-Показать меньше
-
-### Соцсети
-
-* [Группа Google](https://groups.google.com/g/BlagoRussia)
-* [Дзен](https://dzen.ru/blagorussia)
-
-### ВКонтакте
-
-### Одноклассники
-
-### Нас просмотрело:
-
-## Постоянные читатели
-
-### [Сообщить о нарушении](https://www.blogger.com/go/report-abuse)
-
-### Facebook
-
-> [Общественное благополучие](https://www.facebook.com/blagorussia)
+<table border="1" bordercolor="#888" cellspacing="0" style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px; margin: 0px; text-align: center;"><tbody><tr><td style="height: 19px; vertical-align: top; width: 263px;"><span style="font-size: small;">[Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/meropriatia-i-rekomendacii-po-reseniu-problem-svazannyh-s-obraseniem-s-othodami)</span></td><td style="height: 19px; vertical-align: top; width: 195px;"><span style="font-size: small;">[Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-ii)</span></td><td style="height: 19px; vertical-align: top; width: 287px;"><span style="font-size: small;">[Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/meropriatia-i-rekomendacii-po-ulucseniu-sostoania-okruzausej-sredy-v-centralnoj-istoriceskoj-casti-goroda)</span></td></tr></tbody></table>

@@ -6,344 +6,46 @@ aliases:
   - "/2020/11/predlozenia-po-realizacii-osnovnyh-napravlenij-i-meropriatij-po-sohraneniu-i-razvitiu-territorij-prirodnogo-kompleksa.html"
 url: "/predlozenia-po-realizacii-osnovnyh-napravlenij-i-meropriatij-po-sohraneniu-i-razvitiu-territorij-prirodnogo-kompleksa/"
 ---
+<table border="1" bordercolor="#888" cellspacing="0" style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px; font-family: &quot;trebuchet ms&quot;, sans-serif; margin: 0px;"><tbody><tr><td style="height: 19px; vertical-align: top; width: 263px;"><span style="font-size: small;">[Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/predlozenia-po-territoriam-rekreacionnogo-naznacenia)</span></td><td style="height: 19px; vertical-align: top; width: 195px;"><span style="font-size: small;">[Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-ii)</span></td><td style="height: 19px; vertical-align: top; width: 287px;"><span style="font-size: small;">[Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/zony-ekologiceski-obuslovlennyh-ogranicenij-na-ispolzovanie-territorij-goroda)</span></td></tr></tbody></table>
 
-|  |  |  |
-| --- | --- | --- |
-| [Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/predlozenia-po-territoriam-rekreacionnogo-naznacenia) | [Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-ii) | [Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/zony-ekologiceski-obuslovlennyh-ogranicenij-na-ispolzovanie-territorij-goroda) |
-
-## 5.4.3.4. Предложения по реализации основных направлений и мероприятий по сохранению и развитию территорий Природного комплекса
+## []()5.4.3.4. Предложения по реализации основных направлений и мероприятий по сохранению и развитию территорий Природного комплекса
 
 В целях неотложного принятия мер по сохранению и развитию территорий Природного комплекса г. Воронежа, предлагается:
 
-* принятие нормативных документов на уровне городского округа г. Воронеж для придания статуса особо охраняемых природных территорий, предлагаемым проектными решениями Генерального плана территориям особой экологической ответственности;
-* реализация утвержденной Программы мероприятий по оздоровлению Воронежского водохранилища;
-* обратиться в Минприроды России и администрацию Воронежской области о создании на территории города и области природного парка межрегионального значения "Усманский бор", включая правобережные нагорные дубравы г. Воронежа;
-* разработать методику расчета возмещения вреда от уничтожения зеленых насаждений в результате градостроительной или иной деятельности;
-* разработать территориальный кадастр территорий Природного комплекса с установлением границ отдельных его составляющих и режимов регулирования градостроительной деятельности на их территории;
-* провести инвентаризацию и паспортизацию всех участков озеленения в составе жилой, общественной и производственной застройки с закреплением отводов в границах красных линий, в том числе питомников и цветочно-оранжерейных хозяйств;
-* разработать программы по оздоровлению территорий центра города и промышленно-коммунальных зон;
-* разработать на стадии проектов планировки комплекс мероприятий по озеленению и благоустройству отдельных территорий Природного комплекса, входящих в границы разработки этих проектов;
-* разработать проекты благоустройства территорий лесопарков с целью снижения несанкционированной рекреационной нагрузки на природные территории, примыкающие к ним;
-* разработать блок законодательных актов по защите ПК, включая:
+- принятие нормативных документов на уровне городского округа г. Воронеж для придания статуса особо охраняемых природных территорий, предлагаемым проектными решениями Генерального плана территориям особой экологической ответственности;
 
-+ нормативные документы, включающие регламентируемые показатели градостроительной деятельности на территориях Природного комплекса города Воронежа.
+- реализация утвержденной Программы мероприятий по оздоровлению Воронежского водохранилища;
+
+- обратиться в Минприроды России и администрацию Воронежской области о создании на территории города и области природного парка межрегионального значения "Усманский бор", включая правобережные нагорные дубравы г. Воронежа;
+
+- разработать методику расчета возмещения вреда от уничтожения зеленых насаждений в результате градостроительной или иной деятельности;
+
+- разработать территориальный кадастр территорий Природного комплекса с установлением границ отдельных его составляющих и режимов регулирования градостроительной деятельности на их территории;
+
+- провести инвентаризацию и паспортизацию всех участков озеленения в составе жилой, общественной и производственной застройки с закреплением отводов в границах красных линий, в том числе питомников и цветочно-оранжерейных хозяйств;
+
+- разработать программы по оздоровлению территорий центра города и промышленно-коммунальных зон;
+
+- разработать на стадии проектов планировки комплекс мероприятий по озеленению и благоустройству отдельных территорий Природного комплекса, входящих в границы разработки этих проектов;
+
+- разработать проекты благоустройства территорий лесопарков с целью снижения несанкционированной рекреационной нагрузки на природные территории, примыкающие к ним;
+
+- разработать блок законодательных актов по защите ПК, включая:
+
+- нормативные документы, включающие регламентируемые показатели градостроительной деятельности на территориях Природного комплекса города Воронежа.
 
 Регламентации подлежат:
 
-* соотношения элементов территории занятых зелеными насаждениями и элементами благоустройства; расстояния от зданий и сооружений до древесного яруса, отдельных деревьев и водных объектов;
-* размещение зданий и сооружений на проектируемом участке;
-* габариты допускаемой застройки и ее назначение;
-* материалы, используемые на территориях Природного комплекса для покрытия хозяйственных площадок, прогулочных дорог, площадок отдыха;  - густота и трассировка дорожно-тропиночной сети, насыщенность территории малыми архитектурными формами, их виды, размещение, материалы;
-* площадь приобъектной озелененной территории;
-* предельно-допустимая рекреационная нагрузка на территориях Природного комплекса.
+- соотношения элементов территории занятых зелеными насаждениями и элементами благоустройства; расстояния от зданий и сооружений до древесного яруса, отдельных деревьев и водных объектов;
 
-|  |  |  |
-| --- | --- | --- |
-| [Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/predlozenia-po-territoriam-rekreacionnogo-naznacenia) | [Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-ii) | [Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/zony-ekologiceski-obuslovlennyh-ogranicenij-na-ispolzovanie-territorij-goroda) |
+- размещение зданий и сооружений на проектируемом участке;
 
-Поделиться
+-  габариты допускаемой застройки и ее назначение;
 
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
+- материалы, используемые на территориях Природного комплекса для покрытия хозяйственных площадок, прогулочных дорог, площадок отдыха;  - густота и трассировка дорожно-тропиночной сети, насыщенность территории малыми архитектурными формами, их виды, размещение, материалы;
 
-Ярлыки:
-[Воронеж](https://www.blagorussia.ru/search/label/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)
-[Генеральный план](https://www.blagorussia.ru/search/label/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD)
+- площадь приобъектной озелененной территории;
 
+- предельно-допустимая рекреационная нагрузка на территориях Природного комплекса.
 
-
-### Комментарии
-
-#### Отправить комментарий
-
-
-
-
-### Популярные сообщения
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgSG21PyW3uyy9gRIrJtKW_kUnhoRKQurEbbgh3AB-QeObd1PbPEJRfpRUp9UIrPeFQOTuRwP57ZdPHiApc4O5ia53BfnKXH4T9ulanGJb0CnYM09ADPmPMVUJdSlrdiYmlnG66QCLYgep/s1600/%25D0%25BA%25D0%25BB%25D1%258E%25D1%2587%25D1%258C.jpg)](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[апреля 10, 2021](https://www.blagorussia.ru/2021/01/vidy-vlasti.html "permanent link")
-
-### [Виды власти](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/vidy-vlasti.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ubOiunilK6EZiGZ_dU5Aoe5XVQgssjrALIzVaevG80XhPSKgUXXp75O5K9kgXdgg19w_XCQSN3H1nm2zEPt6fLeGz3QpSC1LrrzXTrQo0_lLa-n9grMNG2vKBNaugXNxkxVH5DC0Wqe3/w458-h640/%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25BF%25D0%25BB%25D0%25B0%25D0%25BD.jpg)](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 03, 2020](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html "permanent link")
-
-### [Генеральный план города Воронеж](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI2tQMIKYVOeVrTEtKwdxrWMdy2vtZO3e_zbzC7dlH0gy-lhqUg8gDi-hBwg5YtWv66MvzEXUtE_fGmlzsFAwC1gWn9XEkKlCTZUBI64vCwrw0TCfWnZuAMUCTEI_8kzIdBMLswxP7TkrpL8g-azifWE7y-PkDapSeYuS4m6G-C3QX6tRtKcNTjCBdWH8/w640-h640/kandinsky-download-1695312877484.png)](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Автор:
-
-
-[Артем Диденко](https://www.blogger.com/profile/04844297396744788167 "author profile")
-
-
-[сентября 21, 2023](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html "permanent link")
-
-### [Основное применение информационных технологий в психологии](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[мая 21, 2020](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html "permanent link")
-
-### [Банковская система основной потребитель услуг тайных покупателей](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 04, 2021](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html "permanent link")
-
-### [Том I часть 1](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUjVMbfqHU9nc38wl7TjcJJSDVYaeyv-ajtATvLZovQa_xmta6nlzf9HjGtmmUlvgmxm46CCsBsco0aGu5oyY2BwYHyoz6Ad2gKDKidUjhxV-KaEUTJgXn3MmZ5_N21PPeAIfv1x-FTNXA/w458-h640/%25D1%2581%25D1%2585+%25D0%25B3%25D0%25BE%25D1%2580%25D0%25BE%25D0%25B4%25D1%2581%25D0%25BA+%25D0%25BF%25D0%25B0%25D1%2581%25D1%2581%25D0%25B0%25D0%25B6%25D0%25B8%25D1%2580%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B3%25D0%25BE+%25D1%2582%25D1%2580%25D0%25B0%25D0%25BD%25D1%2581%25D0%25BF.jpg)](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[ноября 24, 2020](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html "permanent link")
-
-### [Схема городского пассажирского транспорта](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июля 09, 2020](https://www.blagorussia.ru/2020/07/zilye-zony.html "permanent link")
-
-### [Жилые зоны](https://www.blagorussia.ru/2020/07/zilye-zony.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/07/zilye-zony.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[сентября 19, 2020](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html "permanent link")
-
-### [карты градостроительного зонирования](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 12, 2020](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html "permanent link")
-
-### [11. Инженерная подготовка территории](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 05, 2021](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html "permanent link")
-
-### [Характеристика и оценка экологического состояния водных объектов г. Воронежа](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html#comments)
-
-
-
-
-[Политика конфиденциальности](http://partnerstvo.blagorussia.ru/politika-konfidencialnosti)
-
-![](https://mc.yandex.ru/watch/21798445)
-
-![Top.Mail.Ru](https://top-fwz1.mail.ru/counter?id=2347426;js=na)
-
-[Технологии Blogger](https://www.blogger.com)
-
-@ 2010 - 2025 года
-
-
-
-
-
-### Перевести - Translate
-
-### Навигация по сайту
-
-* [Главная страница](https://blagorussia.blogspot.com/)
-* [Новости](https://novosti.blagorussia.ru/)
-* [О проекте](https://blagorussia.blogspot.com/2021/01/home.html)
-
-### Разделы
-
-* [Архивы75](https://www.blagorussia.ru/search/label/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D1%8B)
-* [Бесплатные курсы3](https://www.blagorussia.ru/search/label/%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%83%D1%80%D1%81%D1%8B)
-* [Воронеж582](https://www.blagorussia.ru/search/label/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)
-* [Генеральный план490](https://www.blagorussia.ru/search/label/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD)
-* [Демография1](https://www.blagorussia.ru/search/label/%D0%94%D0%B5%D0%BC%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F)
-* [Идеология48](https://www.blagorussia.ru/search/label/%D0%98%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-* [Италия1](https://www.blagorussia.ru/search/label/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F)
-* [Новости241](https://www.blagorussia.ru/search/label/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
-* [Партнерство79](https://www.blagorussia.ru/search/label/%D0%9F%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE)
-* [Психология1](https://www.blagorussia.ru/search/label/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-
-* [Содействие занятости1](https://www.blagorussia.ru/search/label/%D0%A1%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%BE%D1%81%D1%82%D0%B8)
-* [Статистика107](https://www.blagorussia.ru/search/label/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
-* [Технологии2](https://www.blagorussia.ru/search/label/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
-* [Цифровые профессии1](https://www.blagorussia.ru/search/label/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B8)
-
-Показать больше
-Показать меньше
-
-### Соцсети
-
-* [Группа Google](https://groups.google.com/g/BlagoRussia)
-* [Дзен](https://dzen.ru/blagorussia)
-
-### ВКонтакте
-
-### Одноклассники
-
-### Нас просмотрело:
-
-## Постоянные читатели
-
-### [Сообщить о нарушении](https://www.blogger.com/go/report-abuse)
-
-### Facebook
-
-> [Общественное благополучие](https://www.facebook.com/blagorussia)
+<table border="1" bordercolor="#888" cellspacing="0" style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px; margin: 0px; text-align: center;"><tbody><tr><td style="height: 19px; vertical-align: top; width: 263px;"><span style="font-size: small;">[Предыдущая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/predlozenia-po-territoriam-rekreacionnogo-naznacenia)</span></td><td style="height: 19px; vertical-align: top; width: 195px;"><span style="font-size: small;">[Оглавление](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/tom-ii)</span></td><td style="height: 19px; vertical-align: top; width: 287px;"><span style="font-size: small;">[Следующая страница](http://www.blagorussia.ru/generalnyj-plan-goroda-voronez/zony-ekologiceski-obuslovlennyh-ogranicenij-na-ispolzovanie-territorij-goroda)<br /></br></span></td></tr></tbody></table>

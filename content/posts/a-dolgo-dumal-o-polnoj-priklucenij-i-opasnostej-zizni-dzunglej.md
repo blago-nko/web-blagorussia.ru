@@ -6,351 +6,40 @@ aliases:
   - "/2021/02/a-dolgo-dumal-o-polnoj-priklucenij-i-opasnostej-zizni-dzunglej.html"
 url: "/a-dolgo-dumal-o-polnoj-priklucenij-i-opasnostej-zizni-dzunglej/"
 ---
-
 **Внимание!**
 
 Проект "[Образ будущего - новая идеология](https://ideologia.obrazslov.ru/)" открыт 4 декабря 2017 года.
 
-Эта страница уже устарела.
+Эта страница уже устарела. 
 
-Для просмотра нового сайта перейдите на проект **"[Образ будущего - новая идеология](https://ideologia.obrazslov.ru/)".**
+Для просмотра нового сайта перейдите на проект **"[Образ будущего - новая идеология](https://ideologia.obrazslov.ru/)".**
 
-**<https://ideologia.obrazslov.ru/2017/12/vrema-geroev.html>**
+[**https://ideologia.obrazslov.ru/2017/12/vrema-geroev.html**](https://ideologia.obrazslov.ru/2017/12/vrema-geroev.html)
 
----
+<iframe src="https://pagead2.googlesyndication.com/pagead/ads?guci=2.2.0.0.2.2.0.0&client=ca-pub-8373848188586308&output=html&h=90&adk=2773093492&adf=312816614&w=728&lmt=1612968308&ad_type=text_image&format=728x90_as&color_bg=FFFFFF&color_border=FFFFFF&color_link=000000&color_text=000000&color_url=336699&url=https%3A%2F%2Fsites.google.com%2Fsite%2Fblagorussia1%2Fevolucia%2Fvrema-geroev%2Fa-dolgo-dumal-o-polnoj-priklucenij-i-opasnostej-zizni-dzunglej&flash=0&host=pub-6693688277674466&wgl=1&dt=1613067608113&bpp=22&bdt=2759&idt=3567&shv=r20210208&cbv=r20190131&ptt=5&saldr=sa&abxe=1&cookie=ID%3Ddb37db62996020f6-22b06d3389b900d8%3AT%3D1610535596%3ART%3D1610535596%3AS%3DALNI_MZjBe0LkzIJV946--Ne3pOIQlpGdQ&prev_fmts=728x90_as&correlator=6237157836111&frm=20&pv=1&ga_vid=668777162.1598037554&ga_sid=1613067609&ga_hid=324075655&ga_fc=0&u_tz=180&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=3&u_nmime=4&adx=476&ady=572&biw=1904&bih=1007&scr_x=0&scr_y=0&eid=44736623%2C21068769%2C21068893&oid=3&pvsid=515312355593571&pem=566&ref=https%3A%2F%2Fsites.google.com%2Fsite%2Fblagorussia1%2Fsystem%2Fapp%2Fpages%2Fsitemap%2Fhierarchy&rx=0&eae=0&fc=640&brdim=0%2C0%2C0%2C0%2C1920%2C0%2C1920%2C1080%2C1920%2C1007&vis=1&rsz=%7C%7CeoE%7C&abl=CS&pfx=0&fu=8192&bc=31&ifi=2&uci=a!2&fsb=1&xpc=OhzQ7KpHgd&p=https%3A//sites.google.com&dtd=3611" width="640" height="480" style="border:0"></iframe>
 
-|  |  |
-| --- | --- |
-| [Оглавление](http://www.blagorussia.ru/evolucia/vrema-geroev) | [Следующая страница](http://www.blagorussia.ru/evolucia/vrema-geroev/u-mena-net-bumagi-ot-kardinala-no-pervym-projdu-a) |
+<table border="1" bordercolor="#888" cellspacing="0" style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px; margin: 0px;"><tbody><tr><td style="height: 21px; text-align: center; vertical-align: top; width: 412px;"> [Оглавление](http://www.blagorussia.ru/evolucia/vrema-geroev)</td><td style="height: 21px; text-align: center; vertical-align: top; width: 332px;"> [Следующая страница](http://www.blagorussia.ru/evolucia/vrema-geroev/u-mena-net-bumagi-ot-kardinala-no-pervym-projdu-a)</td></tr></tbody></table>
 
-  
+[](http://nasa-istoria.blagorussia.ru/biografii/gabrielov-konstantin-anatolevic)
 
-[![http://nasa-istoria.blagorussia.ru/biografii/gabrielov-konstantin-anatolevic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSpy8uWvZVCttI-77SZMKv8U0cAVX_LGnQOqTH_2p9Qvzf-75tc_kWS0F8SxSzxVbCFCwmP3KZdpDwNBxRp5aYQjFQrfUgtFFnoIRJa8XOy8UkkAuNTBTJo1cMujfKAc2rocReM2hJYGYs/s1600/%25D1%2584+-4.JPG)](http://nasa-istoria.blagorussia.ru/biografii/gabrielov-konstantin-anatolevic)
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSpy8uWvZVCttI-77SZMKv8U0cAVX_LGnQOqTH_2p9Qvzf-75tc_kWS0F8SxSzxVbCFCwmP3KZdpDwNBxRp5aYQjFQrfUgtFFnoIRJa8XOy8UkkAuNTBTJo1cMujfKAc2rocReM2hJYGYs/s1600/%25D1%2584+-4.JPG" alt="http://nasa-istoria.blagorussia.ru/biografii/gabrielov-konstantin-anatolevic" title="http://nasa-istoria.blagorussia.ru/biografii/gabrielov-konstantin-anatolevic">
 
-**`Я долго думал о полной приключений`**
+**Я долго думал о полной приключений**
 
-**`и опасностей жизни джунглей…`**
+**и опасностей жизни джунглей…**
 
-**`(А. де Сент-Экзюпери)`**
+**(А. де Сент-Экзюпери)**
 
 Началось с того, что меня заинтересовали побудительные мотивы литературных героев последних полутора веков. Авторы посылают их покорять северный полюс, нырять в жерло вулкана, подниматься в космос, бросаться внутрь звезды, в очередную дуэль с юной ведьмой, или роман с роботессой, падать грудью на амбразуру, голым задом на ежа, глотать пустоту и творить прочие, не приносящие никакой личной выгоды дела. И ведь что смешно - выглядят эти сказочные всплески жертвенности довольно убедительно. Но... Зачастую трудно бывает понять – что заставляет героев совершать эти и другие действия, совершенно не объяснимые здоровым прагматизмом? Несмотря на кажущуюся простоту вопроса, над этой загадкой стоит задуматься. Мне хотелось докопаться до глубины, которая является «зазеркальем» любого человеческого действия, в том числе и подвига. И вот, при анализе мотиваций литературных героев, как-то неожиданно, как-то само собой проявилось интереснейшее явление в развитии общественного сознания.
 
 . . .
 
-Отражаются ли в творчестве вообще и литературе в частности процессы происходящие в обществе? Можно ли проследить спады и подъёмы общественного сознания по литературным произведениям? Наверное - да, так как творчество, а особенно литературное - это зеркало и диагност общества. Из литературного источника мы узнаём про общепринятые нормы, которые мотивируют человеческие поступки. Ведь мы отлично знаем, что абсолютно одинаковые действия, люди совершали по совершенно разным причинам. Яркий пример этому – война. Ацтеки, например, - вели войны для захвата пленных, чтобы благочестиво принести их в жертву богам; Рим - боролся исключительно за налогооблагаемую базу; а Ричард Львиное Сердце у **Шекспира** (к стыду своему не помню в чьём переводе), вдохновляет своих рыцарей на подвиг лозунгом - «Мы будем ихних баб брюхатить!». Так что, по удивительно точному определению **А. Вознесенского** – «Какое время на дворе – таков мессИя». И сейчас я предлагаю Вам рассмотреть как душу «мессИй» - то есть литературных героев, выражающих дыхание своего времени, так и сам дух (или тон), который вызвал этих мессИй к жизни.
+Отражаются ли в творчестве вообще и литературе в частности процессы происходящие в обществе? Можно ли проследить спады и подъёмы общественного сознания по литературным произведениям? Наверное - да, так как творчество, а особенно литературное - это зеркало и диагност общества. Из литературного источника мы узнаём про общепринятые нормы, которые мотивируют человеческие поступки. Ведь мы отлично знаем, что абсолютно одинаковые действия, люди совершали по совершенно разным причинам. Яркий пример этому – война. Ацтеки, например, - вели войны для захвата пленных, чтобы благочестиво принести их в жертву богам; Рим - боролся исключительно за налогооблагаемую базу; а Ричард Львиное Сердце у **Шекспира**(к стыду своему не помню в чьём переводе), вдохновляет своих рыцарей на подвиг лозунгом - «Мы будем ихних баб брюхатить!». Так что, по удивительно точному определению** А. Вознесенского** – «Какое время на дворе – таков мессИя». И сейчас я предлагаю Вам рассмотреть как душу «мессИй» - то есть литературных героев, выражающих дыхание своего времени, так и сам дух (или тон), который вызвал этих мессИй к жизни.
 
-Чтобы по возможности избежать эмоциональных оценок типа: «Ах - как хорошо!», или «Фу - как плохо!», в качестве критерия можно взять «Мотивационную пирамиду» **А. Маслоу**, подкрепив её иерархической системой созданной в Индии в незапамятные времена. По сути это почти одинаковые ценностные мерила, они всего лишь выражены на языках разных культур.
+Чтобы по возможности избежать эмоциональных оценок типа: «Ах - как хорошо!», или «Фу - как плохо!», в качестве критерия можно взять «Мотивационную пирамиду» **А. Маслоу**, подкрепив её иерархической системой созданной в Индии в незапамятные времена. По сути это почти одинаковые ценностные мерила, они всего лишь выражены на языках разных культур.
 
 . . .
 
 А теперь давайте обратимся к Идее, в самых разных жанрах и направлениях литературы. Я имею в виду ту самую, Высокую Идею, которая не продаётся за деньги, не разменивается на почести и которая способна вдохновить на подвиг истинного Героя – настоящего Человека. Эта та самая Идея, которая вне зависимости от сюжета, служит оправданием не только тех или иных действий героя, но и самого факта его – героя - существования. Несчастный, потерявший эту Идею, теряет вместе с ней представление о добре и справедливости, своё место и предназначение в жизни. Это та Идея, без которой жизнь - как отдельного человека, так и общества в целом погрязает в трясине серости, и будучи ненаполненной и неинтересной – просто вхолостую истлевает.
 
-|  |  |
-| --- | --- |
-| [Оглавление](http://www.blagorussia.ru/evolucia/vrema-geroev) | [Следующая страница](http://www.blagorussia.ru/evolucia/vrema-geroev/u-mena-net-bumagi-ot-kardinala-no-pervym-projdu-a) |
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-Ярлыки:
-[Идеология](https://www.blagorussia.ru/search/label/%D0%98%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-
-
-
-### Комментарии
-
-#### Отправить комментарий
-
-
-
-
-### Популярные сообщения
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgSG21PyW3uyy9gRIrJtKW_kUnhoRKQurEbbgh3AB-QeObd1PbPEJRfpRUp9UIrPeFQOTuRwP57ZdPHiApc4O5ia53BfnKXH4T9ulanGJb0CnYM09ADPmPMVUJdSlrdiYmlnG66QCLYgep/s1600/%25D0%25BA%25D0%25BB%25D1%258E%25D1%2587%25D1%258C.jpg)](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[апреля 10, 2021](https://www.blagorussia.ru/2021/01/vidy-vlasti.html "permanent link")
-
-### [Виды власти](https://www.blagorussia.ru/2021/01/vidy-vlasti.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/vidy-vlasti.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ubOiunilK6EZiGZ_dU5Aoe5XVQgssjrALIzVaevG80XhPSKgUXXp75O5K9kgXdgg19w_XCQSN3H1nm2zEPt6fLeGz3QpSC1LrrzXTrQo0_lLa-n9grMNG2vKBNaugXNxkxVH5DC0Wqe3/w458-h640/%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25BF%25D0%25BB%25D0%25B0%25D0%25BD.jpg)](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 03, 2020](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html "permanent link")
-
-### [Генеральный план города Воронеж](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/generalnyj-plan-goroda-voronezh.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI2tQMIKYVOeVrTEtKwdxrWMdy2vtZO3e_zbzC7dlH0gy-lhqUg8gDi-hBwg5YtWv66MvzEXUtE_fGmlzsFAwC1gWn9XEkKlCTZUBI64vCwrw0TCfWnZuAMUCTEI_8kzIdBMLswxP7TkrpL8g-azifWE7y-PkDapSeYuS4m6G-C3QX6tRtKcNTjCBdWH8/w640-h640/kandinsky-download-1695312877484.png)](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Автор:
-
-
-[Артем Диденко](https://www.blogger.com/profile/04844297396744788167 "author profile")
-
-
-[сентября 21, 2023](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html "permanent link")
-
-### [Основное применение информационных технологий в психологии](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2023/09/osnovnoe-primenenie-informacionnyh-tekhnologij-v-psihologii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[мая 21, 2020](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html "permanent link")
-
-### [Банковская система основной потребитель услуг тайных покупателей](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/05/bankovskaa-sistema-osnovnoj-potrebitel-uslug-tajnyh-pokupatelej.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 04, 2021](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html "permanent link")
-
-### [Том I часть 1](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/tom-i-cast-1.html#comments)
-
-[![Изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUjVMbfqHU9nc38wl7TjcJJSDVYaeyv-ajtATvLZovQa_xmta6nlzf9HjGtmmUlvgmxm46CCsBsco0aGu5oyY2BwYHyoz6Ad2gKDKidUjhxV-KaEUTJgXn3MmZ5_N21PPeAIfv1x-FTNXA/w458-h640/%25D1%2581%25D1%2585+%25D0%25B3%25D0%25BE%25D1%2580%25D0%25BE%25D0%25B4%25D1%2581%25D0%25BA+%25D0%25BF%25D0%25B0%25D1%2581%25D1%2581%25D0%25B0%25D0%25B6%25D0%25B8%25D1%2580%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B3%25D0%25BE+%25D1%2582%25D1%2580%25D0%25B0%25D0%25BD%25D1%2581%25D0%25BF.jpg)](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[ноября 24, 2020](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html "permanent link")
-
-### [Схема городского пассажирского транспорта](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/11/sh-gorodsk-passazirskogo-transporta.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июля 09, 2020](https://www.blagorussia.ru/2020/07/zilye-zony.html "permanent link")
-
-### [Жилые зоны](https://www.blagorussia.ru/2020/07/zilye-zony.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/07/zilye-zony.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[сентября 19, 2020](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html "permanent link")
-
-### [карты градостроительного зонирования](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/09/karty-gradostroitelnogo-zonirovania.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[июня 12, 2020](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html "permanent link")
-
-### [11. Инженерная подготовка территории](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2020/06/11-inzenernaa-podgotovka-territorii.html#comments)
-
-Автор:
-
-
-[Александр Бобров](https://www.blogger.com/profile/03771662766477114754 "author profile")
-
-
-[января 05, 2021](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html "permanent link")
-
-### [Характеристика и оценка экологического состояния водных объектов г. Воронежа](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html)
-
-Поделиться
-
-* Получить ссылку
-* Facebook
-* X
-* Pinterest
-* Электронная почта
-* Другие приложения
-
-[Отправить комментарий](https://www.blagorussia.ru/2021/01/harakteristika-i-ocenka-ekologiceskogo-sostoania-vodnyh-obektov-g-voroneza.html#comments)
-
-
-
-
-[Политика конфиденциальности](http://partnerstvo.blagorussia.ru/politika-konfidencialnosti)
-
-![](https://mc.yandex.ru/watch/21798445)
-
-![Top.Mail.Ru](https://top-fwz1.mail.ru/counter?id=2347426;js=na)
-
-[Технологии Blogger](https://www.blogger.com)
-
-@ 2010 - 2025 года
-
-
-
-
-
-### Перевести - Translate
-
-### Навигация по сайту
-
-* [Главная страница](https://blagorussia.blogspot.com/)
-* [Новости](https://novosti.blagorussia.ru/)
-* [О проекте](https://blagorussia.blogspot.com/2021/01/home.html)
-
-### Разделы
-
-* [Архивы75](https://www.blagorussia.ru/search/label/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D1%8B)
-* [Бесплатные курсы3](https://www.blagorussia.ru/search/label/%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%83%D1%80%D1%81%D1%8B)
-* [Воронеж582](https://www.blagorussia.ru/search/label/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)
-* [Генеральный план490](https://www.blagorussia.ru/search/label/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD)
-* [Демография1](https://www.blagorussia.ru/search/label/%D0%94%D0%B5%D0%BC%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F)
-* [Идеология48](https://www.blagorussia.ru/search/label/%D0%98%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-* [Италия1](https://www.blagorussia.ru/search/label/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F)
-* [Новости241](https://www.blagorussia.ru/search/label/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
-* [Партнерство79](https://www.blagorussia.ru/search/label/%D0%9F%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE)
-* [Психология1](https://www.blagorussia.ru/search/label/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
-
-* [Содействие занятости1](https://www.blagorussia.ru/search/label/%D0%A1%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%BE%D1%81%D1%82%D0%B8)
-* [Статистика107](https://www.blagorussia.ru/search/label/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
-* [Технологии2](https://www.blagorussia.ru/search/label/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
-* [Цифровые профессии1](https://www.blagorussia.ru/search/label/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B8)
-
-Показать больше
-Показать меньше
-
-### Соцсети
-
-* [Группа Google](https://groups.google.com/g/BlagoRussia)
-* [Дзен](https://dzen.ru/blagorussia)
-
-### ВКонтакте
-
-### Одноклассники
-
-### Нас просмотрело:
-
-## Постоянные читатели
-
-### [Сообщить о нарушении](https://www.blogger.com/go/report-abuse)
-
-### Facebook
-
-> [Общественное благополучие](https://www.facebook.com/blagorussia)
+<table border="1" bordercolor="#888" cellspacing="0" style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px; margin: 0px;"><tbody><tr><td style="height: 21px; text-align: center; vertical-align: top; width: 412px;"> [Оглавление](http://www.blagorussia.ru/evolucia/vrema-geroev)</td><td style="height: 21px; text-align: center; vertical-align: top; width: 332px;"> [Следующая страница](http://www.blagorussia.ru/evolucia/vrema-geroev/u-mena-net-bumagi-ot-kardinala-no-pervym-projdu-a)<br /></br></td></tr></tbody></table>
