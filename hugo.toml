@@ -1,0 +1,26 @@
+baseURL = "https://blago-nko.github.io/web-blagorussia.ru/"
+languageCode = "ru-ru"
+title = "Благо России"
+theme = ""
+publishDir = "public"
+
+[params]
+  description = "Миграция с Blogger"
+  author = "Благо"
+
+[permalinks]
+  posts = "/:filename/"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
+[markup.goldmark.renderer]
+  unsafe = true
