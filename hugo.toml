@@ -1,7 +1,6 @@
 baseURL = "https://blago-nko.github.io/web-blagorussia.ru/"
 languageCode = "ru-ru"
 title = "Благо России"
-theme = ""
 publishDir = "public"
 
 [params]
